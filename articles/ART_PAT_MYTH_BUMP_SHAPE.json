@@ -1,0 +1,36 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_BUMP_SHAPE",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„По формата на корема се познава полът.“",
+    "en": "\"The shape of the bump tells you the sex.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не. Формата на корема зависи от телосложението ѝ, от коремната мускулатура, от положението на бебето и от това кое поред е раждането — не от пола. Полът се установява с ехография или с генетичен тест по време на проследяването.",
+      "en": "No. The shape of the bump depends on her build, her abdominal muscles, the baby’s position and whether it is a first or later pregnancy — not on the sex. Sex is established by ultrasound or a genetic test during antenatal care."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_11",
+      "citation": "Поверие (A48) · клиничното изброяване е на д-р Иван Иванов",
+      "org": "Поверие (A48)",
+      "year": "",
+      "url": "",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

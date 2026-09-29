@@ -1,0 +1,36 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_ELECTIVE_CS",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Секцио по избор е по-безопасно / по-лесно.“",
+    "en": "\"An elective caesarean is safer / easier.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Раждането е безопасно и по двата начина, но не са еднакви. Планираното секцио е голяма операция и възстановяването след него е по-бавно; има и свои предимства, сред тях предвидимата дата. Кое е по-безопасно зависи от конкретния случай и се решава с лекаря, не по общо правило. Изборът е неин, взет с екипа, който я води.",
+      "en": "Birth is safe either way, but the two are not the same. A planned caesarean is major surgery and recovery from it is slower; it also has its advantages, among them a predictable date. Which is safer depends on the individual case and is decided with the doctor, not by a general rule. The choice is hers, made with the team looking after her."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_14",
+      "citation": "RCOG · Considering a caesarean birth",
+      "org": "RCOG",
+      "year": "",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/considering-a-caesarean-birth/",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

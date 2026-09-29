@@ -1,0 +1,36 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_HEARTBURN_HAIR",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Киселините значат, че бебето ще е с коса.“",
+    "en": "\"Heartburn means the baby will have hair.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не. По киселините не може да се познае нищо за косата на бебето. Има едно старо проучване с 64 жени, което е намирало такава връзка — толкова малко е, че не значи нищо, и никой не го е потвърдил оттогава.",
+      "en": "No. Heartburn tells you nothing about the baby’s hair. There is one old study of 64 women that did find such a link — it is far too small to mean anything, and no one has confirmed it since."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_12",
+      "citation": "Costigan KA, Sipsma HL, DiPietro JA. Birth. 2006;33(4):311–314",
+      "org": "Costigan KA, Sipsma HL, DiPietro JA. Birth. 2006;33(4):311–314",
+      "year": "",
+      "url": "https://doi.org/10.1111/j.1523-536X.2006.00128.x",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

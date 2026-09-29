@@ -1,0 +1,36 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_CAT_OUT",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Котката трябва да излезе от къщи.“",
+    "en": "\"The cat has to go.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Котката не се маха. Токсоплазмоза НЕ се хваща от галене на котка, от това да имаш котка, нито от контакт с болен човек. Паразитът е в изпражненията на заразени котки, в почвата, замърсена от тях, и в недостатъчно сготвено месо. Затова: котешката тоалетна се чисти всеки ден и най-добре от някой друг — а ако тя я чисти, с ръкавици и с миене на ръцете след това. Ръкавици и при градинарство. Плодовете и зеленчуците се мият добре, за да няма следи от пръст. Месото се готви добре, особено агнешко, свинско и дивеч; сурово и сушено месо не се яде. Котката не се храни със сурово месо. И едно, което рядко се сеща: не се пипат бременни овце и агнета.",
+      "en": "Not true. The cat does not have to go. Toxoplasmosis is NOT caught from stroking a cat, from having a cat as a pet, or from contact with someone who has it. The parasite is in the faeces of infected cats, in soil contaminated by them, and in undercooked meat. So: the litter tray is emptied daily and preferably by someone else — and if she does it, with gloves and washing her hands afterwards. Gloves for gardening too. Fruit and vegetables are washed well to remove traces of soil. Meat is cooked thoroughly, especially lamb, pork and venison; raw and cured meat is avoided. The cat is not fed raw meat. And one that is easily forgotten: do not touch pregnant sheep or lambs."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_10",
+      "citation": "NHS · Toxoplasmosis",
+      "org": "NHS",
+      "year": "",
+      "url": "https://www.nhs.uk/conditions/toxoplasmosis/",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

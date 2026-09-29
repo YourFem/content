@@ -1,0 +1,38 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_EATING_TWO",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Трябва да яде за двама.“",
+    "en": "\"She must eat for two.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Апетитът често расте — това е нормално — но не е нужно да се яде за двама. NHS го казва пряко, включително при близнаци.",
+      "en": "Not true. Appetite often increases — that is normal — but there is no need to eat for two. The NHS says so directly, including for twins."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_1",
+      "citation": "NHS · Have a healthy diet in pregnancy",
+      "org": "NHS",
+      "year": "",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [
+    "ART_PAT_002"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

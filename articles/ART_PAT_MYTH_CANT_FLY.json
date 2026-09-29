@@ -1,0 +1,38 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_CANT_FLY",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Не бива да пътува / да лети.“",
+    "en": "\"She should not travel or fly.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Пътуването и летенето не са забранени при неусложнена бременност. Ограниченията идват от авиокомпаниите, не от медицината: след 28-а седмица компанията може да поиска писмо от лекаря или акушерката с термина и с уточнение, че няма риск от усложнения, а към края на бременността някои изобщо не приемат пътнички. Вероятността раждането да започне се повишава след 37-а седмица — около 32-ра при близнаци. Правилата са различни при всяка компания и се проверяват предварително. При пътуване по-дълго от четири часа има малък риск от кръвни съсиреци; помагат вода и движение на всеки трийсетина минути, а компресионните чорапи намаляват отока на краката.",
+      "en": "Not true. Travelling and flying are not forbidden in an uncomplicated pregnancy. The limits come from airlines, not from medicine: after 28 weeks the airline may ask for a letter from her doctor or midwife confirming the due date and that she is not at risk of complications, and towards the end of pregnancy some will not carry her at all. The chance of labour starting rises after 37 weeks — around 32 weeks with twins. The rules differ from airline to airline and are worth checking in advance. Travel longer than four hours carries a small risk of blood clots; water and moving about every 30 minutes or so help, and compression stockings reduce swelling in the legs."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_7",
+      "citation": "NHS · Travelling in pregnancy",
+      "org": "NHS",
+      "year": "",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/travelling/",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [
+    "ART_PAT_007"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

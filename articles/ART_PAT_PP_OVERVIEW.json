@@ -1,0 +1,77 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_PP_OVERVIEW",
+  "cluster": "PILOT_PP",
+  "title": {
+    "bg": "Възстановяване след раждане и рутинни следродилни грижи",
+    "en": "Postpartum Recovery & Routine Postnatal Care"
+  },
+  "layers": {
+    "patient": {
+      "bg": "Тялото Ви се възстановява постепенно през седмиците след раждането, а грижата за Вас е също толкова важна, колкото и грижата за бебето. Очаквано е да имате вагинално течение (лохии), което в началото е по-обилно и по-червено, а с времето намалява и просветлява. Матката бавно се свива обратно към обичайния си размер и понякога това се усеща като спазми, подобни на менструални болки. Ако раждате в родилно отделение, обичайно е да останете под наблюдение поне един ден след раждане през естествените пътища.\n\nАко имате шев на перинеума или след цезарово сечение, пазете зоната чиста и суха, оставяйте я да \"диша\" и следете за зачервяване, силна болка или лоша миризма. През първите дни гърдите Ви се променят и се напълват с мляко — това е нормално. Пикочният мехур и червата може да се възстановяват по-бавно; движението, водата и храна, богата на фибри, помагат.\n\nЗдравните грижи продължават и след изписването. В България имате право на профилактични прегледи до 42-ия ден след раждането — при акушер-гинеколог или, ако предпочитате, при личния лекар. Прегледът включва общ преглед и оценка на психичното Ви състояние, измерване на кръвното налягане, подкрепа за кърменето и изследвания на кръв и урина. Връщайте се към активност постепенно и започнете леки упражнения за тазовото дъно, когато се чувствате готова. Попитайте Вашия специалист и за възможностите за контрацепция. Важно е да разпознавате кога нещо не е наред — вижте признаците, при които трябва да потърсите спешна помощ.",
+      "en": "Your body recovers gradually over the weeks after birth, and caring for you matters just as much as caring for your baby. It is expected to have vaginal discharge (lochia), which is heavier and redder at first and then lessens and becomes lighter over time. The womb slowly shrinks back toward its usual size, and this is sometimes felt as cramping similar to period pains. If you give birth in a facility, it is usual to stay under observation for at least a day after a vaginal birth.\n\nIf you have stitches on the perineum or after a caesarean, keep the area clean and dry, let it air, and watch for redness, strong pain, or a bad smell. In the first days your breasts change and fill with milk — this is normal. Your bladder and bowel may recover more slowly; gentle movement, fluids, and fibre-rich food help.\n\nHealth care continues after you go home. In Bulgaria you are entitled to postnatal check-ups up to day 42 after the birth, with an obstetrician-gynaecologist or, if you prefer, with your general practitioner. The check-up covers a general examination including your mental state, blood pressure, breastfeeding support, and blood and urine tests. Return to activity gradually, and begin gentle pelvic-floor exercises when you feel ready. Also ask your provider about contraception options. It is important to recognise when something is wrong — see the signs that mean you should seek urgent help."
+    },
+    "student": {
+      "bg": "Следродилното възстановяване обхваща инволуция на матката, отзвучаване на лохиите, зарастване на перинеална или коремна рана и лактационни промени в гърдите. WHO (2022) препоръчва здравите родилки и новородени да останат в лечебно заведение поне 24 часа след вагинално раждане и предвижда минимум четири следродилни контакта: в рамките на 24 часа, на 48–72 часа, на 7–14 дни и през шестата седмица.\n\nПри оценката в първите 24 часа се проследяват вагинално кървене, тонус на матката, височина на фундуса, температура, сърдечна честота и артериално налягане, както и уриниране в рамките на 6 часа. След първите 24 часа се оценяват уринарна инконтиненция, чревна функция, зарастване на перинеалната рана, главоболие, умора, болки в гърба, болка в гърдите и болезненост на матката.\n\nФизическа активност: при липса на противопоказания се препоръчва редовна активност ≥150 минути седмично и упражнения за тазовото дъно. На всеки контакт се осигурява подкрепа за кърменето и се провежда скрининг за следродилна депресия и тревожност с валидирани инструменти. Родилките се съветват да потърсят ранна помощ при поява на тревожни признаци между визитите.",
+      "en": "Postpartum recovery encompasses uterine involution, resolution of lochia, healing of a perineal or abdominal wound, and lactational breast changes. WHO (2022) recommends that healthy women and newborns remain in a facility for at least 24 hours after vaginal birth and provides for a minimum of four postnatal contacts: within 24 hours, at 48–72 hours, at 7–14 days, and during the sixth week.\n\nAssessment in the first 24 hours tracks vaginal bleeding, uterine tone, fundal height, temperature, heart rate, and blood pressure, along with urination within 6 hours. Beyond the first 24 hours, evaluation covers urinary incontinence, bowel function, perineal wound healing, headache, fatigue, back pain, breast pain, and uterine tenderness.\n\nPhysical activity: in the absence of contraindications, regular activity of ≥150 minutes per week plus pelvic-floor exercises is recommended. Breastfeeding support is provided at every contact, and screening for postpartum depression and anxiety is performed with validated tools. Women are advised to seek early care if warning signs develop between visits."
+    },
+    "doctor": {
+      "bg": "Рутинните следродилни грижи следват структурата на WHO (2022): институционален престой ≥24 часа след неусложнено вагинално раждане и минимум четири контакта (в рамките на 24 часа; 48–72 часа; 7–14 дни; шеста седмица), които създават рамка за проследяване на инволуцията и ранно откриване на усложнения. Артериалното налягане се измерва скоро след раждането и се повтаря в рамките на 6 часа — релевантно при съмнение за следродилна прееклампсия (вж. ART_PAT_COMP_PREECLAMPSIA).\n\nКлиничната оценка комбинира вагинално кървене, маточен тонус и височина на фундуса, температура, пулс и налягане, диуреза, чревна функция, състояние на перинеалната/коремната рана и лактационния статус. Отклонения като обилно кървене (напоена подложка за ≤1 час, големи съсиреци), фебрилитет (температура ≥38°C), фокална болезненост или зле миришещо течение насочват към ППК, ендометрит/сепсис или раневи усложнения — задължителна ескалация (вж. ART_PAT_PP_WARNING_SIGNS).\n\nКонсултирайте за физическа активност ≥150 минути седмично и упражнения за тазовото дъно при липса на противопоказания, за контрацепция и за подкрепа на кърменето на всеки контакт. Провеждайте скрининг за настроение/тревожност с валидиран инструмент (вж. ART_PAT_015). Контактът през шестата седмица е удобен момент за консолидиран преглед на инволуцията, зарастването на раната, лактацията, психичното здраве и плана за контрацепция. Диференциалната диагноза при следродилни симптоми включва и VTE/белодробна емболия, поради което ранната мобилизация и оценката на едностранен оток/болка в крайник остават част от рутинното проследяване.",
+      "en": "Routine postnatal care follows the WHO (2022) structure: an institutional stay of ≥24 hours after uncomplicated vaginal birth and a minimum of four contacts (within 24 hours; 48–72 hours; 7–14 days; sixth week), providing a framework for monitoring involution and early detection of complications. Blood pressure is measured soon after birth and repeated within 6 hours — relevant where postpartum pre-eclampsia is suspected (see ART_PAT_COMP_PREECLAMPSIA).\n\nClinical assessment integrates vaginal bleeding, uterine tone and fundal height, temperature, pulse and blood pressure, urine output, bowel function, perineal/abdominal wound status, and lactation. Deviations such as heavy bleeding (soaking a pad in ≤1 hour, large clots), fever (temperature ≥38°C), focal tenderness, or foul-smelling discharge point toward PPH, endometritis/sepsis, or wound complications and mandate escalation (see ART_PAT_PP_WARNING_SIGNS).\n\nCounsel on physical activity of ≥150 minutes per week plus pelvic-floor exercises where not contraindicated, on contraception, and on breastfeeding support at every contact. Screen mood/anxiety with a validated tool (see ART_PAT_015). The sixth-week contact is a convenient point for a consolidated review of involution, wound healing, lactation, mental health, and the contraception plan. The differential for postpartum symptoms also includes VTE/pulmonary embolism, so early mobilisation and assessment of unilateral limb swelling/pain remain part of routine follow-up."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_CDC_WARNING",
+      "citation": "CDC HEAR HER — Urgent Maternal Warning Signs",
+      "org": "CDC",
+      "year": "2024",
+      "url": "https://www.cdc.gov/hearher/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Urgent maternal warning signs to end of postpartum year; heavy-bleeding descriptor (soaking >=1 pad/hour or large clots), fever >=38C/100.4F, foul-smelling discharge; used for seek-help signposting. Numeric thresholds restricted to Student/Doctor layers. Facts + original reformulation only."
+    },
+    {
+      "id": "PIN_WHO_PNC",
+      "citation": "WHO recommendations on maternal and newborn care for a positive postnatal experience",
+      "org": "WHO",
+      "year": "2022",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK579653/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Breastfeeding support (positioning, attachment, responsive feeding, exclusive to 6 months, early initiation within 1 h) provided at each postnatal contact. Facts + original reformulation only."
+    },
+    {
+      "id": "PIN_WILLIAMS_26E",
+      "citation": "Cunningham FG, Leveno KJ, Dashe JS, Hoffman BL, Spong CY, Casey BM · McGraw Hill",
+      "org": "Williams Obstetrics, 26th edition, 2022",
+      "year": "2022",
+      "url": "",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY"
+    },
+    {
+      "id": "PIN_BG_NAREDBA_8",
+      "citation": "за профилактичните прегледи и диспансеризацията; чл. 10, ал. 1 — родилките до",
+      "org": "Наредба № 8 от 3.11.2016 г. (МЗ)",
+      "year": "2016",
+      "url": "",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY"
+    }
+  ],
+  "see_also": [],
+  "source_check": [
+    "lochia colour progression/~6wk duration, wound self-care, contraception signpost — need obstetric/wound source",
+    "VTE/PE + postpartum-emergency differential — need obstetric-emergency source",
+    "baby-blues prevalence qualitative",
+    "named screening tools (EPDS) omitted (WHO says 'validated tools')",
+    "LOCALIZATION_CHECK: BG postnatal pathway + clinical terminology"
+  ],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-31",
+    "expires_at": "2029-08-31",
+    "publishable": true,
+    "languages_signed": [
+      "bg"
+    ]
+  }
+}

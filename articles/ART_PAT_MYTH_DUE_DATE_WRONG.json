@@ -1,0 +1,36 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_DUE_DATE_WRONG",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Ако терминът мине, значи е сгрешен.“",
+    "en": "\"If the due date passes, it must be wrong.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не. Терминът е ОЧАКВАНА дата, не насрочена — само около 1 на 20 жени раждат точно на нея. Минаването ѝ не значи грешка в сметката. Значи, че се влиза в период, който се проследява: ако раждането не започне само до 41-ва седмица, се предлага предизвикване, защото след това рискът за бебето расте.",
+      "en": "No. The due date is an EXPECTED date, not a booked one — only about 1 in 20 women give birth on it. Passing it does not mean the dating was wrong. It means entering a period that is monitored: if labour has not started on its own by 41 weeks, induction is offered, because the risk to the baby rises after that."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_13",
+      "citation": "ACOG · A Partner’s Guide to Pregnancy; NHS · Inducing labour",
+      "org": "ACOG",
+      "year": "",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/inducing-labour/",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

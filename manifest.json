@@ -1,0 +1,635 @@
+{
+  "schema": "yourfem.manifest.v1",
+  "published_at": "2026-09-29T21:08:35.751Z",
+  "source": {
+    "schema": "femai.articles.v1",
+    "generated_at": "2026-09-29T17:30:24+00:00"
+  },
+  "articles": [
+    {
+      "id": "ART_ANTENATAL_CARE",
+      "path": "articles/ART_ANTENATAL_CARE.json",
+      "sha256": "ced6e19fb246d44202c61883373d92ef3353c1eba55e95e37bdb908b8274d24b",
+      "bytes": 61465,
+      "content_sha256": "478fba05635d14afc08791d02bae0567344df597ca084d79da2520e9af9d5d20",
+      "reviewed_at": "2026-09-18",
+      "expires_at": "2029-09-18",
+      "title": {
+        "bg": "Проследяване на бременността: кога и колко прегледа",
+        "en": "Antenatal care: when and how many appointments"
+      }
+    },
+    {
+      "id": "ART_CERVICAL_LENGTH",
+      "path": "articles/ART_CERVICAL_LENGTH.json",
+      "sha256": "ac132d6eb9629b4714a1ccc99834b3a7dd0f6037bd16f4350a7a30ee20376598",
+      "bytes": 99719,
+      "content_sha256": "e2d416b606245faaf7891465bb43a1da81558c3cbc0e29df4fb945ae12dff85b",
+      "reviewed_at": "2026-09-28",
+      "expires_at": "2029-09-28",
+      "title": {
+        "bg": "Измерване на дължината на маточната шийка: как проверката на шийката помага да се намали рискът от преждевременно раждане",
+        "en": "Cervical length screening: checking your cervix to lower the risk of early birth"
+      }
+    },
+    {
+      "id": "ART_EARLY_BLEEDING",
+      "path": "articles/ART_EARLY_BLEEDING.json",
+      "sha256": "662f9e389c7ffce5c890dce4247810b214e8143ff53c3535b5e6fcaad19090f5",
+      "bytes": 39093,
+      "content_sha256": "fec2a2c51801ec8a082b62c866cd543dae382110db76138f3ad5b70a879947ab",
+      "reviewed_at": "2026-09-14",
+      "expires_at": "2029-09-14",
+      "title": {
+        "bg": "Кървене в ранна бременност",
+        "en": "Bleeding in early pregnancy"
+      }
+    },
+    {
+      "id": "ART_EARLY_FETAL_MORPHOLOGY",
+      "path": "articles/ART_EARLY_FETAL_MORPHOLOGY.json",
+      "sha256": "4af423d87f704057f25b11d8ed58a2b756d3b05459c341972e5153ec28939562",
+      "bytes": 36313,
+      "content_sha256": "2f948f5a8884a73b0f1afb813a9385c9f79d0b17ca21345b3a478093ba97ecbb",
+      "reviewed_at": "2026-09-15",
+      "expires_at": "2029-09-15",
+      "title": {
+        "bg": "Ранна фетална морфология (детайлна анатомия на 11–14 с.г.)",
+        "en": "Early fetal morphology (detailed 11–14 week anatomy scan)"
+      }
+    },
+    {
+      "id": "ART_ENDO_006",
+      "path": "articles/ART_ENDO_006.json",
+      "sha256": "2d15070ecd10f4384af3b3b65dc234da0307adb70cd4ac66212f7afe8ada0ae2",
+      "bytes": 7517,
+      "content_sha256": "03f0d88e962521e6e86e2ab4e352d2e91e6e698201dc5a1479a484a89df17983",
+      "reviewed_at": "2026-09-12",
+      "expires_at": "2029-09-12",
+      "title": {
+        "bg": "Перименопауза",
+        "en": "Perimenopause"
+      }
+    },
+    {
+      "id": "ART_FETAL_ECHO",
+      "path": "articles/ART_FETAL_ECHO.json",
+      "sha256": "a7c3ee35c9743c6912162ff4e08019fd17a38d89c191f808e7112f792f3bf65c",
+      "bytes": 99732,
+      "content_sha256": "2765e1085e136892bea59387d239b95ed5f652fe3af4bd89efa201c910e498ea",
+      "reviewed_at": "2026-09-21",
+      "expires_at": "2029-09-21",
+      "title": {
+        "bg": "Сърцето на бебето: скрининг на прегледите и фетална ехокардиография",
+        "en": "Your Baby's Heart: Screening at Routine Scans and Fetal Echocardiography"
+      }
+    },
+    {
+      "id": "ART_FETAL_MORPHOLOGY",
+      "path": "articles/ART_FETAL_MORPHOLOGY.json",
+      "sha256": "d6768389e52261e532e5fc4ea15871deffc98c9204868cbb0ddeb1f2baebcf52",
+      "bytes": 99186,
+      "content_sha256": "34b6807fec13f487c03088f3917644a8fd89a66603ac72dc6b2d434db4099c3b",
+      "reviewed_at": "2026-09-20",
+      "expires_at": "2029-09-20",
+      "title": {
+        "bg": "Ултразвук във втори триместър на бременността (около 18–23 г.с.)",
+        "en": "The Mid-Pregnancy Anomaly Scan (around 18–23 weeks)"
+      }
+    },
+    {
+      "id": "ART_FIRST_TRIMESTER_SCREENING",
+      "path": "articles/ART_FIRST_TRIMESTER_SCREENING.json",
+      "sha256": "f89b3455d919162227bcfde7190e0a8bd3de403165518f39383b0f8b789b10a7",
+      "bytes": 94953,
+      "content_sha256": "e517d88f6a376b1e5e6da5229e81b6d3d45a0d15a365a7f91f404f7dab02fc3f",
+      "reviewed_at": "2026-09-19",
+      "expires_at": "2029-09-19",
+      "title": {
+        "bg": "Скрининг в първи триместър",
+        "en": "First-trimester screening"
+      }
+    },
+    {
+      "id": "ART_GESTATIONAL_WEIGHT_GAIN",
+      "path": "articles/ART_GESTATIONAL_WEIGHT_GAIN.json",
+      "sha256": "c690599e87bb0ec5099253ed53653cf66f8f99e9e30d7071572541de6363ecd2",
+      "bytes": 26497,
+      "content_sha256": "39d324a3360088bd26836da3c39bd6f3ee66b30433bb46fb8ac6439470acaea1",
+      "reviewed_at": "2026-09-13",
+      "expires_at": "2029-09-13",
+      "title": {
+        "bg": "Наддаване на тегло по време на бременност",
+        "en": "Gestational weight gain"
+      }
+    },
+    {
+      "id": "ART_INV_004",
+      "path": "articles/ART_INV_004.json",
+      "sha256": "629f235924ed96c1d674fb2d46dd9db703a208ffc8391b973ea1c39469618543",
+      "bytes": 121283,
+      "content_sha256": "16158576c174cc49659f10d5161dc65d95117c8712f08962c4bc78ab60b3b358",
+      "reviewed_at": "2026-09-21",
+      "expires_at": "2029-09-21",
+      "title": {
+        "bg": "Инвазивна пренатална диагностика: хорионбиопсия, амниоцентеза и кордоцентеза",
+        "en": "Invasive Prenatal Diagnosis: Chorionic Villus Sampling, Amniocentesis and Cordocentesis"
+      }
+    },
+    {
+      "id": "ART_MENOPAUSE",
+      "path": "articles/ART_MENOPAUSE.json",
+      "sha256": "21c33fd85e8dbc967fd69099ac338e018e875da80b46b3afc5760d6726cac211",
+      "bytes": 17061,
+      "content_sha256": "e9b7be23463266a317c72210b987206c3968b0d3920dcb37abefae0d3f9bb4ae",
+      "reviewed_at": "2026-09-11",
+      "expires_at": "2029-09-11",
+      "title": {
+        "bg": "Менопауза",
+        "en": "Menopause"
+      }
+    },
+    {
+      "id": "ART_NIPT",
+      "path": "articles/ART_NIPT.json",
+      "sha256": "fd08c148f12d0b899369d9bde24dd71e447b54f665cce852d62d285f466853ea",
+      "bytes": 52907,
+      "content_sha256": "57f276dae185ad04991e3dd96a3a69e959258ebbc07d3321fb5d09d01dc54443",
+      "reviewed_at": "2026-09-23",
+      "expires_at": "2029-09-23",
+      "title": {
+        "bg": "НИПТ",
+        "en": "NIPT"
+      }
+    },
+    {
+      "id": "ART_PAT_002",
+      "path": "articles/ART_PAT_002.json",
+      "sha256": "d5151319ad0d8466fb44a2faf164afda990fc99c1d3c2c54ee7ecffb0ebc27a5",
+      "bytes": 10634,
+      "content_sha256": "1e68ff6043974bd67996c2bf56cffe625382bbfab785ead5ba0350e549b4fcc1",
+      "reviewed_at": "2026-09-09",
+      "expires_at": "2029-09-09",
+      "title": {
+        "bg": "Хранене по време на бременност",
+        "en": "Pregnancy and nutrition"
+      }
+    },
+    {
+      "id": "ART_PAT_007",
+      "path": "articles/ART_PAT_007.json",
+      "sha256": "021ea37173cd504ed92c43508b6644056c6c5024af186b1960e6b95a28adf28f",
+      "bytes": 2038,
+      "content_sha256": "a13ecba753eb273f25292b4a97aaab1bca51b315b92a22dcfbbada8c0cf2ebae",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "Пътуване по време на бременност",
+        "en": "Travel During Pregnancy"
+      }
+    },
+    {
+      "id": "ART_PAT_009",
+      "path": "articles/ART_PAT_009.json",
+      "sha256": "8f57e6e7e62d1c43e2edbc2b8d8501ae6c5745ab87e21d1fed633235a2861505",
+      "bytes": 5578,
+      "content_sha256": "61bad65dbc2a9141e365f6c32661324ca1abf3f03e287e72c76ff6d2c5b7d5f5",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "Физическа активност по време на бременност",
+        "en": "Physical activity during pregnancy"
+      }
+    },
+    {
+      "id": "ART_PAT_010",
+      "path": "articles/ART_PAT_010.json",
+      "sha256": "e409f9539d61b003655ee2f46fae7698f576f9557e8e6766a7a222e8dbd3ec06",
+      "bytes": 9340,
+      "content_sha256": "daf0da540cf153559ae33ff68ae144cb0ef274076ad6efbc8ce6385ce86ca374",
+      "reviewed_at": "2026-09-13",
+      "expires_at": "2029-09-13",
+      "title": {
+        "bg": "Подготовка за раждане: признаци и кога да тръгнете",
+        "en": "Preparing for birth: signs of labour and when to go"
+      }
+    },
+    {
+      "id": "ART_PAT_013",
+      "path": "articles/ART_PAT_013.json",
+      "sha256": "fa582d5366b966839e7b0791e8c62763ac71bf890f1da0d5973a094a7927e67c",
+      "bytes": 25602,
+      "content_sha256": "20281181e056ea2c8f206c5852f47b960457228cc3acdfd236c1a7bcbbb69ea2",
+      "reviewed_at": "2026-09-14",
+      "expires_at": "2029-09-14",
+      "title": {
+        "bg": "Кърмене: начало и поддържане",
+        "en": "Breastfeeding: Establishing & Sustaining"
+      }
+    },
+    {
+      "id": "ART_PAT_015",
+      "path": "articles/ART_PAT_015.json",
+      "sha256": "e2d76c41b72cb23b1e38879c8f8c278b8ea2f379cbccb350b4e7c20cf81537d0",
+      "bytes": 21187,
+      "content_sha256": "8f8a402eb76c24c506c2abaf15bb97001ad648f8a00366537edbe06ae2129856",
+      "reviewed_at": "2026-09-14",
+      "expires_at": "2029-09-14",
+      "title": {
+        "bg": "Психично здраве след раждане",
+        "en": "Maternal Mental Health After Birth"
+      }
+    },
+    {
+      "id": "ART_PAT_BIRTH_PLAN_DISCUSSION",
+      "path": "articles/ART_PAT_BIRTH_PLAN_DISCUSSION.json",
+      "sha256": "40e044398cf9c37ec34850a5993e970f3ea65adb92868f4e01bfa19f616d53e1",
+      "bytes": 6735,
+      "content_sha256": "576761564118057dcd73a184cd60c37c6ae88cf6e0d233fdd553d380bbb853db",
+      "reviewed_at": "2026-09-13",
+      "expires_at": "2029-09-13",
+      "title": {
+        "bg": "Планът на раждането",
+        "en": "Your birth plan"
+      }
+    },
+    {
+      "id": "ART_PAT_COMP_GDM",
+      "path": "articles/ART_PAT_COMP_GDM.json",
+      "sha256": "403f1403949416a62f8ab7020e4ec2d8ee7d6398220fbb3e2993e56cac2adbfa",
+      "bytes": 61846,
+      "content_sha256": "1ae4a12a4c515c0371c63330753811839b0df586fa1c6ead45272d48703a81d2",
+      "reviewed_at": "2026-09-14",
+      "expires_at": "2029-09-14",
+      "title": {
+        "bg": "Гестационен захарен диабет (ГДМ)",
+        "en": "Gestational Diabetes Mellitus (GDM)"
+      }
+    },
+    {
+      "id": "ART_PAT_COMP_PREECLAMPSIA",
+      "path": "articles/ART_PAT_COMP_PREECLAMPSIA.json",
+      "sha256": "daa3c0bedb976f5e990a060df1aaca2c83a0926c6e8a1ba094f830e5ea2f2d91",
+      "bytes": 25024,
+      "content_sha256": "a10d993c677d69794324c12e38e0bb7e478cb4aad13b6131d6bb2481c11226dc",
+      "reviewed_at": "2026-09-29",
+      "expires_at": "2029-09-29",
+      "title": {
+        "bg": "Прееклампсия",
+        "en": "Pre-eclampsia"
+      }
+    },
+    {
+      "id": "ART_PAT_DAILY_HAIR_DYE",
+      "path": "articles/ART_PAT_DAILY_HAIR_DYE.json",
+      "sha256": "803a4718f66324cb8eafdeba80cb56e7518f0c57e37f2d648baed23c021194fa",
+      "bytes": 1759,
+      "content_sha256": "eca039a0653c9185b623312f9a1d08793df6da0eebc5c7a450328b28ac4fdf9a",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "Боядисване на коса",
+        "en": "Hair Dye"
+      }
+    },
+    {
+      "id": "ART_PAT_HOSPITAL_BAG",
+      "path": "articles/ART_PAT_HOSPITAL_BAG.json",
+      "sha256": "6d2ff40e144856cef3c76918a2f8e0070212957ab831b57a6ed8b509bb4553f0",
+      "bytes": 4830,
+      "content_sha256": "0186dc3d52ef3cc6578aa46ebef6c32a91e8f8dbc44026be1132b4961796d89b",
+      "reviewed_at": "2026-09-13",
+      "expires_at": "2029-09-13",
+      "title": {
+        "bg": "Сакът за родилното",
+        "en": "Hospital bag"
+      }
+    },
+    {
+      "id": "ART_PAT_MISSED_PERIOD",
+      "path": "articles/ART_PAT_MISSED_PERIOD.json",
+      "sha256": "f530990b4ea70952e38e3fff102e1a39822aa81080fafbd224eca5b099bba8ec",
+      "bytes": 7003,
+      "content_sha256": "ac44849dd294585b8e77a190189d8f5117a476d71e2bb9fb2df907e835f16f39",
+      "reviewed_at": "2026-09-13",
+      "expires_at": "2029-09-13",
+      "title": {
+        "bg": "Закъсняла менструация — да проверим ли за бременност?",
+        "en": "Missed Period"
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_BUMP_SHAPE",
+      "path": "articles/ART_PAT_MYTH_BUMP_SHAPE.json",
+      "sha256": "1dc9355494c83aac219f3d92c70a9695e4422975d2bfd9ef7fad9091073d78f2",
+      "bytes": 1686,
+      "content_sha256": "f8ca2b34b604e059459eccf6fd20d2ff164ed0f09402f75b97b8ef46d4908053",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„По формата на корема се познава полът.“",
+        "en": "\"The shape of the bump tells you the sex.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_CANT_FLY",
+      "path": "articles/ART_PAT_MYTH_CANT_FLY.json",
+      "sha256": "2c6e22c027a42be793c04f75b1843e2d8d7fc327af1683cf95eef2be8b935255",
+      "bytes": 2871,
+      "content_sha256": "e2847a7bad5d580666d671c11c4c373ef87f420f6f772a160e49f7a67110e71c",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Не бива да пътува / да лети.“",
+        "en": "\"She should not travel or fly.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_CAT_OUT",
+      "path": "articles/ART_PAT_MYTH_CAT_OUT.json",
+      "sha256": "b2d8e3e43deef5c2322333f97d21d51b7c20d08b2ac35ee7fd43d79c7ef96cef",
+      "bytes": 2809,
+      "content_sha256": "9dad252a1f10aca0479fa543535ff3adebbd89493585614016a868dd56dd607b",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Котката трябва да излезе от къщи.“",
+        "en": "\"The cat has to go.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_DUE_DATE_WRONG",
+      "path": "articles/ART_PAT_MYTH_DUE_DATE_WRONG.json",
+      "sha256": "fbea6818a4b12547959740ba1da26c884b6eed0350de56b21f87cac7ce5a414b",
+      "bytes": 1890,
+      "content_sha256": "a0391d5fc2633f5a442f65225ca0c940f771851da43c11b8fdbf8d7111f775c6",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Ако терминът мине, значи е сгрешен.“",
+        "en": "\"If the due date passes, it must be wrong.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_EATING_TWO",
+      "path": "articles/ART_PAT_MYTH_EATING_TWO.json",
+      "sha256": "fa78de312df6c6534efb74bf1212a2867429676beff50f5efe8fda79f11abbe3",
+      "bytes": 1373,
+      "content_sha256": "e60cbdb9af9d3ca6248e443256acdcfd04c80ee40b98de29e859dc860b37f8a8",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Трябва да яде за двама.“",
+        "en": "\"She must eat for two.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_ELECTIVE_CS",
+      "path": "articles/ART_PAT_MYTH_ELECTIVE_CS.json",
+      "sha256": "99d491d9d01aac950757126765523146bf0f8a58519c33264e5a76ea42edc9a4",
+      "bytes": 1985,
+      "content_sha256": "4f796b89a41cfda8bec9d0153957b280be883b35f3d34a5af66211696d703206",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Секцио по избор е по-безопасно / по-лесно.“",
+        "en": "\"An elective caesarean is safer / easier.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_HAIR_DYE",
+      "path": "articles/ART_PAT_MYTH_HAIR_DYE.json",
+      "sha256": "7dfe486510aaa352e3630a69a1268fb82aeb5abc5a3f9905ebcfd2db79379d71",
+      "bytes": 2400,
+      "content_sha256": "eaa6c8250e65650f615ccb3835c5e60ce7467447c510b77eb6856948601e58c8",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Не бива да си боядисва косата.“",
+        "en": "\"She should not dye her hair.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_HEARTBURN_HAIR",
+      "path": "articles/ART_PAT_MYTH_HEARTBURN_HAIR.json",
+      "sha256": "03adc7bcdc92a081d43c5a8c5ab1fe8c68fcfe86a958ddd65bc282c55d2fbd54",
+      "bytes": 1662,
+      "content_sha256": "fa6091a3c485230ca9e3a7c9dca83d3e442a237ec176a881778feb8839299a0c",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Киселините значат, че бебето ще е с коса.“",
+        "en": "\"Heartburn means the baby will have hair.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_LITTLE_WINE",
+      "path": "articles/ART_PAT_MYTH_LITTLE_WINE.json",
+      "sha256": "559c25e7664998411b8ac0bb6e4bea828bb33892763771d8b60316936b7eafa8",
+      "bytes": 1590,
+      "content_sha256": "1b544b088498b15b1a9b2a776a5fd6cdd5b5d48b368fe059d31af8b2b283bf83",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Малко вино не вреди.“",
+        "en": "\"A little wine does no harm.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_MUST_REST",
+      "path": "articles/ART_PAT_MYTH_MUST_REST.json",
+      "sha256": "8b6dfbffd684e17ddc966831142d62f642261f1824d950e686228270e047d481",
+      "bytes": 2696,
+      "content_sha256": "c3af2019751c38db5405a4d129b8daec6407424eae520e7effa5f3e4463fa628",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Трябва да лежи.“",
+        "en": "\"She must stay in bed.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_NO_COFFEE",
+      "path": "articles/ART_PAT_MYTH_NO_COFFEE.json",
+      "sha256": "11b7588d572d9ac585c1eb7b04720ad3f6bb3b4c7ed1a70e73ceacd4aa938fce",
+      "bytes": 3061,
+      "content_sha256": "f4c23c614d4541d5a31e397e7896e0236302269be9c6dc3fff34067d80185c34",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Кафето е забранено напълно.“",
+        "en": "\"Coffee is completely forbidden.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_NO_EXERCISE",
+      "path": "articles/ART_PAT_MYTH_NO_EXERCISE.json",
+      "sha256": "7fc20991be2eac30ad437e9de8e9e237137404df8b7193efa27485fd3be77834",
+      "bytes": 3894,
+      "content_sha256": "138f1a84e5180f7da90c81e2f4b21823a56f32f9047661ce7e747f9886cd8edb",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Не бива да спортува.“",
+        "en": "\"She should not exercise.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_NO_SEAFOOD",
+      "path": "articles/ART_PAT_MYTH_NO_SEAFOOD.json",
+      "sha256": "bdd7cac5db2be375e408addd9bd74bd901425b0048b0e187eec1cc44c903d7ed",
+      "bytes": 2177,
+      "content_sha256": "9ea204a1c866083691cd003c00a29ddb439742406e7441c30f3688c56e5e2d8f",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Не бива да яде риба.“",
+        "en": "\"She should not eat fish.\""
+      }
+    },
+    {
+      "id": "ART_PAT_MYTH_REACHING_CORD",
+      "path": "articles/ART_PAT_MYTH_REACHING_CORD.json",
+      "sha256": "47b53d894aebaa2dac82871712c4dd48241a59b0947e38d2947f18c269baf030",
+      "bytes": 2329,
+      "content_sha256": "107a8051b33b7c2b79b5d3b46d70b881f9b8fafc1d79645d89d2d690cf7621f9",
+      "reviewed_at": "2026-08-27",
+      "expires_at": "2029-08-27",
+      "title": {
+        "bg": "„Не бива да вдига ръце нагоре / да минава под въже.“",
+        "en": "\"She must not raise her arms / pass under a rope.\""
+      }
+    },
+    {
+      "id": "ART_PAT_PP_OVERVIEW",
+      "path": "articles/ART_PAT_PP_OVERVIEW.json",
+      "sha256": "c4e4510b367c144ad3033dfa92e1fc3659a8e4f72ed60dc6202d21a39756c265",
+      "bytes": 14580,
+      "content_sha256": "0e82da96f361205e5b0cd1230487a004cf480f3649b5ad407aef179a2609f5ae",
+      "reviewed_at": "2026-08-31",
+      "expires_at": "2029-08-31",
+      "title": {
+        "bg": "Възстановяване след раждане и рутинни следродилни грижи",
+        "en": "Postpartum Recovery & Routine Postnatal Care"
+      }
+    },
+    {
+      "id": "ART_PAT_PP_WARNING_SIGNS",
+      "path": "articles/ART_PAT_PP_WARNING_SIGNS.json",
+      "sha256": "b26ea83c8b12fc3c5892d899a70ead3bb94490cc23cbc6b008b632cd6d4cfc79",
+      "bytes": 14244,
+      "content_sha256": "016b5a4dcf20f7945730c0827a6e27dd125d57f931c891d55f532f23d3aeebdb",
+      "reviewed_at": "2026-09-10",
+      "expires_at": "2029-09-10",
+      "title": {
+        "bg": "Тревожни признаци след раждане — кога да потърсите спешна помощ",
+        "en": "Urgent Postpartum Warning Signs — When to Seek Emergency Care"
+      }
+    },
+    {
+      "id": "ART_PAT_SYM_NAUSEA",
+      "path": "articles/ART_PAT_SYM_NAUSEA.json",
+      "sha256": "3fe8a6aefefd63ca2135cbd6d5c85b680e37068e175a2c063f1997838db08f08",
+      "bytes": 58716,
+      "content_sha256": "972b7ef69c7764f2ed139d31c4f17c502b7821d7fc931f0a8eb79847ad901336",
+      "reviewed_at": "2026-09-17",
+      "expires_at": "2029-09-17",
+      "title": {
+        "bg": "Гадене и повръщане при бременност",
+        "en": "Nausea and vomiting in pregnancy"
+      }
+    },
+    {
+      "id": "ART_PE_SCREENING",
+      "path": "articles/ART_PE_SCREENING.json",
+      "sha256": "d16c3899c64b02f298cfa42355b7dbb77a87824fb8d3156236a87bdc8f639ed3",
+      "bytes": 101441,
+      "content_sha256": "a07779214973e804eb0a1b91d7a3cbcb5392a937cb1e64976a950d027d8f1ded",
+      "reviewed_at": "2026-09-20",
+      "expires_at": "2029-09-20",
+      "title": {
+        "bg": "Скрининг за прееклампсия: ранна оценка на риска и как аспиринът може да помогне",
+        "en": "Screening for pre-eclampsia: estimating your risk early, and how aspirin can help"
+      }
+    },
+    {
+      "id": "ART_POSTTERM",
+      "path": "articles/ART_POSTTERM.json",
+      "sha256": "1a413d78d045e227220edd74b716933ddd0370a461ceb15b1937c4df3c3dfd79",
+      "bytes": 65640,
+      "content_sha256": "b7b38999240d45bee0e22b18217e3b0651cad120f61181f12d5efcc149fe2ab0",
+      "reviewed_at": "2026-09-22",
+      "expires_at": "2029-09-22",
+      "title": {
+        "bg": "Преносена и късносрочна бременност",
+        "en": "Post-term and late-term pregnancy"
+      }
+    },
+    {
+      "id": "ART_PREGNANCY_OVERVIEW",
+      "path": "articles/ART_PREGNANCY_OVERVIEW.json",
+      "sha256": "4a0afd18c77afeb4e780e1ebf1fc5e8602a0cf897ce33f1cca2a3a895bb6abe4",
+      "bytes": 29352,
+      "content_sha256": "c88c11fa339e20e1973e3a1da4361f55ac7e8def6aa57bdce7f2d107997ad3d2",
+      "reviewed_at": "2026-08-12",
+      "expires_at": "2029-08-12",
+      "title": {
+        "bg": "Бременност — основни понятия, етапи и проследяване",
+        "en": ""
+      }
+    },
+    {
+      "id": "ART_PREG_DIAGNOSIS",
+      "path": "articles/ART_PREG_DIAGNOSIS.json",
+      "sha256": "9a1469d1a9aaa15f17f0be34887b659a5b53ae7e94beabacf09f47455f886c48",
+      "bytes": 54048,
+      "content_sha256": "2f1801cb829af3da33e42a39bc8b620155784ffe33c922305fe6cd916fd0a27d",
+      "reviewed_at": "2026-08-10",
+      "expires_at": "2029-08-10",
+      "title": {
+        "bg": "Установяване и ранна оценка на бременността",
+        "en": ""
+      }
+    },
+    {
+      "id": "ART_REDUCED_FETAL_MOVEMENTS",
+      "path": "articles/ART_REDUCED_FETAL_MOVEMENTS.json",
+      "sha256": "7233a615af5d08a98608c270c2be89bf138e00e2190512c2d4642b68da46e4e8",
+      "bytes": 90172,
+      "content_sha256": "84a88266d18070561141b33d556f755f8351972ba06897a55cddc20d86baf2ea",
+      "reviewed_at": "2026-09-22",
+      "expires_at": "2029-09-22",
+      "title": {
+        "bg": "Движенията на бебето: какво да знаете при намалени движения",
+        "en": "Feeling your baby move: what to know about reduced movements"
+      }
+    },
+    {
+      "id": "ART_RH_ALLOIMMUNIZATION",
+      "path": "articles/ART_RH_ALLOIMMUNIZATION.json",
+      "sha256": "2ab436bb59d266601a78a1739a1aa71ec08044131b3c6e14248746c95db54d81",
+      "bytes": 114580,
+      "content_sha256": "22b7c4c1194db1a75aca2a77eb6966a8e7e5027d4d815b5c999f5c5ff5bbbcce",
+      "reviewed_at": "2026-09-18",
+      "expires_at": "2029-09-18",
+      "title": {
+        "bg": "Резус-фактор и бременност: какво означава „резус-сенсибилизация“ за вас",
+        "en": "Rh Factor and Pregnancy: What \"Rh Sensitisation\" Means for You"
+      }
+    },
+    {
+      "id": "ART_VACCINES_PREGNANCY",
+      "path": "articles/ART_VACCINES_PREGNANCY.json",
+      "sha256": "f0b753a08a6ed705dc7ba7038073494bda18695afe50943783f8aedec5ce0924",
+      "bytes": 43012,
+      "content_sha256": "6e69376c3eeb398b3258622d95f93e79200b13cfa44f501955f77d3a7cab25c1",
+      "reviewed_at": "2026-09-22",
+      "expires_at": "2029-09-22",
+      "title": {
+        "bg": "Ваксинация през бременността",
+        "en": "Vaccines in pregnancy"
+      }
+    }
+  ],
+  "revoked": []
+}

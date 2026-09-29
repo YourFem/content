@@ -1,0 +1,36 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_REACHING_CORD",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Не бива да вдига ръце нагоре / да минава под въже.“",
+    "en": "\"She must not raise her arms / pass under a rope.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не. Вдигането на ръцете няма как да увие пъпната връв около бебето. Пъпната връв е вътре в матката, в околоплодна течност, и се движи с бебето, а не с движенията на майката. Обвиване на връвта около врата се среща при около една от пет бременности и само по себе си обикновено не създава проблем — значение имат случаите с няколко или стегнати бримки, и това се преценява от лекуващия екип, не по това какво е правила тя с ръцете си.",
+      "en": "No. Raising her arms cannot wrap the umbilical cord around the baby. The cord is inside the uterus, in amniotic fluid, and it moves with the baby, not with the mother’s movements. A cord around the neck is found in about one in five births and on its own is usually not a problem — what matters is multiple or tight loops, and that is for the care team to judge, not something caused by what she did with her arms."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_5",
+      "citation": "Hayes DJL и съавт. PLoS One. 2020;15(9):e0239630",
+      "org": "Hayes DJL и съавт. PLoS One. 2020;15(9):e0239630",
+      "year": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239630",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

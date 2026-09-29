@@ -1,0 +1,104 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_COMP_PREECLAMPSIA",
+  "cluster": "PILOT_HTN",
+  "title": {
+    "bg": "Прееклампсия",
+    "en": "Pre-eclampsia"
+  },
+  "layers": {
+    "patient": {
+      "bg": "Прееклампсията е усложнение на бременността, при което кръвното налягане се повишава след средата на бременността и някои органи на майката (бъбреци, черен дроб) започват да работят по-трудно. Понякога засяга и растежа на бебето. В началото често няма никакви оплаквания — затова измерването на кръвното налягане и изследването на урината при всеки преглед са толкова важни.\n\nПотърсете спешна помощ **същия ден**, ако получите някой от следните предупредителни признаци:\n- силно или упорито главоболие, което не преминава;\n- смущения в зрението — замъглено виждане, светкавици или петна пред очите;\n- болка в горната част на корема или под ребрата вдясно;\n- внезапен оток на лицето, ръцете или краката;\n- отделяне на по-малко урина от обичайното;\n- усещане, че бебето мърда по-малко.\n\nПрееклампсията може да се влоши бързо, затова не изчаквайте до следващия насрочен преглед. Лечението и изборът на подходящ момент за раждане се преценяват от Вашия екип. Не започвайте и не спирайте лекарства сами. Ако Ви е предписан аспирин за профилактика, приемайте го точно както е указано. Раждането обикновено разрешава състоянието, но контролът продължава и след него.",
+      "en": "Pre-eclampsia is a pregnancy complication in which blood pressure rises after the middle of pregnancy and some of the mother's organs (kidneys, liver) begin to work harder. It can also affect the baby's growth. Early on there are often no symptoms at all — which is why checking your blood pressure and testing your urine at every visit matters so much.\n\nSeek urgent care **the same day** if you develop any of these warning signs:\n- a severe or persistent headache that will not go away;\n- vision changes — blurring, flashing lights or spots before your eyes;\n- pain in the upper part of your tummy or under the ribs on the right;\n- sudden swelling of the face, hands or feet;\n- passing less urine than usual;\n- feeling the baby move less than before.\n\nPre-eclampsia can worsen quickly, so do not wait for your next scheduled appointment. Treatment and the timing of birth are decided by your care team. Do not start or stop any medicine on your own. If you have been prescribed aspirin to help prevent it, take it exactly as directed. Giving birth usually resolves the condition, but monitoring continues afterwards."
+    },
+    "student": {
+      "bg": "Прееклампсията е мултисистемно нарушение с плацентарен произход, което се дефинира като **новопоявила се хипертония след 20 г.с.** плюс поне едно от: значима протеинурия, майчина органна дисфункция (бъбречна, чернодробна, неврологична, хематологична) или утероплацентарна дисфункция (напр. фетално ограничение на растежа).\n\nПатофизиология: смята се, че началото е дефектна плацентация — непълна трансформация на спиралните артерии от трофобласта, което води до повишена резистентност в маточните артерии и плацентарна хипоперфузия. Следват оксидативен стрес, ангиогенен дисбаланс (напр. повишен sFlt-1 спрямо PlGF) и генерализирана **ендотелна дисфункция**, която обяснява клиничните прояви: хипертония (вазоконстрикция), протеинурия (гломерулно увреждане), чернодробно и неврологично засягане.\n\nРанната (< 34 г.с.) форма е свързана по-силно с дефектна плацентация и по-тежки последствия; късната форма е повлияна повече от майчини фактори (метаболитен синдром, хронична хипертония). Хипертония означава ≥140/90 mmHg, а тежка — >160/110 mmHg. Разбирането защо ниският аспирин — най-ефективен, когато е започнат рано, в идеалния случай преди 16 г.с. — намалява риска от прееклампсия е ключово за профилактиката.\n\n**Класификация по ISSHP (2021).** ISSHP разделя хипертензивните разстройства на бременността на: хронична хипертония; гестационна хипертония; прееклампсия (de novo или наслоена върху хронична хипертония); и допълнително разпознава хипертония „бяла престилка\" (white-coat), маскирана хипертония и преходна гестационна хипертония. ISSHP **разширява** дефиницията на прееклампсията: гестационна хипертония (≥20 г.с.) ПЛЮС едно или повече от — протеинурия И/ИЛИ майчина органна дисфункция (бъбречна, чернодробна, неврологична, хематологична) И/ИЛИ утероплацентарна дисфункция (фетално ограничение на растежа, абнормен Doppler на пъпна/маточна артерия или мъртво раждане). Протеинурията **не е задължителна**, ако е налична органна или утероплацентарна дисфункция. Това съвпада с вече посочената NICE дефиниция и я разширява.\n\n**Първотриместров скрининг и профилактика (FIGO 2019).** FIGO препоръчва комбиниран скрининг на 11–13+6 г.с. чрез модел на конкуриращи рискове: майчини фактори + средно артериално налягане (MAP) + пулсативен индекс на маточните артерии (UtA-PI) + серумен PlGF (откриваемост ~75% за преждевременна и ~43% за терминална прееклампсия при 10% фалшиво-положителни). Аспиринът е най-ефективен при започване рано; вж. `ART_PREECLAMPSIA_SCREEN`.\n\n**Калций (дебатирано, слаби доказателства).** СЗО предлага контекстно-специфична опция за калциева суплементация (елементарен калций) при бременни жени в популации с **нисък хранителен прием на калций**, за да се намали рискът от прееклампсия. Доказателствата обаче са с ниска сигурност и калцият **може да има малко или никакво значение** — затова това **не е установена обща профилактика**. Профилактиката с доказана ефективност остава аспиринът (съгласно СЗО и практическата бележка на Д-р Иван Иванов — доказателствата са слаби/спорни).",
+      "en": "Pre-eclampsia is a multisystem disorder of placental origin, defined as **new-onset hypertension after 20 weeks** plus at least one of: significant proteinuria, maternal organ dysfunction (renal, hepatic, neurological, haematological), or uteroplacental dysfunction (e.g. fetal growth restriction).\n\nPathophysiology: the initiating event is thought to be defective placentation — incomplete trophoblastic transformation of the spiral arteries, producing increased uterine artery resistance and placental hypoperfusion. This is followed by oxidative stress, an angiogenic imbalance (e.g. raised sFlt-1 relative to PlGF) and generalised **endothelial dysfunction**, which explains the clinical picture: hypertension (vasoconstriction), proteinuria (glomerular injury), and hepatic and neurological involvement.\n\nEarly-onset disease (< 34 weeks) is more strongly linked to defective placentation and more severe outcomes; late-onset disease is influenced more by maternal factors such as metabolic syndrome or chronic hypertension. Hypertension means ≥140/90 mmHg and severe hypertension >160/110 mmHg. Understanding why low-dose aspirin — most effective when started early, ideally before 16 weeks — lowers the risk of pre-eclampsia underpins prophylaxis.\n\n**ISSHP classification (2021).** ISSHP groups the hypertensive disorders of pregnancy into: chronic hypertension; gestational hypertension; pre-eclampsia (de novo, or superimposed on chronic hypertension); and additionally recognises white-coat hypertension, masked hypertension and transient gestational hypertension. ISSHP **broadens** the pre-eclampsia definition: gestational hypertension (≥20 weeks) PLUS one or more of — proteinuria AND/OR maternal organ dysfunction (renal, hepatic, neurological, haematological) AND/OR uteroplacental dysfunction (fetal growth restriction, abnormal umbilical/uterine artery Doppler, or stillbirth). Proteinuria is **not required** when organ or uteroplacental dysfunction is present. This aligns with, and broadens, the NICE definition already stated above.\n\n**First-trimester screening and prevention (FIGO 2019).** FIGO recommends combined screening at 11–13+6 weeks using a competing-risks model: maternal factors + mean arterial pressure (MAP) + uterine artery pulsatility index (UtA-PI) + serum PlGF (detection ~75% for preterm and ~43% for term pre-eclampsia at a 10% false-positive rate). Aspirin is most effective when started early; see `ART_PREECLAMPSIA_SCREEN`.\n\n**Calcium (debated, weak evidence).** WHO offers a context-specific option of calcium supplementation (elemental calcium) for pregnant women in populations with **low dietary calcium intake**, to reduce pre-eclampsia risk. However, the evidence is low-certainty and calcium **may make little or no difference** — so it is **not an established general prophylaxis**. The prophylaxis with proven efficacy remains aspirin (per WHO and Dr Ivan Ivanov's practice note — evidence is weak/contested)."
+    },
+    "doctor": {
+      "bg": "**Диагноза:** новопоявила се хипертония (≥140/90 mmHg) след 20 г.с. + ≥1 от: протеинурия (PCR ≥30 mg/mmol или ACR ≥8 mg/mmol), майчина органна дисфункция или утероплацентарна дисфункция. Тежка хипертония: >160/110 mmHg.\n\n**Профилактика:** аспирин **75–150 mg дневно** от 12 г.с. до раждането при ≥1 високорисков фактор (предходна хипертензивна бременност, ХБН, автоимунно заболяване, диабет тип 1/2, хронична хипертония) или >1 умерен фактор (нулипаритет, възраст ≥40 г., интервал >10 г., BMI ≥35, фамилна анамнеза, многоплодие).\n\n**Мониторинг:** BP ≥ на всеки 48 ч (по-често при тежка); протеинурия чрез PCR/ACR (без рутинна 24-ч колекция); еднократно PlGF-базирано изследване за изключване; FBC, чернодробни и бъбречни показатели.\n\n**Лечение:** лабеталол, нифедипин или метилдопа; таргет **135/85 mmHg**; ACE-инхибитори/ARB/тиазиди — контраиндицирани. **Магнезиев сулфат** при еклампсия и при тежка прееклампсия с раждане < 24 ч: **зареждаща доза 4 g IV за 5–15 мин, после 1 g/час за 24 ч**.\n\n**Момент на раждане:** < 34 г.с. — наблюдение освен при индикации; 34–36+6 — индивидуално; ≥37 г.с. — раждане в рамките на 24–48 ч. **Постнатално:** BP контрол, 6–8-седмичен преглед, обсъждане на дългосрочен сърдечно-съдов риск.\n\n**Класификация по ISSHP (2021):** хронична хипертония; гестационна хипертония; прееклампсия (de novo или наслоена върху хронична хипертония); плюс хипертония „бяла престилка\", маскирана хипертония и преходна гестационна хипертония. **Разширена дефиниция на прееклампсията:** гестационна хипертония ≥20 г.с. + ≥1 от — протеинурия, майчина органна дисфункция (бъбречна, чернодробна, неврологична, хематологична) или утероплацентарна дисфункция (FGR, абнормен Doppler на пъпна/маточна артерия, мъртво раждане); протеинурията не е задължителна. Съвпада с и разширява NICE дефиницията.\n\n**ACOG — тежки характеристики (severe features):** BP ≥160/110 mmHg на два пъти през ≥4 ч; тромбоцити <100×10³/µL; AST/ALT >2× горна граница на нормата и/или тежка упорита болка в дясно подребрие/епигастриум; креатинин >1,1 mg/dL или удвояване спрямо изходната стойност; белодробен оток; новопоявило се главоболие, неповлияващо се от лечение и без друго обяснение; зрителни смущения.\n\n**FIGO — първотриместров скрининг и профилактика:** комбиниран скрининг на 11–13+6 г.с. чрез модел на конкуриращи рискове (майчини фактори + MAP + UtA-PI + PlGF; откриваемост ~75% преждевременна / ~43% терминална ПЕ при 10% фалшиво-положителни). **Аспирин ≥100 mg дневно** (ASPRE 150 mg/ден), започнат **преди 16 г.с.** (идеално 11–16 г.с.), приеман **вечер**, до ~36 г.с., при жени с висок скринингов риск. Вж. `ART_PREECLAMPSIA_SCREEN`.\n\n**Калций (дебатирано, слаби доказателства):** СЗО предлага контекстно-специфична опция за калциева суплементация (**1,5–2,0 g/ден елементарен калций**) при бременни жени в популации с **нисък хранителен прием на калций**, за намаляване на риска от прееклампсия. Доказателствата обаче са с ниска сигурност и калцият **може да има малко или никакво значение**; **не е установена обща профилактика** и не се дава тук като препоръчана профилактика — доказаната профилактика остава аспиринът (съгласно СЗО и практическата бележка на Д-р Иван Иванов — доказателствата са слаби/спорни).",
+      "en": "**Diagnosis:** new-onset hypertension (≥140/90 mmHg) after 20 weeks + ≥1 of: proteinuria (PCR ≥30 mg/mmol or ACR ≥8 mg/mmol), maternal organ dysfunction, or uteroplacental dysfunction. Severe hypertension: >160/110 mmHg.\n\n**Prophylaxis:** aspirin **75–150 mg daily** from 12 weeks until birth for women with ≥1 high-risk factor (prior hypertensive pregnancy, CKD, autoimmune disease, type 1/2 diabetes, chronic hypertension) or >1 moderate factor (nulliparity, age ≥40, interval >10 years, BMI ≥35, family history, multi-fetal pregnancy).\n\n**Monitoring:** BP at least every 48 h (more often if severe); proteinuria by PCR/ACR (no routine 24-h collection); one PlGF-based test to help rule out; FBC, LFTs, renal function.\n\n**Management:** labetalol, nifedipine or methyldopa; target **135/85 mmHg**; ACE inhibitors/ARBs/thiazides contraindicated. **Magnesium sulfate** for eclampsia and for severe pre-eclampsia with birth planned < 24 h: **loading 4 g IV over 5–15 min, then 1 g/hour for 24 h**.\n\n**Timing of birth:** < 34 weeks — surveillance unless indications; 34–36+6 — individualised; ≥37 weeks — initiate birth within 24–48 h. **Postnatal:** BP monitoring, 6–8-week review, and counselling on long-term cardiovascular risk.\n\n**ISSHP classification (2021):** chronic hypertension; gestational hypertension; pre-eclampsia (de novo or superimposed on chronic hypertension); plus white-coat hypertension, masked hypertension and transient gestational hypertension. **Broadened pre-eclampsia definition:** gestational hypertension ≥20 weeks + ≥1 of — proteinuria, maternal organ dysfunction (renal, hepatic, neurological, haematological), or uteroplacental dysfunction (FGR, abnormal umbilical/uterine artery Doppler, stillbirth); proteinuria not required. Aligns with and broadens the NICE definition.\n\n**ACOG severe features:** BP ≥160/110 mmHg on two occasions ≥4 h apart; platelets <100×10³/µL; AST/ALT >2× upper limit of normal and/or severe persistent right-upper-quadrant/epigastric pain; creatinine >1.1 mg/dL or doubling of baseline; pulmonary oedema; new-onset headache unresponsive to treatment and not otherwise explained; visual disturbance.\n\n**FIGO first-trimester screening and prevention:** combined screening at 11–13+6 weeks by a competing-risks model (maternal factors + MAP + UtA-PI + PlGF; detection ~75% preterm / ~43% term pre-eclampsia at 10% false-positive rate). **Aspirin ≥100 mg/day** (ASPRE used 150 mg/day), started **before 16 weeks** (ideally 11–16 weeks), taken in the **evening**, continued until ~36 weeks, for women screened high-risk. See `ART_PREECLAMPSIA_SCREEN`.\n\n**Calcium (debated, weak evidence):** WHO offers a context-specific option of calcium supplementation (**1.5–2.0 g/day elemental calcium**) for pregnant women in populations with **low dietary calcium intake**, to reduce pre-eclampsia risk. However, the evidence is low-certainty and calcium **may make little or no difference**; it is **not an established general prophylaxis** and is not offered here as recommended prophylaxis — the proven prophylaxis remains aspirin (per WHO and Dr Ivan Ivanov's practice note — evidence is weak/contested)."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_ACOG_PE",
+      "citation": "Gestational Hypertension and Preeclampsia; ACOG Practice Bulletin 222 (via AFP 2024 summary)",
+      "org": "ACOG/AAFP",
+      "year": "2024",
+      "url": "https://www.aafp.org/afp/2024/0300/hypertensive-disorders-of-pregnancy",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "severe features criteria; aspirin 81 mg; calcium may help low-intake but evidence weak/not general"
+    },
+    {
+      "id": "PIN_FIGO_PE",
+      "citation": "FIGO initiative on pre-eclampsia: pragmatic guide for first-trimester screening and prevention (Poon 2019)",
+      "org": "FIGO",
+      "year": "2019",
+      "url": "https://doi.org/10.1002/ijgo.12802",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "first-trimester competing-risks screening (MAP+UtA-PI+PlGF); aspirin >=100 mg (150 ASPRE) <16 wk evening to 36 wk"
+    },
+    {
+      "id": "PIN_ISSHP_2021",
+      "citation": "The Hypertensive Disorders of Pregnancy: ISSHP Classification, Diagnosis & Management Recommendations for International Practice (2021)",
+      "org": "ISSHP",
+      "year": "2021",
+      "url": "https://doi.org/10.1016/j.preghy.2021.09.008",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "classification categories + broadened PE definition (proteinuria not required if organ/uteroplacental dysfunction)"
+    },
+    {
+      "id": "PIN_ISUOG_PE",
+      "citation": "ISUOG Practice Guidelines: role of ultrasound in screening for and follow-up of pre-eclampsia, Ultrasound Obstet Gynecol",
+      "org": "ISUOG",
+      "year": "2018",
+      "url": "https://doi.org/10.1002/uog.20105",
+      "rights": "TIER1_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Placental origin/pathophysiology of hypertensive disorders (endothelial dysfunction, uterine-artery resistance); early- vs late-onset distinction; screening/prediction uses history, BP, biomarkers (PlGF) and uterine-artery Doppler. No verbatim tables/figures."
+    },
+    {
+      "id": "PIN_NICE_NG133",
+      "citation": "Hypertension in pregnancy: diagnosis and management (NICE guideline NG133)",
+      "org": "National Institute for Health and Care Excellence (NICE)",
+      "year": "2019",
+      "url": "https://www.nice.org.uk/guidance/ng133",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "UK-scoped: BP thresholds (>=140/90, >=160/110)/target 135/85, magnesium sulfate regimen (4 g IV load + 1 g/h; recurrent 2-4 g IV), antihypertensive classes; LOCALIZATION_CHECK for BG/EU; facts only, no verbatim tables"
+    },
+    {
+      "id": "PIN_UM_PE_CALCIUM",
+      "citation": "Practice note — Д-р Иван Иванов (Founder), preeclampsia prediction/prevention teaching; calcium-at-low-levels evidence considered weak/dubious",
+      "org": "Founder (Ivan Ivanov)",
+      "year": "2026",
+      "url": "(internal)",
+      "rights": "ORIGINAL_FEMAI_OS",
+      "boundary": "Tier-4 attribution for the debated framing of calcium prophylaxis; never sole pin — paired with WHO/ACOG"
+    },
+    {
+      "id": "PIN_WHO_CALCIUM",
+      "citation": "WHO recommendation on calcium supplementation during pregnancy for the prevention of pre-eclampsia (1.5-2.0 g/day elemental calcium, low dietary calcium populations; low-certainty)",
+      "org": "WHO",
+      "year": "2018",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK556341/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "context-specific option in low-calcium-intake populations; low-certainty; not general prophylaxis"
+    }
+  ],
+  "see_also": [],
+  "source_check": [
+    "LOCALIZATION_CHECK: NICE NG133 UK-scoped — aspirin banding, PlGF availability, monitoring schedules, postnatal antihypertensives, 112",
+    "SOURCE_CHECK: aspirin window NICE 'from 12wk' vs ISUOG 'before 16wk'",
+    "SOURCE_CHECK: betamethasone indication only (no dose extracted)",
+    "SOURCE_CHECK: reformulated pathophysiology (PRES, microangiopathy) to confirm",
+    "NOTE: БГ lecture Preeclampsia.doc in library NOT used — authorship/rights unconfirmed (Tier-1 only)"
+  ],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-29",
+    "expires_at": "2029-09-29",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

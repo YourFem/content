@@ -1,0 +1,44 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MISSED_PERIOD",
+  "cluster": "PAT_EDU_DATING",
+  "title": {
+    "bg": "Закъсняла менструация — да проверим ли за бременност?",
+    "en": "Missed Period"
+  },
+  "layers": {
+    "patient": {
+      "bg": "Закъснението не е отговор. Тестът е.\n\nМенструацията може да закъснее и без бременност — стрес, заболяване, промяна в теглото, тежко натоварване, хормонални причини. Но ако е имало полов контакт, първата стъпка е една и е проста.\n\n**Кога тестът е честен.** Повечето тестове от аптеката са надеждни **от първия ден на закъснението**. Ако цикълът ви е нередовен и не знаете кога е трябвало да дойде — **поне три седмици след последния полов контакт без защита**. По-ранен тест може да е отрицателен, макар бременност да има — хормонът hCG още не е стигнал прага на теста.\n\n**Как да го четете.** Положителният резултат почти сигурно е верен. Отрицателният е по-малко сигурен: ако менструацията пак не идва, повторете след няколко дни. Втори отрицателен тест без менструация — отидете на лекар, причината трябва да се изясни.\n\n**Положителен е.** Запишете датата на първия ден на последната менструация (ПРМ) — тя ще трябва на лекаря — и си запазете час. Тестът казва, че има бременност; къде е, на колко седмици е и дали се развива нормално, показва прегледът. Приложението може да мине в бременност още сега — записите ви от цикъла се пазят.\n\n## Кога да не отлагате\n\nБолка ниско в корема, кървене, замайване или припадък при положителен тест или при закъснение — не чакайте планов преглед, потърсете лекар още днес."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_PREGNANCY_TEST",
+      "citation": "NHS · „Doing a pregnancy test“ (Page last reviewed: 9 February 2022; next review due 9 February 2025 — т.е. страницата е с изтекъл собствен срок за преглед, което е отбелязано). Прочетена 13.09.2026. Дословно: „You can carry out most pregnancy tests from the first day of a missed period.“; ако не знаете кога е следващата менструация — „do the test at least 21 days after you last had unprotected sex“; положителният резултат е „almost certainly correct“, отрицателният е по-малко надежден; при отрицателен и съмнение — „wait a few days and try again. Speak to your GP if you get a negative result after a second test but your period has not arrived.“",
+      "org": "NHS (Обединено кралство)",
+      "year": "2022",
+      "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "ПОКРИВА: кога тестът е честен (от първия ден на закъснението; поне 21 дни след последния незащитен контакт); положителен ≈ сигурен, отрицателен — не; повторение след няколко дни; лекар при втори отрицателен без менструация. НЕ ПОКРИВА: hCG стойности, ехография, извънматочна — това е в подписаната ART_PREG_DIAGNOSIS."
+    },
+    {
+      "id": "PIN_WILLIAMS_26E_PREGNANCY_TEST",
+      "citation": "Cunningham FG, Leveno KJ, Dashe JS, Hoffman BL, Spong CY, Casey BM. Williams Obstetrics, 26th ed. Chapter 10 „Prenatal Care“, раздел „Diagnosis of Pregnancy“, pp. 176–178 (не глава 9, както е предложено — глава 9 в това издание е „Preconceptional Counseling“ и не съдържа диагностика на бременността; коригирано на 13.09.2026). Прочетена от библиотеката (PDF) на 13.09.2026. Дословно: „With a sensitive test, the hormone can be detected in maternal serum or urine by 8 to 9 days after ovulation.“; „amenorrhea is not a reliable pregnancy indicator until 10 or more days have passed after expected menses“; „Pregnancy is usually identified when a woman presents with symptoms and possibly a positive home urine pregnancy test result. Typically, these women receive confirmatory testing of urine or blood for human chorionic gonadotropin (hCG).“; за точността на домашните тестове около деня на закъснението: „only approximately 15 percent of pregnancies could be diagnosed at the time of the missed menses [with most brands]... these assays are often not as sensitive as advertised.“",
+      "org": "Williams Obstetrics (Cunningham et al.)",
+      "year": "2022",
+      "url": "",
+      "rights": "TEXTBOOK_OWNED_COPY_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "ПОКРИВА: hCG в кръв/урина от 8-9 дни след овулация; аменореята не е сигурен признак преди 10+ дни закъснение; потвърждение с урина/кръв за hCG; предупреждение, че домашните тестове около деня на закъснението са по-малко чувствителни, отколкото рекламирано (подкрепя препоръката „ако отрицателен — повторете след дни“). НЕ ПОКРИВА: конкретни hCG прагове за пациентски текст, ехография — извън обхвата на този екран."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-13",
+    "expires_at": "2029-09-13",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

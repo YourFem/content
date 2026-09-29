@@ -1,0 +1,62 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_ENDO_006",
+  "cluster": "PILOT_GYN_MENOPAUSE",
+  "title": {
+    "bg": "Перименопауза",
+    "en": "Perimenopause"
+  },
+  "layers": {
+    "patient": {
+      "bg": "Перименопаузата е времето около спирането на менструацията — последните нередовни цикли и първата година след последната менструация. Преди нея са годините на пременопаузата, когато яйчниците постепенно намаляват работата си и цикълът започва да се променя; след нея, когато е минала една година без менструация, идва постменопаузата. Това е естествен преход, не болест, и всяка жена го преживява по своему.\n\nПървият знак обикновено е промяна в цикъла: менструациите идват по-рядко или по-често, стават по-обилни или по-оскъдни, някои се пропускат. Оплакванията, които често ги придружават, са горещи вълни и нощно изпотяване, нарушен сън, промени в настроението — раздразнителност, тревожност, потиснатост — болки в ставите и мускулите, сухота и дискомфорт във влагалището, по-чести позиви за уриниране, промяна в желанието за секс. Възможни са и трудности с концентрацията и паметта — те не са задължителни, често са свързани с лошия сън, горещите вълни и настроението и не означават, че паметта се губи трайно. Не всяка жена има всичко това; при някои преходът минава почти незабелязано, при други оплакванията са силни и продължават с години.\n\nДиагнозата обикновено се поставя по оплакванията и възрастта — хормонални изследвания най-често не са нужни. Докато има менструации, макар и нередовни, бременност е малко вероятна, но не е невъзможна; ако не я желаете, обсъдете с лекаря си защита и докога тя е нужна.\n\nИма доказани начини за облекчаване — хормонални и нехормонални, както и промени в начина на живот: движение, разнообразно хранене, отказ от тютюнопушенето, умереност с алкохола. Всяко лечение е само по лекарско назначение — не започвайте и не спирайте лекарства сама.\n\n## Кога да не отлагате\n\nПотърсете лекар без отлагане при много обилно кървене, кървене между менструациите или след полов акт, менструации, които идват твърде често, както и при всяко кървене, след като е минала една година без менструация. Потърсете лекар и ако оплакванията пречат на ежедневието, съня или работата ви — има какво да се направи."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NICE_NG23",
+      "citation": "Menopause: identification and management (NG23) - Recommendations",
+      "org": "NICE",
+      "year": "2015",
+      "url": "https://www.nice.org.uk/guidance/ng23/chapter/recommendations",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Diagnose perimenopause/menopause clinically in women >45 without lab tests (menopause=no period >=12 mo without hormonal contraception); FSH testing only in women 40-45 with symptoms or <40 with suspected menopause; offer HRT for vasomotor symptoms after discussing benefits/risks; do not routinely offer SSRIs/SNRIs/clonidine first-line for vasomotor symptoms alone; CBT for low mood/anxiety; vaginal estrogen plus moisturisers/lubricants for urogenital atrophy; oral HRT raises VTE risk while transdermal at standard dose no greater than baseline; estrogen-alone little/no change vs estrogen-progestogen increased breast cancer risk that reduces after stopping"
+    },
+    {
+      "id": "PIN_WHO_MENOPAUSE",
+      "citation": "Menopause (WHO fact sheet)",
+      "org": "WHO",
+      "year": "2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/menopause",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Menopause = 12 consecutive months without menstruation with no other cause; typical age 45-55; results from loss of ovarian follicular function and decline in circulating oestrogen; perimenopause/transition can last several years; vasomotor (hot flushes/night sweats), sleep, mood (anxiety/depression), genitourinary (vaginal dryness, dyspareunia) symptoms; long-term osteoporosis/fracture and reduced cardiovascular protection; both hormonal and non-hormonal interventions via clinician"
+    },
+    {
+      "id": "PIN_LANCET_OGWH_2026_COGNITIVE",
+      "citation": "Gurvich C, Spector A, Hickey M. Advances in understanding of cognitive symptoms during menopause. Lancet Obstet Gynaecol Womens Health 2026; 2: e335–45 (Personal View)",
+      "org": "The Lancet Obstetrics, Gynaecology & Women’s Health",
+      "year": "2026",
+      "url": "https://www.thelancet.com/journals/lanogw",
+      "rights": "COPYRIGHTED_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Cognitive concerns (memory, concentration) reported by a proportion of women in the menopause transition; objective neuropsychological performance generally within expected ranges; sleep, vasomotor symptoms, mood, ageing and stress may contribute; no evidence of a link to Alzheimer’s disease. Patient text: qualitative only, no frequencies."
+    },
+    {
+      "id": "PIN_METCALF_2023_COGNITION_PERI",
+      "citation": "Metcalf CA, Duffy KA, Page CE, Novick AM. Cognitive Problems in Perimenopause: A Review of Recent Evidence. Curr Psychiatry Rep 2023; 25(10): 501–511",
+      "org": "Current Psychiatry Reports / NIH PMC",
+      "year": "2023",
+      "url": "https://doi.org/10.1007/s11920-023-01447-3",
+      "rights": "OPEN_ACCESS_MANUSCRIPT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Cognitive problems common in perimenopause; verbal learning/memory most affected; depression, sleep problems and vasomotor symptoms may be associated; NAMS does not support hormone therapy for cognitive problems. Patient text: qualitative only."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-12",
+    "expires_at": "2029-09-12",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

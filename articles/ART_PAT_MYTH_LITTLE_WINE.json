@@ -1,0 +1,38 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_LITTLE_WINE",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Малко вино не вреди.“",
+    "en": "\"A little wine does no harm.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Алкохолът минава плацентата и няма установено безопасно количество. Ако е пила инцидентно, преди да разбере за бременността — рискът от проблеми е нисък, но е важно да не приема повече.",
+      "en": "Not true. Alcohol crosses the placenta and no safe amount has been established. If she drank incidentally before she knew she was pregnant, the risk of problems is low — but it matters that she does not drink any more."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_4",
+      "citation": "NHS · Drinking alcohol while pregnant",
+      "org": "NHS",
+      "year": "",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/drinking-alcohol-while-pregnant/",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [
+    "ART_PAT_002"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

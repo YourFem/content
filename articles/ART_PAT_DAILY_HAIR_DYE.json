@@ -1,0 +1,36 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_DAILY_HAIR_DYE",
+  "cluster": "SIGNED_DRAFTS",
+  "title": {
+    "bg": "Боядисване на коса",
+    "en": "Hair Dye"
+  },
+  "layers": {
+    "patient": {
+      "bg": "Повечето изследвания показват, че **боядисването на косата е безопасно** в бременност.\nХимикалите в боите могат да навредят само при **много високи дози**, а при боядисване до нея\nдостигат **много малки количества**.\n\nАко иска да е по-спокойна, може да **изчака първите 12 седмици.**\n\n**Кичурите намаляват риска допълнително** — боята стои само върху косъма и не се поема през\nскалпа.\n\nДобре е да се боядисва в **проветриво помещение** и **с ръкавици**, защото кожата в бременност\nсе дразни по-лесно."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_DRAFT_01",
+      "citation": "NHS · Is hair dye safe in pregnancy? (Best Start in Life), прочетена 27.08.2026",
+      "org": "NHS",
+      "year": "2026",
+      "url": "https://www.nhs.uk/best-start-in-life/pregnancy/using-hair-dye-in-pregnancy-is-it-safe/",
+      "rights": ""
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": [
+      "bg"
+    ]
+  }
+}

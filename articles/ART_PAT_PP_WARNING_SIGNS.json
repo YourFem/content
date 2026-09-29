@@ -1,0 +1,85 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_PP_WARNING_SIGNS",
+  "cluster": "PILOT_PP",
+  "title": {
+    "bg": "Тревожни признаци след раждане — кога да потърсите спешна помощ",
+    "en": "Urgent Postpartum Warning Signs — When to Seek Emergency Care"
+  },
+  "layers": {
+    "patient": {
+      "bg": "#### Какво да направите\n\nПовечето от седмиците след раждането преминават спокойно, но някои оплаквания са спешни и не бива да се изчакват. Тези тревожни признаци са важни не само в първите дни, а през цялата първа година след раждането. Ако забележите някой от тях, не чакайте: обадете се на 112 или отидете в спешното отделение или приемния кабинет на най-близката болница за активно лечение с акушеро-гинекологично отделение — там има дежурен лекар денонощно. Ако не можете да се придвижите, кажете това по телефона — спешният център осигурява транспорт. Кажете веднага: „Родих преди … седмици.\" Това променя посоката, в която ще търсят причината.\n\n#### Признаци, при които търсите спешна помощ\n\nПотърсете спешна помощ, ако имате:\n\n- главоболие, което не преминава или се влошава и е най-силното в живота Ви;\n- промени в зрението — светкавици, петна, замъглено или двойно виждане;\n- силен оток на лицето или ръцете;\n- силна, непреминаваща болка в корема, особено горе вдясно;\n- тежко гадене или повръщане, при което не задържате храна и течности;\n- замайване или прималяване;\n- обилно вагинално кървене — напоявате подложка за около час или изпускате големи съсиреци — или течение с лоша миризма;\n- крак или ръка, които се подуват, зачервяват или болят;\n- болка в гърдите или ускорено, силно туптящо сърце;\n- затруднено дишане или невъзможност да лежите легнала;\n- крайно изтощение;\n- треска или втрисане.\n\n#### Мисли да нараните себе си или бебето\n\nАко усетите, че Ви спохождат мисли да нараните себе си или бебето, това също е спешно — не оставайте сама, потърсете помощ незабавно.",
+      "en": "Most of the weeks after birth pass calmly, but some symptoms are emergencies and should not be waited out. These warning signs matter not only in the first days but throughout the whole first year after giving birth. If you notice any of them, seek emergency care right away and say clearly: \"I gave birth within the past year\" — this helps the medical team act faster.\n\nSeek emergency care if you have: a headache that will not go away or gets worse and is the worst you have ever had; vision changes — flashes, spots, blurred or double vision; severe swelling of your face or hands; severe belly pain that does not ease, especially in the upper right; severe nausea or vomiting where you cannot keep food or fluids down; dizziness or fainting.\n\nAlso urgent are: heavy vaginal bleeding — soaking a pad in about an hour or passing large clots — or discharge with a foul smell; a leg or arm that becomes swollen, red, or painful; chest pain or a fast, pounding heartbeat; trouble breathing or being unable to lie flat; overwhelming tiredness; fever or chills. If you find yourself having thoughts of hurting yourself or your baby, this too is an emergency — do not stay alone, and get help immediately."
+    },
+    "student": {
+      "bg": "Тревожните признаци след раждане обхващат симптоми, които изискват спешна оценка до края на първата следродилна година. Съдържателно те отразяват потенциално животозастрашаващи усложнения: неврологични и хипертензивни (упорито най-силно главоболие, зрителни промени, силен оток на лицето/ръцете), сърдечно-съдови и дихателни (гръдна болка, палпитации, задух, невъзможност за легнало положение), тромбоемболични (едностранен оток, зачервяване и болка в крайник), хеморагични и инфекциозни (обилно кървене — напоена подложка за около час или големи съсиреци — зле миришещо течение, треска/втрисане с температура ≥38 °C), както и симптоми на психично-здравна криза (мисли за самонараняване или за навреждане на бебето).\n\nКлючово съобщение при консултиране: пациентката да потърси спешна помощ и изрично да съобщи скорошна бременност/раждане през последната година, тъй като това променя диференциалната диагноза. WHO (2022) допълва, че родилките се съветват да търсят ранна грижа при поява на тревожни признаци между планираните следродилни контакти. Разграничавайте очакваното възстановяване (умерени лохии, следродилни спазми) от червените флагове по интензитет, персистиране и придружаващи симптоми.",
+      "en": "Postpartum warning signs cover symptoms that require urgent evaluation through the end of the first postnatal year. In substance they reflect potentially life-threatening complications: neurological and hypertensive (a persistent worst-ever headache, vision changes, severe face/hand swelling), cardiovascular and respiratory (chest pain, palpitations, breathlessness, inability to lie flat), thromboembolic (unilateral limb swelling, redness, and pain), haemorrhagic and infectious (heavy bleeding — soaking a pad in about an hour or large clots — foul-smelling discharge, fever/chills with temperature ≥38 °C), and signs of a mental-health crisis (thoughts of self-harm or of harming the baby).\n\nThe key counselling message is that the patient should seek emergency care and explicitly report a recent pregnancy or birth within the past year, because this changes the differential diagnosis. WHO (2022) adds that women are advised to seek early care if warning signs develop between scheduled postnatal contacts. Distinguish expected recovery (moderate lochia, afterpains) from red flags by intensity, persistence, and accompanying symptoms."
+    },
+    "doctor": {
+      "bg": "Списъкът на CDC (HEAR HER) функционира като инструмент за навременно разпознаване до края на следродилната година. Всеки признак насочва към конкретна диференциална диагноза, която налага незабавна ескалация:\n- Обилно кървене (напоена подложка за ≤1 час, големи съсиреци), тахикардия, хипотония → следродилен кръвоизлив (ППК).\n- Треска/втрисане с температура ≥38 °C, зле миришещо течение, маточна болезненост → ендометрит/сепсис.\n- Упорито най-силно главоболие, зрителни промени, силен оток на лице/ръце → следродилна прееклампсия/еклампсия (вж. ART_PAT_COMP_PREECLAMPSIA).\n- Едностранен оток, зачервяване и болка в крайник; гръдна болка, задух, палпитации → венозен тромбоемболизъм/белодробна емболия.\n- Задух, невъзможност за легнало положение, палпитации, крайна умора → перипартална кардиомиопатия.\n- Мисли за самонараняване или за навреждане на бебето → психично-здравна спешност (вж. ART_PAT_015).\n\nСъветвайте пациентките да съобщават скорошна бременност при всеки спешен контакт — това повишава чувствителността на триажа. Диференциалните категории често се припокриват (напр. задух при ПЕ спрямо кардиомиопатия), затова прагът за образна и лабораторна оценка е нисък. Свързани: ART_PAT_PP_OVERVIEW, ART_PAT_015, ART_PAT_COMP_PREECLAMPSIA.",
+      "en": "The CDC (HEAR HER) list functions as a tool for timely recognition through the end of the postpartum year. Each sign maps to a specific differential that mandates immediate escalation:\n- Heavy bleeding (soaking a pad in ≤1 hour, large clots), tachycardia, hypotension → postpartum haemorrhage (PPH).\n- Fever/chills with temperature ≥38 °C, foul-smelling discharge, uterine tenderness → endometritis/sepsis.\n- Persistent worst-ever headache, vision changes, severe face/hand swelling → postpartum pre-eclampsia/eclampsia (see ART_PAT_COMP_PREECLAMPSIA).\n- Unilateral limb swelling, redness, and pain; chest pain, breathlessness, palpitations → venous thromboembolism/pulmonary embolism.\n- Breathlessness, inability to lie flat, palpitations, extreme fatigue → peripartum cardiomyopathy.\n- Thoughts of self-harm or of harming the baby → mental-health emergency (see ART_PAT_015).\n\nAdvise patients to report a recent pregnancy at every urgent contact — this raises triage sensitivity. The differential categories frequently overlap (e.g. breathlessness in PE versus cardiomyopathy), so keep a low threshold for imaging and laboratory evaluation. Related: ART_PAT_PP_OVERVIEW, ART_PAT_015, ART_PAT_COMP_PREECLAMPSIA."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_CDC_WARNING",
+      "citation": "CDC HEAR HER — Urgent Maternal Warning Signs",
+      "org": "CDC",
+      "year": "2024",
+      "url": "https://www.cdc.gov/hearher/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Urgent maternal warning signs to end of postpartum year; heavy-bleeding descriptor (soaking >=1 pad/hour or large clots), fever >=38C/100.4F, foul-smelling discharge; used for seek-help signposting. Numeric thresholds restricted to Student/Doctor layers. Facts + original reformulation only."
+    },
+    {
+      "id": "PIN_WHO_PNC",
+      "citation": "WHO recommendations on maternal and newborn care for a positive postnatal experience",
+      "org": "WHO",
+      "year": "2022",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK579653/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Breastfeeding support (positioning, attachment, responsive feeding, exclusive to 6 months, early initiation within 1 h) provided at each postnatal contact. Facts + original reformulation only."
+    },
+    {
+      "id": "PIN_WILLIAMS_26E",
+      "citation": "Cunningham FG, Leveno KJ, Dashe JS, Hoffman BL, Spong CY, Casey BM · McGraw Hill",
+      "org": "Williams Obstetrics, 26th edition, 2022",
+      "year": "2022",
+      "url": "",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY"
+    },
+    {
+      "id": "PIN_BG_SPESHNA_MEDICINA",
+      "citation": "медицински стандарт „Спешна медицина“",
+      "org": "Наредба № 3 от 6.10.2017 г. (МЗ)",
+      "year": "2017",
+      "url": "https://www.mh.government.bg/upload/346/naredba_3_ot_6102017_g_za_utvyrjdavane_na_medicinski_standart_spesna_medicina.pdf",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY"
+    },
+    {
+      "id": "PIN_BG_NAREDBA_8",
+      "citation": "за профилактичните прегледи и диспансеризацията; чл. 10, ал. 1 — родилките до",
+      "org": "Наредба № 8 от 3.11.2016 г. (МЗ)",
+      "year": "2016",
+      "url": "",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY"
+    }
+  ],
+  "see_also": [],
+  "source_check": [
+    "lochia colour progression/~6wk duration, wound self-care, contraception signpost — need obstetric/wound source",
+    "VTE/PE + postpartum-emergency differential — need obstetric-emergency source",
+    "baby-blues prevalence qualitative",
+    "named screening tools (EPDS) omitted (WHO says 'validated tools')",
+    "LOCALIZATION_CHECK: BG postnatal pathway + clinical terminology"
+  ],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-10",
+    "expires_at": "2029-09-10",
+    "publishable": true,
+    "languages_signed": [
+      "bg"
+    ]
+  }
+}

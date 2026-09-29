@@ -1,0 +1,251 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_NIPT",
+  "cluster": "PILOT_CONFIRM_SCREEN_004",
+  "title": {
+    "bg": "НИПТ",
+    "en": "NIPT"
+  },
+  "layers": {
+    "patient": {
+      "bg": "> Тази страница обяснява какво е неинвазивният пренатален тест (НИПТ), какво може и какво не може да ви каже, и как да изберете. НИПТ е скрининг — показва дали рискът е висок или нисък, не поставя диагноза.\n\n## Какво е НИПТ, казано просто\n\nДокато сте бременна, в кръвта ви циркулират малки частици ДНК от плацентата. НИПТ взема обикновена кръвна проба от вената ви, прочита тези частици и проверява дали от някоя хромозома — най-вече 21, 18 и 13 — има повече, отколкото трябва. За бебето няма никакъв риск, затова се казва „неинвазивен\".\n\nРезултатът идва като „нисък риск\" или „висок риск\". **Това е скрининг, не диагноза!** Тестът гледа ДНК на плацентата, а не на бебето, и понякога — макар и рядко — двете се различават. Затова висок риск от НИПТ не означава болно бебе, а нужда от потвърждение; нисък риск не е стопроцентова гаранция.\n\n## Кога се прави\n\nОт 10-та седмица нататък. Някои лаборатории приемат проби и по-рано, но това не е предимство — колкото по-рано, толкова по-малко плацентарна ДНК има в кръвта ви и толкова по-често тестът не дава резултат. Преди НИПТ трябва да сте имали ехография, която е потвърдила, че бременността е в матката, че има сърдечна дейност и колко са бебетата. Най-разумно е кръвта да се вземе около прегледа в 11–13 седмица, за да може лекарят да тълкува резултата заедно с ехографията.\n\n## Колко може да му се вярва\n\nНай-лесно е да сравните двата теста по три числа.\n\nКолко засегнати бременности пропуска: комбинираният тест — около 10–15 на 100 (с допълнителните ехографски маркери около 5 на 100); НИПТ — около 3 на 1000.\n\nКолко здрави бременности плаши напразно: комбинираният тест — около 5 на 100; НИПТ — около 4 на 10 000.\n\nКолко от „високите рискове\" се потвърждават: при комбиниран тест с висок риск бебето наистина е засегнато в около 1 на 20 случая за синдром на Даун и в 1 на 25 до 1 на 70 за тризомии 18 и 13; при НИПТ — в около 9 от 10 за синдром на Даун, 7–9 от 10 за тризомия 18 и само около половината за тризомия 13. Колкото сте по-млада, толкова по-често „високият риск\" е фалшива тревога, защото самите състояния са по-редки при млади жени.\n\nТоест НИПТ пропуска по-малко и тревожи по-малко. Но остава скрининг: положителен НИПТ винаги се проверява с инвазивна диагностика — биопсия на хорион или амниоцентеза — и генетично изследване на взетия материал, преди да се взема каквото и да е решение. Комбинираният тест пък има предимство, което НИПТ няма: прави се на преглед, който оглежда бебето и оценява риска от прееклампсия — вижте по-долу.\n\n## Базов или разширен тест\n\nБазовият тест проверява трите чести тризомии и обикновено половите хромозоми. Разширените тестове обещават повече — редки тризомии, микроделеции, „всички хромозоми\". Звучи по-добре, но не е задължително по-добро за вас:\n\n- за половите хромозоми „висок риск\" се потвърждава едва в около 3 до 7 от 10 случая;\n- за микроделеции (например синдром на ДиДжордж) — в около 1 от 4, а тестът и пропуска част от засегнатите;\n- за редки тризомии на другите хромозоми — в около 1 от 10 до 1 от 20; почти всички такива „находки\" са в плацентата, не в бебето.\n\nЗатова повечето медицински дружества не препоръчват разширените варианти рутинно, а само след разговор, в който ви е обяснено какво ще получите: повече отговори, но и повече неясни резултати, повече тревога и понякога ненужна амниоцентеза. Едно дружество — американските генетици — препоръчва все пак и микроделецията 22q11, защото е най-честата; останалите не. Ако искате сигурен отговор за такива редки състояния, пътят е диагностичното изследване, не по-скъпият НИПТ.\n\n## Ако тестът „не даде резултат\"\n\nПри 1 до 5 от 100 жени лабораторията връща отговор „без резултат\": в пробата е имало твърде малко плацентарна ДНК. По-често се случва при по-високо тегло, при инжекции с хепарин, след ин витро. Не е катастрофа, но не е и „нищо\" — при част от тези бременности причината е състояние на плода, което самò намалява плацентарната ДНК. Затова правилната стъпка не е просто да се повтори тестът, а да се направи подробна ехография и да се обсъди с лекаря дали е разумно диагностично изследване. При повторно вземане на кръв резултат се получава в около половината до две трети от случаите.\n\n## Близнаци и ин витро\n\nПри близнаци НИПТ работи добре за синдрома на Даун, но по-често не дава резултат и при положителен отговор не може да каже кое от двете бебета е засегнато. Ако в началото е имало второ плодно яйце, което е спряло да се развива („изчезнал близнак\"), кажете на лекаря си — неговата ДНК може месеци наред да дава фалшив резултат. След ин витро тестът е малко по-често без резултат, а генетичното изследване на ембриона преди трансфера не замества скрининга в бременността.\n\n## Защо НИПТ не замества прегледа\n\nНИПТ вижда само хромозомите. Не вижда сърцето, мозъка, гръбнака, бъбреците — а вродените дефекти в тях са по-чести от хромозомните състояния. Не оценява и риска ви от прееклампсия. Всичко това прави прегледът в 11–13 седмица, затова той е задължителен независимо дали правите НИПТ. Ако на прегледа има находка или увеличена нухална транслуценция, НИПТ вече е излишен — следващата стъпка е диагностично изследване, защото един скрининг не се уточнява с друг скрининг.\n\n## Как е по света и у нас\n\nВ Англия НИПТ е безплатен, но се предлага само на жени с повишен риск от комбинирания тест. В Холандия и Белгия е безплатен и е първи избор за всяка бременна. В САЩ насоките казват, че трябва да е достъпен за всички. В България се заплаща от жената, здравната каса не го покрива, а обичайният път е първо прегледът с комбинирания тест, а НИПТ — при междинен риск или по желание.\n\nКогато избирате тест, попитайте две неща: кой е производителят и има ли публикувана валидация — проучване в независимо списание, което показва как се е представил тестът при реални бременности с известен изход. Има тестове с такива данни от стотици хиляди бременности. Има и тестове с по-широк обхват и красиви брошури, за които са налични само твърденията на производителя. Разликата не е в цената, а в това какво знаете за теста, за който плащате.\n\n## НИПТ за други неща: резус и единични гени\n\nСъщата кръвна проба може да отговори и на други въпроси, но това са различни тестове с различна тежест.\n\n**Резус-фактор на бебето.** Ако сте Rh-отрицателна, от свободната ДНК може да се определи дали бебето е Rh-положително — от 11+2 седмица. Точността е висока: под 1 на 1000 бебета, определени като отрицателни, се оказват положителни при раждането (NHSBT). Така анти-D профилактиката се дава само на жените, чието бебе наистина е Rh-положително. Подробности — в статията „Резус-фактор и бременност\".\n\n**Единични гени (моногенен НИПТ).** Има и тестове, които търсят не хромозоми, а отделни гени: при известен риск в семейството или при ехографска находка те се използват като диагностика и това е установена практика. Различно е, когато се предлагат „за всеки случай\" на жена без риск — панели за десетки наследствени състояния или за муковисцидоза, спинална мускулна атрофия и таласемии. За тях засега няма достатъчно данни колко пропускат и колко тревожат напразно: в най-голямото проучване изходът е известен само при около 1 на 10 тествани, а при рискови бременности положителен резултат се потвърждава в около половината случаи. Американското дружество ACOG засега не препоръчва моногенен скрининг на свободна ДНК в бременност, а на конгреса на дружеството по пренатална диагностика (ISPD, 2023) залата гласува, че за нискорискови жени е преждевременно (Vora, Langlois, Chitty 2024). Ако имате семейна история, пътят е генетична консултация преди теста, не по-широк панел.\n\n## Ако резултатът е „висок риск\"\n\nНе се паникьосвайте и не взимайте решения по НИПТ. Следващата стъпка е разговор със специалист по майчино-фетална медицина, подробна ехография и диагностично изследване — биопсия на хорион от 11-та седмица или амниоцентеза от 16-та. Те дават диагноза, а рискът от процедурата е много по-малък, отколкото се говори — около 1–3 на 1000. Решението дали да го направите е ваше и се взема с оглед на ехографската находка, вашите обстоятелства и ценности.\n\n## Въпроси към вашия лекар\n\nБазов или разширен тест ми е нужен и защо? Кой е производителят и има ли публикувана валидация? Каква е вероятността при моята възраст „висок риск\" да се потвърди? Какво ще правим, ако няма резултат? Направена ли ми е ехография преди теста?",
+      "en": "> This page explains what the non-invasive prenatal test (NIPT) is, what it can and cannot tell you, and how to choose. NIPT is a screening test — it shows whether the risk is high or low; it does not make a diagnosis.\n\n## What NIPT is, in plain words\n\nWhile you are pregnant, small fragments of DNA from the placenta circulate in your blood. NIPT takes an ordinary blood sample from your vein, reads these fragments and checks whether there is more than there should be from any chromosome — above all 21, 18 and 13. There is no risk at all to the baby, which is why it is called \"non-invasive\".\n\nThe result comes as \"low risk\" or \"high risk\". **This is screening, not diagnosis!** The test looks at the DNA of the placenta, not of the baby, and sometimes — rarely — the two differ. So a high risk on NIPT does not mean an affected baby but a need for confirmation; a low risk is not a one-hundred-percent guarantee.\n\n## When it is done\n\nFrom 10 weeks onwards. Some laboratories accept samples earlier, but that is not an advantage — the earlier, the less placental DNA there is in your blood and the more often the test gives no result. Before NIPT you should have had an ultrasound scan confirming that the pregnancy is in the uterus, that there is a heartbeat, and how many babies there are. The most sensible time to take the blood is around the 11–13 week scan, so that your doctor can interpret the result together with the ultrasound.\n\n## How far it can be trusted\n\nThe easiest way is to compare the two tests by three numbers.\n\nHow many affected pregnancies are missed: the combined test — about 10–15 in 100 (with the additional ultrasound markers about 5 in 100); NIPT — about 3 in 1,000.\n\nHow many healthy pregnancies are alarmed for nothing: the combined test — about 5 in 100; NIPT — about 4 in 10,000.\n\nHow many \"high risks\" are confirmed: with a high-risk combined test the baby really is affected in about 1 in 20 cases for Down syndrome and in 1 in 25 to 1 in 70 for trisomies 18 and 13; with NIPT — in about 9 in 10 for Down syndrome, 7–9 in 10 for trisomy 18 and only about half for trisomy 13. The younger you are, the more often a \"high risk\" is a false alarm, because the conditions themselves are rarer in young women.\n\nSo NIPT misses less and alarms less. But it remains screening: a positive NIPT is always checked by invasive diagnosis — chorionic villus sampling or amniocentesis — and genetic testing of the sample obtained, before any decision is made. The combined test, in turn, has an advantage that NIPT does not: it is done at a scan that examines the baby and assesses the risk of pre-eclampsia — see below.\n\n## Basic or extended test\n\nThe basic test checks the three common trisomies and usually the sex chromosomes. Extended tests promise more — rare trisomies, microdeletions, \"all chromosomes\". It sounds better, but it is not necessarily better for you:\n\n- for the sex chromosomes a \"high risk\" is confirmed in only about 3 to 7 in 10 cases;\n- for microdeletions (for example DiGeorge syndrome) — in about 1 in 4, and the test also misses some of those affected;\n- for rare trisomies of the other chromosomes — in about 1 in 10 to 1 in 20; almost all such \"findings\" are in the placenta, not in the baby.\n\nThat is why most medical societies do not recommend the extended options routinely, but only after a conversation in which it has been explained to you what you will get: more answers, but also more unclear results, more anxiety and sometimes an unnecessary amniocentesis. One society — the American geneticists — does nevertheless recommend the 22q11 microdeletion, because it is the most common; the others do not. If you want a definite answer about such rare conditions, the route is a diagnostic test, not a more expensive NIPT.\n\n## If the test \"gives no result\"\n\nIn 1 to 5 in 100 women the laboratory returns \"no result\": there was too little placental DNA in the sample. This happens more often with a higher weight, with heparin injections, and after IVF. It is not a disaster, but it is not \"nothing\" either — in some of these pregnancies the cause is a condition of the baby that itself reduces the placental DNA. So the right step is not simply to repeat the test, but to have a detailed ultrasound scan and discuss with your doctor whether a diagnostic test is sensible. With a second blood sample a result is obtained in about half to two-thirds of cases.\n\n## Twins and IVF\n\nWith twins NIPT works well for Down syndrome, but more often gives no result, and with a positive answer it cannot say which of the two babies is affected. If there was a second gestational sac at the beginning that stopped developing (a \"vanishing twin\"), tell your doctor — its DNA can give a false result for months. After IVF the test is slightly more often without a result, and genetic testing of the embryo before transfer does not replace screening in pregnancy.\n\n## Why NIPT does not replace the scan\n\nNIPT sees only the chromosomes. It does not see the heart, the brain, the spine, the kidneys — and birth defects in these are more common than chromosomal conditions. Nor does it assess your risk of pre-eclampsia. All of this is done by the 11–13 week scan, which is why the scan is essential whether or not you have NIPT. If there is a finding on the scan or an increased nuchal translucency, NIPT is already unnecessary — the next step is a diagnostic test, because one screening test is not clarified with another.\n\n## How it is done around the world\n\nIn England NIPT is free but is offered only to women with a raised risk from the combined test. In the Netherlands it is free and the first choice for every pregnant woman. In the USA the guidelines say it should be available to all.\n\nWhen choosing a test, ask two things: who the manufacturer is, and whether there is a published validation — a study in an independent journal showing how the test performed in real pregnancies with a known outcome. There are tests with such data from hundreds of thousands of pregnancies. There are also tests with a wider scope and beautiful brochures, for which only the manufacturer's claims are available. The difference is not in the price but in what you know about the test you are paying for.\n\n## NIPT for other things: rhesus and single genes\n\nThe same blood sample can answer other questions too, but these are different tests with different weight.\n\n**The baby's rhesus factor.** If you are Rh-negative, cell-free DNA can tell whether the baby is Rh-positive — from 11+2 weeks. The accuracy is high: fewer than 1 in 1,000 babies predicted to be negative turn out to be positive at birth (NHSBT). In this way anti-D prophylaxis is given only to women whose baby really is Rh-positive. Details are in \"Rh Factor and Pregnancy\".\n\n**Single genes (monogenic NIPT).** There are also tests that look not at chromosomes but at individual genes: with a known risk in the family or with a finding on the scan, they are used as diagnosis, and that is established practice. It is different when they are offered \"just in case\" to a woman without risk — panels for dozens of inherited conditions, or for cystic fibrosis, spinal muscular atrophy and the thalassaemias. For these there are not yet enough data on how many they miss and how many they alarm for nothing: in the largest study the outcome is known for only about 1 in 10 of those tested, and in high-risk pregnancies a positive result is confirmed in about half of cases. The American college ACOG does not currently recommend single-gene cell-free DNA screening in pregnancy, and at the congress of the International Society for Prenatal Diagnosis (ISPD, 2023) the audience voted that for low-risk women it is premature (Vora, Langlois, Chitty 2024). If you have a family history, the route is genetic counselling before the test, not a wider panel.\n\n## If the result is \"high risk\"\n\nDo not panic, and do not make decisions on the basis of NIPT. The next step is a conversation with a specialist in maternal-fetal medicine, a detailed ultrasound scan and a diagnostic test — chorionic villus sampling from 11 weeks or amniocentesis from 15 weeks. These give a diagnosis, and the risk of the procedure is much smaller than is commonly said — about 1–3 in 1,000. The decision on whether to have it is yours and is made in the light of the scan findings, your circumstances and your values.\n\n## Questions for your doctor\n\nDo I need a basic or an extended test, and why? Who is the manufacturer, and is there a published validation? How likely is it at my age that a \"high risk\" will be confirmed? What will we do if there is no result? Have I had an ultrasound scan before the test?"
+    },
+    "student": {},
+    "doctor": {}
+  },
+  "pins": [
+    {
+      "id": "PIN_ACOG_PA_2026_SMFM74",
+      "citation": "ACOG Practice Advisory: Screening for Fetal Chromosomal Abnormalities (January 2026; Bauer ST, Ahmadieh N, Shields AD), endorsing SMFM Consult Series #74: Rink BD, Dugoff L, Kuller JA. Cell-free DNA screening for aneuploidies: updated guidance. Pregnancy 2025;1:e70139. Заменя ACOG PB 226. ПЪЛЕН ТЕКСТ прочетен 19.09.2026 през Chrome.",
+      "org": "ACOG / SMFM",
+      "year": "2026",
+      "url": "https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2026/01/screening-for-fetal-chromosomal-abnormalities",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "cfDNA за T21/18/13 рутинно достъпен за всички (GRADE 1B); най-чувствителен и специфичен скрининг; SCA opt-in (1C); БЕЗ рутинен скрининг за микроделеции — 22q11 само след консултиране, за CNV — диагностика вместо cfDNA (1C); близнаци — cfDNA първи избор за T21 (1B), без SCA при близнаци и без cfDNA при по-висок ред многоплодие (1C); без рутинно cfDNA за големи геномни делеции/дупликации (1C); анатомичен преглед за всички; положителен → консултиране, анатомия, диагностика; nonreportable → консултиране, ехография, диагностика (повишен риск за анеуплоидия)."
+    },
+    {
+      "id": "PIN_ACOG_PB226_2020",
+      "citation": "ACOG/SMFM. Screening for Fetal Chromosomal Abnormalities. Practice Bulletin No. 226, October 2020. Obstet Gynecol 2020;136:e48–69. ЗАМЕНЕН от Practice Advisory 01/2026 — ползва се само за таблиците (риск по възраст, PPV по възраст, сравнение на методите). ПЪЛЕН ТЕКСТ (PDF от д-р Иванов, 19.09.2026).",
+      "org": "ACOG / SMFM",
+      "year": "2020",
+      "url": "",
+      "rights": "LOCAL_PDF_FULL_TEXT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "PPV зависи от възрастта и вида на състоянието; T13 DR 40–100% по проучвания; микроделеции — не валидирани, не се препоръчват, повечето положителни са фалшиви; RAT (T16/T22) — не; cfDNA от 9 г.с., по-висока ФФ по-късно; no-call → повишен риск, консултиране, ехография, диагностика; при мек маркер без скрининг — cfDNA/quad/амнио; близнаци — cfDNA възможно, малко данни за T18/13; PGT не замества скрининга; един скрининг, не няколко едновременно."
+    },
+    {
+      "id": "PIN_ISPD_2023_NIPT",
+      "citation": "Hui L, Ellis K, Mayen D, Pertile MD, Reimers R, Sun L, Vermeesch J, Vora NL, Chitty LS; ISPD Board. Position statement from the International Society for Prenatal Diagnosis on the use of non-invasive prenatal testing for the detection of fetal chromosomal conditions in singleton pregnancies. Prenat Diagn 2023. doi:10.1002/pd.6357. ПЪЛЕН ТЕКСТ (PDF от д-р Иванов, 19.09.2026).",
+      "org": "ISPD",
+      "year": "2023",
+      "url": "https://doi.org/10.1002/pd.6357",
+      "rights": "LOCAL_PDF_FULL_TEXT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Table 2 (по Rose 2022): T21 sens 98,80 / spec 99,96 / PPV 91,78%; T18 98,83 / 99,93 / 65,77%; T13 100 / 99,96 / 37,23%. Table 3 SCA PPV: 45,X 29,5%, XXX 54%, XXY 74%, XYY 74%, общо 43%. 22q11 (проспективно, n=18 289): DR 75%, SPR 0,2%, PPV 23,7%. RAT PPV ~11,5%. Сегментни дисбаланси PPV 32–47%. 29 консенсусни твърдения: NIPT най-точен за T21/18/13 (1); силно препоръчва диагностика при висок риск, ако се обмисля прекъсване (2); ФФ — QC, лабораториите валидират собствен праг (3); пътища при no call (4); малигнитет ~1:10 000 (5); SCA достатъчно точен за предлагане (8); RAT не се препоръчват рутинно; MMS не се препоръчват рутинно (19–21); поне една ранна ехография, NIPT не замества прегледа (22–24); информиран избор, консултиране (25–29)."
+    },
+    {
+      "id": "PIN_NICOLAIDES_2012_AJOG",
+      "citation": "Nicolaides KH, Syngelaki A, Ashoor G, Birdir C, Touzet G. Noninvasive prenatal testing for fetal trisomies in a routinely screened first-trimester population. Am J Obstet Gynecol 2012;207:374.e1-6. ПЪЛЕН ТЕКСТ (PDF от д-р Иванов, 19.09.2026).",
+      "org": "FMF / King's College",
+      "year": "2012",
+      "url": "",
+      "rights": "LOCAL_PDF_FULL_TEXT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Първо проучване на cfDNA в рутинно скринирана популация: n=2049 на 11–13 г.с., резултат при 95,1%, всички 8 T21 и 2/3 T18 открити, FPR 0,1%; хромозомно-селективно секвениране."
+    },
+    {
+      "id": "PIN_VANDERMEIJ_2023_FIRST_TIER",
+      "citation": "van der Meij KRM, Henneman L, Sistermans EA. Non-invasive prenatal testing for everybody or contingent screening? Prenat Diagn 2023;43:428–433. doi:10.1002/pd.6296 (open access). ПЪЛЕН ТЕКСТ прочетен 19.09.2026 през Chrome.",
+      "org": "Dutch NIPT Consortium (Prenat Diagn)",
+      "year": "2023",
+      "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/pd.6296",
+      "rights": "OPEN_ACCESS_FULL_TEXT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Table 1 PPV: комбиниран тест 1:200 — T21 5,2% / T18 4,1% / T13 1,4%; контингентен NIPT 93,5 / 80 / 66,7%; първи ред 96 / 98 / 53%. Table 2 detection-miscarriage ratio: комбиниран 26/21/7; контингентен 468/400/333; първи ред 480/490/265 (при 2/1000 процедурен риск). 14 от 30 европейски страни с национална политика, повечето контингентно; Белгия и Холандия — първи ред; FCT DR 80–90%, NIPT >99%, FPR 0,1% vs 5%; аргументи за/против; NT измерването зависи от умения и контрол на качеството."
+    },
+    {
+      "id": "PIN_ACMG_2023_NIPS",
+      "citation": "Dungan JS, Klugman S, Darilek S, et al. Noninvasive prenatal screening (NIPS) for fetal chromosome abnormalities in a general-risk population: An evidence-based clinical guideline of the American College of Medical Genetics and Genomics (ACMG). Genet Med 2023;25(2):100336. Прочетено по обзор (Medicover Genetics, 19.09.2026) и по цитирането в ISPD 2023 и van der Meij 2023; пълният текст (open access) НЕ е прочетен.",
+      "org": "ACMG",
+      "year": "2023",
+      "url": "https://doi.org/10.1016/j.gim.2022.11.004",
+      "rights": "SECONDARY_SUMMARY_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Силно препоръчва NIPS за T21/18/13 над традиционния скрининг за всички единични и близначни; NIPS за SCA за единични; УСЛОВНО (умерена сигурност) NIPS за 22q11 за всички; НЕ препоръчва други CNV и RAT. Използва се само за разминаването относно 22q11."
+    },
+    {
+      "id": "PIN_BCNATAL_CFDNA_BORRELL",
+      "citation": "Borrell A. Cell-free DNA testing. Prenatal Diagnosis Unit, BCNatal, Hospital Clínic Barcelona — лекция от курс Medicina Maternofetal (обновявана с данни до 2023). PDF, предоставен от д-р Иванов 19.09.2026 (founder-delivered учебен материал).",
+      "org": "BCNatal / Hospital Clínic Barcelona",
+      "year": "2016–2023",
+      "url": "",
+      "rights": "FOUNDER_DELIVERED_LECTURE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Обобщения: T21 SPR 0,3% / PPV 95% / DR 99%; T18+13 PPV 72%; SCA PPV 49% (45,X 32%); атипични тризомии PPV 5% (NL+BE 224 044 бременности); дел/дупл PPV 40%; микроделеции PPV 44% (22q11 проспективно 24%); no call 1–5%, половината от ниска ФФ (<3%); успех при повторение по тегло/ФФ 40–90%; ниска ФФ — OR триплоидия 36, T13 6, 45,X 5,9, T18 4,5; близнаци T21 DR 98% (20 871), failure 4,8% → 1,2%; DCDA PPV 18%; изчезнал близнак PPV 20–25%/0; IVF — ФФ по-ниска, failure 5,2 vs 2,2%; стратегии: много висок риск (ехо аномалия) — не е показан; ≥1/250 — вторичен; 1/100–1/1000 — контингентен; обща популация — първичен; не при увеличена NT."
+    },
+    {
+      "id": "PIN_TOMALAB_2021_EXTENDED_NIPT",
+      "citation": "TOMA Lab / Grati FR et al. — уебинар „Basic vs Extended NIPT\" (2021), слайдове в D:\\Med\\1st tr\\NIPT\\Basic vs Extended NIPT (снимки от екрана, 19 файла); цитира Lüthgens/Grati, Prenat Diagn 2020 (doi:10.1002/pd.5814) и Gil 2017/2019. Прочетени 19.09.2026 (частично — слайдове 2, 3, 5, 6, 8, 12, 17).",
+      "org": "TOMA Advanced Biomedical Assays (търговска лаборатория; учебен уебинар)",
+      "year": "2021",
+      "url": "",
+      "rights": "LECTURE_SLIDES_FACTUAL_SYNTHESIS_ONLY_NOT_PRIMARY",
+      "boundary": "Само за ориентир, не самостоятелен пин: PPV за SCA по Grati 2020 (MX 29,9%, XXY 62,9%, XXX 46,8%, XYY 77,4%; общо 121 119 теста); Gil 2017 единични/близнаци; сегментни дисбаланси — „risks overweight benefits\" (TRIDENT-2 0,16% положителни, 0,05% истински). Първоизточниците са ISPD 2023 и Gil 2017."
+    },
+    {
+      "id": "PIN_IVANOV_NIPT_PRAKTIKA",
+      "citation": "д-р Иван Иванов д.м., акушер-гинеколог, специалист по майчино-фетална медицина — клинични указания в съдържателния чат 19–20.09.2026 (founder-delivered).",
+      "org": "FemAI OS — медицински водещ",
+      "year": "2026",
+      "url": "",
+      "rights": "FOUNDER_DELIVERED_CLINICAL_STATEMENT",
+      "boundary": "Покрива: НИПТ в България се заплаща от жената, НЗОК не го покрива, анализът обикновено е в чужбина; обичайният път — първо прегледът с комбинирания тест, НИПТ при междинен риск или по желание; съветът „попитайте кой е производителят и има ли публикувана валидация\" (тестове с публикувана валидация от стотици хиляди бременности срещу тестове само с фирмени данни — проверка 19.09: NIFTY/BGI — Zhang 2015 UOG n=146 958; Vernador/Геника = SANCO/Genomed Варшава — без публикувана валидация; имената НЕ влизат в пациентския слой); „макар и рядко\"; „инвазивна диагностика и генетично изследване на материала\"."
+    },
+    {
+      "id": "PIN_HUI_BIANCHI_2020_FF",
+      "citation": "Hui L, Bianchi DW. Fetal fraction and noninvasive prenatal testing: What clinicians need to know. Prenat Diagn 2020;40:155–163. doi:10.1002/pd.5620. ПЪЛЕН ТЕКСТ от библиотеката (06_Lectures_and_Education/1st trimester/NIPT/Fetal Fraction.pdf), прочетен 19.09.2026.",
+      "org": "ISPD (Prenat Diagn)",
+      "year": "2020",
+      "url": "https://doi.org/10.1002/pd.5620",
+      "rights": "LOCAL_PDF_FULL_TEXT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Минимална фетална фракция 2–4% (по платформа); no call при ниска ФФ; 50–60% успех при повторно вземане; след неуспешен тест риск за анеуплоидия 2,7–23,3% (T18, T13, триплоидия); ФФ <4% при 7% / 11% / 50% от жените с тегло 100 / 110 / 160 kg; ФФ расте с гестационната възраст; LMWH, автоимунни, ART намаляват ФФ."
+    },
+    {
+      "id": "PIN_GIL_2017_META",
+      "citation": "Gil MM, Accurti V, Santacruz B, Plana MN, Nicolaides KH. Analysis of cell-free DNA in maternal blood in screening for aneuploidies: updated meta-analysis. Ultrasound Obstet Gynecol 2017;50:302–314 (+ Gil et al. 2019;53:734–742 за близнаци). Прочетено от лекционен слайд в библиотеката (06_Lectures_and_Education/1st trimester/NIPT/Basic vs Extended NIPT/5.jpeg), 19.09.2026; пълният текст НЕ е прочетен.",
+      "org": "ISUOG (UOG)",
+      "year": "2017",
+      "url": "",
+      "rights": "SECONDARY_SLIDE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Единични: T21 n=1963 sens 99,7% FPR 0,04%; T18 97,9%/0,04%; T13 99,0%/0,04% (35 проучвания 2011–2017). Близнаци: T21 98,2%/0,05%; T18 88,9%; T13 66,7%."
+    },
+    {
+      "id": "PIN_TRIDENT2_2019",
+      "citation": "van der Meij KRM, Sistermans EA, Macville MVE, et al. TRIDENT-2: National Implementation of Genome-wide Non-invasive Prenatal Testing as a First-Tier Screening Test in the Netherlands. Am J Hum Genet 2019;105(6):1091–1101. Резюме прочетено 19.09.2026 (ScienceDirect).",
+      "org": "Dutch NIPT Consortium",
+      "year": "2019",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0002929719303933",
+      "rights": "ABSTRACT_READ_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "1.04.2017–1.04.2018, 73 239 бременности, 42% обхват; 78% избрали genome-wide; PPV T21 96%, T18 98%, T13 53%; допълнителни находки 0,36% (PPV 6% редки тризомии, 32% структурни, 64% майчин малигнитет); без резултат 1,5% → 0,3% след повторение; проба от 11+0; €175 доплащане тогава."
+    },
+    {
+      "id": "PIN_NHS_FASP_PATHWAY",
+      "citation": "NHS Fetal Anomaly Screening Programme (FASP) handbook — Overview (gov.uk). Прочетено 19.09.2026 през WebFetch.",
+      "org": "NHS England / UK Health Security Agency",
+      "year": "2025",
+      "url": "https://www.gov.uk/government/publications/fetal-anomaly-screening-programme-handbook/overview",
+      "rights": "OGL_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Комбиниран тест при CRL 45,0–84,0 mm, кръв от 10 г.с.; „higher chance\" = 1:2 до 1:150; квадрупъл тест при HC 101–172 mm от 14+2; НИПТ се предлага след higher chance от комбиниран/квадрупъл тест, само за T21/T18/T13; пренатална диагноза (CVS/амниоцентеза) като алтернатива. Използва се в BG и EN слоя."
+    },
+    {
+      "id": "PIN_RIVM_NIPT_2023",
+      "citation": "RIVM (Национален институт за обществено здраве, Нидерландия). „NIPT available as standard option for all pregnant women from 1 April\" (2023) и страница „Perinatal screening\". Прочетени 19.09.2026.",
+      "org": "RIVM",
+      "year": "2023",
+      "url": "https://www.rivm.nl/en/news/nipt-available-as-standard-option-for-all-pregnant-women-from-1-april",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "От 1.04.2023 НИПТ е стандартна възможност за всяка бременна, безплатен, от 10-та седмица, за T21/T18/T13, допълнителни находки по избор; 13-седмична ехография 12+3–14+3, 20-седмична 18+0–21+0. Комбинираният тест не фигурира в програмата."
+    },
+    {
+      "id": "PIN_AKOLEKAR_2015_PROCEDURE_LOSS",
+      "citation": "Akolekar R, Beta J, Picciarelli G, Ogilvie C, D'Antonio F. Procedure-related risk of miscarriage following amniocentesis and chorionic villus sampling: a systematic review and meta-analysis. Ultrasound Obstet Gynecol 2015;45:16–26. Цитиран по резюме (19.09.2026); пълният текст НЕ е прочетен.",
+      "org": "ISUOG (UOG)",
+      "year": "2015",
+      "url": "https://doi.org/10.1002/uog.14636",
+      "rights": "ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Процедурно-свързан риск от загуба: амниоцентеза 0,11%, CVS 0,22% (над фоновия)."
+    },
+    {
+      "id": "PIN_SALOMON_2019_PROCEDURE_LOSS",
+      "citation": "Salomon LJ, Sotiriadis A, Wulff CB, Odibo A, Akolekar R. Risk of miscarriage following amniocentesis or chorionic villus sampling: systematic review of literature and updated meta-analysis. Ultrasound Obstet Gynecol 2019;54:442–451. Цитиран по резюме (19.09.2026); пълният текст НЕ е прочетен.",
+      "org": "ISUOG (UOG)",
+      "year": "2019",
+      "url": "https://doi.org/10.1002/uog.20353",
+      "rights": "ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Актуализиран процедурно-свързан риск: амниоцентеза 0,30% (95% CI 0,11–0,49), CVS 0,20% (−0,15–0,55); в текста обобщено като 0,1–0,3% / ~0,2%."
+    },
+    {
+      "id": "PIN_FMF_NICOLAIDES_2011",
+      "citation": "Nicolaides KH. Screening for fetal aneuploidies at 11 to 13 weeks. Prenat Diagn. 2011;31:7-15.",
+      "org": "FMF",
+      "year": "2011",
+      "url": "https://fetalmedicine.org/fmf/aneuploidies.pdf",
+      "rights": "peer-reviewed-journal-article",
+      "boundary": "Комбиниран тест (MA+NT+free bhCG+PAPP-A) 85-95% DR при 5% FPR; комбиниран тест + назална кост/трикуспидна регургитация/дуктус венозус 93-96% DR при 2.5% FPR."
+    },
+    {
+      "id": "PIN_IVANOV_SKRINING_PRAKTIKA",
+      "citation": "д-р Иван Иванов д.м., акушер-гинеколог, специалист по майчино-фетална медицина — клинични указания в съдържателния чат 18–19.09.2026 (founder-delivered) + собствен документ на МЦ Гален „3. СЪДЪРЖАНИЕ НА АНТЕНАТАЛНИТЕ ГРИЖИ\" (2021).",
+      "org": "FemAI OS — медицински водещ",
+      "year": "2026",
+      "url": "",
+      "rights": "FOUNDER_DELIVERED_CLINICAL_STATEMENT",
+      "boundary": "Покрива: НИПТ при междинен риск (1/100–1/1000) или по желание — българска практика; серумният скрининг 15–19 г.с. открива ~60% и „изпуска почти половината\"; НГЛ срещу FMF — „цена срещу достоверност\"; „градските легенди\" за инвазивните процедури; решението — индивидуално, с МФМ специалист, според скрининг + ехографска находка + ценности; амниоцентеза от 16-та г.с.; „погрешно е едно скринингово изследване да се уточнява с друго\"; НИПТ не оглежда структурните дефекти, „много по-чести от хромозомните аномалии\"."
+    },
+    {
+      "id": "PIN_VORA_CHITTY_2024_SGNIPT",
+      "citation": "Vora NL, Langlois S, Chitty LS. Current controversy in prenatal diagnosis: The use of cfDNA to screen for monogenic conditions in low risk populations is ready for clinical use. Prenatal Diagnosis 2024;44(4):389–397 (дебат от 27-ата конференция на ISPD, Единбург 2023). ПЪЛЕН ТЕКСТ, отворен достъп, прочетен 23.09.2026 през Chrome (Wiley).",
+      "org": "ISPD / Prenatal Diagnosis",
+      "year": "2024",
+      "url": "https://doi.org/10.1002/pd.6469",
+      "rights": "OPEN_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "sgNIPT рецесивни (рефлекс след носителство на майката: CF, SMA, хемоглобинопатии): 9151 жени, изход известен при 12% (201); чувствителност 93,3%, PPV 48,3%, NPV 99,4%; покрива 23 от >2000 CF варианта. Доминантни de novo панел (до 25 състояния): валидационно проучване 422 случая, откриваемост 44–99% по ген; при 2208 случая положителни 5,7%, при нискорискови 0,4%; проследени 54% от положителните, отрицателните почти не; клинично фалшиво отрицателен CHARGE; ненужна CVS при наследен безсимптомен COL1A1. Като диагностика при известен семеен риск/ехографска находка — установена практика (NHS). ACOG (цит.): „single gene cell-free DNA screening is not currently recommended in pregnancy\". Извод и гласуване: преждевременно за нискорискови; нужна клинична валидация."
+    },
+    {
+      "id": "PIN_ISUOG_INVASIVE_2016_FULL",
+      "citation": "Ghi T, Sotiriadis A, Calda P, Da Silva Costa F, Raine-Fenning N, Alfirevic Z, McGillivray G; ISUOG. ISUOG Practice Guidelines: invasive procedures for prenatal diagnosis. Ultrasound Obstet Gynecol 2016;48:256–268. doi:10.1002/uog.15945. ПЪЛЕН ТЕКСТ прочетен 21.09.2026 от D:\\Med\\30. Invasive procedures\\ISUOG.pdf. Заменя PIN_ISUOG_INVASIVE (резюме).",
+      "org": "ISUOG",
+      "year": "2016",
+      "url": "https://doi.org/10.1002/uog.15945",
+      "rights": "LOCAL_PDF_FULL_TEXT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Амниоцентеза ≥15+0 (A), 20–22 G, 15–30 ml, първите 2 ml се изхвърлят; ранна (<14) — повече загуби 7,6 vs 5,9%, талипес 1,3 vs 0,1%; загуба 0,1–1% (B), „recent reports closer to the lower limit\"; Дания 2016: 0,56% до 28 д.; изтичане 1–2%, по-добра прогноза от спонтанна PPROM; хориоамнионит <0,1%; >100 процедури/г.; при >2 убождания — отлагане 24 ч. CVS ≥10+0 (A), ТА/ТЦ еднакви (RCT 3873: 2,3 vs 2,5%), 17–20 G, локална анестезия ТА, кървене 10% (ТЦ до 30%), загуба 0,2–2%, опитни 1/150–1/500, Дания 2016: 0,21%; плацентарен мозаицизъм 1% → амниоцентеза; амниоцитен мозаицизъм 0,25%. FBS ≥18+0, загуба 1–2% (1,4% нетно), при аномалии 13–14%, хидропс 25%, IUGR 8,9%. Показания: скрининг, ехо, анамнеза, носителство, инфекции; възраст >35 сама — не; ART — не; ICSI — информиране; желание на майката — изключение. Консултиране + писмено съгласие; Rh/анти-D до 72 ч освен cffDNA Rh(−); без рутинен антибиотик; HBV висок вирусен товар — трансмисия 50%; HIV на c-ART — не повишен; Cochrane: без аналгезия при амниоцентеза; почивка 12–24 ч по избор; парацетамол; без прогестерон/токолитици. QF-PCR 1–2 дни; кариотип 2 седм., директен CVS 5 дни; FBS 2–5 дни; microarray при аномалии/NT>3,5 (+6,0% / +1,7%; +7% сърце, +5% NT), при неселектирани — спорно (VOUS). Близнаци: амниоцентеза 3,07% (2,59 vs 1,53%, RR 1,81), CVS 3,84%; картиране на хориалността. Аспирин не се спира, една доза хепарин може."
+    },
+    {
+      "id": "PIN_NHSBT_FETAL_RHD_SCREEN",
+      "citation": "NHS Blood and Transplant · International Blood Group Reference Laboratory (IBGRL) · „Fetal RHD screen“. Дословно, прочетена 12.09.2026: „Cell-free fetal DNA screening service for determination of fetal D blood group in D negative pregnant women.“; „Samples can be taken from 11+2 weeks gestation at a routine antenatal clinic appointment.“; целта — „guide antenatal anti-D prophylaxis“; за D-отрицателни жени без образувани имунни анти-D или анти-G антитела; точност: „There is a small chance (0.1%) that a fetus predicted to be D negative will be D positive at birth.“; „up to 2% of fetuses predicted to be D positive will in fact be D negative at birth.“ Свързано: NICE DG25 (2016) — „High-throughput NIPT for fetal RHD genotype is recommended as a cost-effective option to guide antenatal prophylaxis with anti-D immunoglobulin“ (дословно от препоръка 1.1, прочетена 12.09.2026).",
+      "org": "NHS Blood and Transplant (Обединено кралство)",
+      "year": "2026",
+      "url": "https://ibgrl.blood.co.uk/services/molecular-diagnostics/fetal-rhd-screen/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "ПОКРИВА: че при RhD-отрицателна бременна може неинвазивно, от нейна кръв (свободна фетална ДНК), да се определи RhD на плода; че пробата може да се вземе ОТ 11+2 г.с. нататък; че резултатът служи за насочване на антенаталната anti-D профилактика (RhD-отрицателен плод → профилактиката не е нужна; NICE DG25 го препоръчва като икономически оправдана опция); че е за жени без вече образувани антитела; и двете граници на точността (0,1 % и до 2 %). НЕ ПОКРИВА: българската организация, цена, реимбурсация (ART_NIPT: срещу заплащане, не се реимбурсира от НЗОК, няма национален протокол) и поведението при вече налични антитела (→ PIN_BDAG_RH_011)."
+    }
+  ],
+  "pins_en": [
+    "PIN_ACOG_PA_2026_SMFM74",
+    "PIN_ACOG_PB226_2020",
+    "PIN_ISPD_2023_NIPT",
+    "PIN_NICOLAIDES_2012_AJOG",
+    "PIN_VANDERMEIJ_2023_FIRST_TIER",
+    "PIN_ACMG_2023_NIPS",
+    "PIN_BCNATAL_CFDNA_BORRELL",
+    "PIN_TOMALAB_2021_EXTENDED_NIPT",
+    "PIN_IVANOV_NIPT_PRAKTIKA",
+    "PIN_HUI_BIANCHI_2020_FF",
+    "PIN_GIL_2017_META",
+    "PIN_TRIDENT2_2019",
+    "PIN_NHS_FASP_PATHWAY",
+    "PIN_RIVM_NIPT_2023",
+    "PIN_AKOLEKAR_2015_PROCEDURE_LOSS",
+    "PIN_SALOMON_2019_PROCEDURE_LOSS",
+    "PIN_FMF_NICOLAIDES_2011",
+    "PIN_IVANOV_SKRINING_PRAKTIKA",
+    "PIN_ISUOG_INVASIVE_2016_FULL",
+    "PIN_NHSBT_FETAL_RHD_SCREEN",
+    "PIN_VORA_CHITTY_2024_SGNIPT"
+  ],
+  "see_also": [
+    "ART_FIRST_TRIMESTER_SCREENING",
+    "ART_EARLY_FETAL_MORPHOLOGY",
+    "ART_INV_004",
+    "ART_PE_SCREENING",
+    "ART_ANTENATAL_CARE",
+    "ART_RH_ALLOIMMUNIZATION"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-23",
+    "expires_at": "2029-09-23",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

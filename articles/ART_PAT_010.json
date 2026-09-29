@@ -1,0 +1,44 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_010",
+  "cluster": "RAZHDANE_2026-09-13",
+  "title": {
+    "bg": "Подготовка за раждане: признаци и кога да тръгнете",
+    "en": "Preparing for birth: signs of labour and when to go"
+  },
+  "layers": {
+    "patient": {
+      "bg": "Никой не може да каже деня. Тялото съобщава, че раждането започва или наближава, с няколко знака.\n\n**Слузната тапа.** Малко гъста, желеобразна слуз, често розова или с примес на кръв. Показва, че раждането вече е започнало или най-вероятно ще започне в следващите часове до дни. Само по себе си не е повод да тръгвате.\n\n**Контракциите.** Преди раждането коремът може да се стяга и отпуска на пресекулки и това често отслабва само — лъжливо раждане. Контракциите на истинското раждане стават **редовни, по-чести и по-силни**, не спират при движение или почивка; за някои жени приличат на много силна менструална болка. Често има и болка в кръста и позиви към тоалетна. Записвайте ги с таймера тук — не за да броите сама, а за да кажете точни неща по телефона.\n\n**Изтичане на околоплодни води.** Тънка струйка или внезапен поток от течност, който не можете да спрете. **Съобщете веднага, дори без контракции**, по три причини: пъпната връв може да се притисне, ако главичката още не е слязла; раждането обикновено започва скоро след това; колкото повече минава времето, толкова по-вероятна е инфекция.\n\n## Кога да тръгнете\n\nОбадете се на лекаря си или в родилното **рано — по-добре е да ви върнат вкъщи, отколкото да закъснеете.** Ориентирите, които лекарите използват, се различават малко и затова са изписани и двата: по NHS — обадете се при **редовни контракции на около 5 минути или по-често**; по Williams — контракции **на 5 минути в продължение на един час** (дванадесет и повече за час), при цели води и без кървене, може да означават начало на раждането.\n\n**Веднага, без да чакате ритъм**, при: изтичане на води; кървене от влагалището; бебето мърда по-малко от обичайното; сте **под 37 г.с.** и мислите, че раждате; контракция, която трае **над 2 минути**; **6 и повече контракции за 10 минути**; силно главоболие, замъглено виждане или силна болка в корема — тревожните признаци от седмиците важат и тук; или просто чувствате, че нещо не е наред. Не чакайте до сутринта — обадете се веднага, дори посред нощ. Никой няма да ви упрекне за фалшива тревога."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_WILLIAMS_26E_LABOR_ONSET",
+      "citation": "Williams Obstetrics, 26th ed. (2022). Chapter 21 „Physiology of Labor“, стр. 409 (Uterine Labor Contractions); Chapter 22 „Normal Labor“, стр. 425–426 („Identification of Labor“, „Ruptured Membranes“). Прочетено ДИРЕКТНО от екземпляра в 07_Medical_Source_Library на 13.09.2026. Дословно, стр. 409: „In others, labor initiation is heralded by spontaneous release of a small amount of blood-tinged mucus from the vagina. This extrusion of the mucus plug … is referred to as “bloody show.” Its passage indicates that labor is already in progress or likely will ensue in hours to days.“ Стр. 425: „Pregnant women are urged to report early in labor rather than to procrastinate until delivery is imminent.“; „False labor eventually wanes spontaneously, whereas the contractions of true labor typically progress to an effective, regular pattern.“; „in the absence of ruptured membranes or bleeding, uterine contractions 5 minutes apart for 1 hour—that is, ≥12 contractions in 1 hour—may signify labor onset“ (Pates 2007: активно раждане в рамките на 24 ч. при три четвърти от жените с ≥12 контракции/час). Стр. 426: „During prenatal care, the woman is instructed to be aware of fluid leakage from the vagina and to report this event promptly. Rupture of the membranes is significant for three reasons. First, if the presenting part is not fixed in the pelvis, the umbilical cord can prolapse and be compressed. Second, labor is likely to begin soon if the pregnancy is at or near term. Third, if delivery is delayed after membrane rupture, intrauterine and neonatal infection is more likely as the time interval lengthens.“",
+      "org": "Cunningham, Leveno, Dashe, Hoffman, Spong, Casey (McGraw Hill)",
+      "year": "2022",
+      "url": "07_Medical_Source_Library/05_Textbooks/International/Williams Obstetrics 26e by Cunningham, Leveno, Dashe, Hoffman, Spong, and Casey.pdf",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "ПОКРИВА: трите признака на започващо раждане (тапата/„кърваво зацапване“ — часове до дни; контракциите на истинското раждане стават редовни и по-силни, на лъжливото — отслабват; изтичане на води — съобщава се веднага, три причини); ориентировъчното правило „на 5 минути в продължение на 1 час (≥12 за час) — при цели води и без кървене — може да означава начало“; „обадете се рано, не чакайте“. НЕ ПОКРИВА: прагове за преждевременно раждане (отделен пин), самооценка на разкритие, домашно раждане."
+    },
+    {
+      "id": "PIN_NHS_SIGNS_LABOUR",
+      "citation": "NHS · „Signs that labour has begun“ (Page last reviewed: 9 November 2023). Прочетена 13.09.2026. Дословно: знаци — „contractions or tightenings“, „a “show”, when the plug of mucus from your cervix comes away“, „backache“, „an urge to go to the toilet“, „your waters breaking“; „This sticky, jelly-like pink mucus is called a show … Labour may quickly follow or may take a few days.“; „Call your midwife or maternity unit for guidance if you're having regular contractions coming every 5 minutes or more often.“; води — „you may feel a slow trickle or a sudden gush of water you cannot control“; СПЕШНО (call urgently) — „your waters break“, „you have vaginal bleeding“, „your baby is moving less than usual“, „you're less than 37 weeks pregnant and think you might be in labour“, „any of your contractions last longer than 2 minutes“, „you're having 6 or more contractions every 10 minutes“; „Do not wait until the next day – call immediately, even if it's the middle of the night.“",
+      "org": "NHS (Обединено кралство)",
+      "year": "2023",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/signs-that-labour-has-begun/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "ПОКРИВА: петте знака; правилото „на 5 минути или по-често → обади се“; шестте спешни повода (води, кървене, по-малко движения, под 37 г.с., контракция над 2 мин, 6+ за 10 мин); „обади се веднага, дори посред нощ“. Разминаване с PIN_WILLIAMS_26E_LABOR_ONSET (5 мин в продължение на 1 час, ≥12/час) — изписват се и двете."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-13",
+    "expires_at": "2029-09-13",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

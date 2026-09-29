@@ -1,0 +1,35 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_HOSPITAL_BAG",
+  "cluster": "RAZHDANE_2026-09-13",
+  "title": {
+    "bg": "Сакът за родилното",
+    "en": "Hospital bag"
+  },
+  "layers": {
+    "patient": {
+      "bg": "Пригответе го **поне три седмици преди термина** — от 36-та седмица — и го дръжте до вратата. Питайте болницата какво дават те и какво искат да носите: списъците се различават. Без марки — всяко нещо върши работа, ако е чисто и меко.\n\n## Какво да има вътре\n\n**Документи** (в плик, най-отгоре): лична карта; картата за профилактика на бременността (обменната карта) с всички изследвания; последните ехографии и епикризи, ако има; направление или договор с болницата, ако е нужно; **планът на раждането** от приложението, разпечатан; опаковките на лекарствата, които приемате; кръвна група, ако я знаете; телефон на лекаря ви.\n\n**За вас по време на раждането:** широка удобна дреха или нощница; халат и чехли; топли чорапи; ластик за коса; водна пръскачка или ветрило; маска за очи; вода и нещо леко за след раждането; телефон и зарядно с дълъг кабел; при желание — слушалки, малка възглавница.\n\n**За вас след раждането:** две-три смени удобни дрехи; нощници с копчета отпред; два-три сутиена за кърмене и подплънки; големи меки или еднократни бикини; **две опаковки** много попиващи превръзки за след раждане; тоалетни принадлежности, кърпа; дрехи за прибиране — с размера от средата на бременността, не отпреди нея.\n\n**За бебето:** бодита и ританки; шапчица, ръкавички против драскане, чорапки; памперси за новородено, памук, мокри кърпички, муселинови пелени; одеялце; дрехи за изписване по сезона — през зимата гащеризон; **столчето за кола — монтирано предварително**, ако се прибирате с кола."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_HOSPITAL_BAG",
+      "citation": "NHS Best Start in Life · „Hospital bag checklist“ (Modified 22 Dec 2025). Прочетена 13.09.2026. Дословно: „get your hospital bag packed at least 3 weeks ahead of the due date“; за раждането — birth plan and hospital notes, loose comfortable clothing, dressing gown/slippers, front-opening nightwear for breastfeeding, fan or water spray, eye mask, phone and charger; след раждането — 3 changes of comfortable clothes, socks, disposable knickers, 2–3 bras including nursing bras, breast pads, „2 packets of super-absorbent sanitary or maternity pads“, wash bag, towels, medications; за бебето — „bodysuits, vests and sleepsuits“, going-home outfit, „hat, scratch mittens, socks or booties“, nappies, cotton wool, wipes, muslin squares, car seat, blanket.",
+      "org": "NHS (Обединено кралство)",
+      "year": "2025",
+      "url": "https://www.nhs.uk/best-start-in-life/pregnancy/preparing-for-labour-and-birth/hospital-bag-checklist/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "ПОКРИВА: „поне 3 седмици преди термина“ и списъка по три групи + документи. НЕ ПОКРИВА: български документи (лична карта, карта за профилактика на бременността) — практика, по указание на д-р Иванов; търговски уреди (TENS) — не се пренасят."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-13",
+    "expires_at": "2029-09-13",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_NO_COFFEE",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Кафето е забранено напълно.“",
+    "en": "\"Coffee is completely forbidden.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е забранено. Ограничението е 200 mg кофеин на ден — от всички източници заедно, не само от кафето. За ориентир: еспресо (60 ml) ≈ 80 mg; капучино с едно еспресо ≈ 80 mg, с двойно ≈ 160 mg; филтърно кафе (200 ml) ≈ 90 mg; разтворимо кафе, чаша ≈ 100 mg; чай, чаша ≈ 50–75 mg; кока-кола, кен ≈ 40 mg; енергийна напитка (250 ml) ≈ 80 mg; млечен шоколад (50 g) ≈ 10 mg, тъмен ≈ 25 mg. Разтворимите смеси „3 в 1“ също съдържат кофеин — количеството зависи от производителя и не е публикувано. Тоест две кафета изчерпват дневното количество. Границата съществува, защото редовният приём над нея е свързан с по-висок риск от спонтанен аборт и мъртво раждане, а самите 200 mg са поставени заради ограничаване на растежа на плода.",
+      "en": "It is not forbidden. The limit is 200 mg of caffeine a day — from all sources together, not coffee alone. For orientation: espresso (60 ml) ≈ 80 mg; a cappuccino made with one shot ≈ 80 mg, with a double ≈ 160 mg; filter coffee (200 ml) ≈ 90 mg; a cup of instant coffee ≈ 100 mg; a cup of tea ≈ 50–75 mg; a can of cola ≈ 40 mg; an energy drink (250 ml) ≈ 80 mg; milk chocolate (50 g) ≈ 10 mg, dark ≈ 25 mg. Instant \"3-in-1\" mixes also contain caffeine — the amount depends on the manufacturer and is not published. So two coffees use up the daily allowance. The limit exists because regular intake above it is linked to a higher chance of miscarriage and stillbirth, and the 200 mg figure itself was set because of restricted fetal growth."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_3",
+      "citation": "NHS · Foods to avoid in pregnancy; EFSA · Scientific Opinion on the safety of caffeine (2015)",
+      "org": "NHS",
+      "year": "",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [
+    "ART_PAT_002"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_EARLY_FETAL_MORPHOLOGY",
+  "cluster": "ART_EARLY_FETAL_MORPHOLOGY",
+  "title": {
+    "bg": "Ранна фетална морфология (детайлна анатомия на 11–14 с.г.)",
+    "en": "Early fetal morphology (detailed 11–14 week anatomy scan)"
+  },
+  "layers": {
+    "patient": {
+      "bg": "## Какво представлява прегледът на 11–13+6 гестационна седмица\n\nПрегледът между 11-та и 13+6-та гестационна седмица е високоспециализиран ехографски преглед на плода. В рамките на този преглед се извършват едновременно няколко оценки: скрининг за хромозомни аномалии, систематичен оглед на структурата на плода (ранна фетална морфология, включително скрининг за отворена spina bifida), скрининг за прееклампсия, и оценка на риска от преждевременно раждане и от забавен растеж на плода по-късно в бременността. (БДАГ; ISUOG)\n\nИзвършва се обикновено през корема, а при нужда — и през влагалището, когато това дава по-ясна видимост (например при по-високо телесно тегло на майката или при обърната назад матка). (ISUOG; GLOWM)\n\n## Скрининг за хромозомни аномалии\n\nЕдин от компонентите на прегледа е оценката на вероятността плодът да е засегнат от хромозомно състояние — най-често синдром на Даун (тризомия 21) и по-рядко тризомия 18 и 13. Комбинираният тест (нухална транслуценция + два кръвни маркера + възрастта на майката) открива около 85–95% от случаите на тризомия 21 при около 5% фалшиво-положителни резултати; когато се добави оценка на назалната кост, трикуспидната клапа и/или дуктус венозус, откриваемостта се повишава до 93–96% при едва 2,5% фалшиво-положителни резултати (FMF).\n\n## Значение на обучението и одита на специалиста\n\nТези проценти обаче важат само когато измерванията се извършват по стандартизирана техника от обучен и проверен специалист — точността на изчисления риск зависи пряко от качеството на самото измерване, не само от формулата. FMF поддържа собствена система за сертификация на измерването на нухалната транслуценция и одит на резултатите на сертифицираните специалисти (FMF). В центрове, работещи по стандартите на FMF, измерванията се извършват от специалист по майчино-фетална медицина със завършено обучение, който подлежи на одит на резултатите си; при изчисляване на риска и провеждане на скрининга през Националната генетична лаборатория няма изискване за сертификация на извършващия измерването, поради което цитираната чувствителност не може да се гарантира еднакво във всеки случай (д-р Иванов).\n\n## Кръвен тест за свободна ДНК (NIPT/cfDNA)\n\nКръвният тест за свободна ДНК (NIPT/cfDNA) е скринингова методика с по-висока чувствителност за тризомия 21, 18 и 13 — но не е заместител на прегледа на 11–13+6 с.г., а само на комбинирания тест като начин за оценка на хромозомния риск. Самият преглед трябва да се направи във всички случаи, защото той — не NIPT — оценява прееклампсията, структурата на плода и находки като отворена spina bifida или сърдечна патология. При структурна находка или нухална транслуценция над 99-ия персентил NIPT е излишен и по-скъп избор; в тези случаи следващата стъпка е директно диагностично изследване, а не кръвен тест. Подробно обяснение на комбинирания тест и NIPT — какво измерват, кога и как — вижте в статията „Скрининг в първи триместър\" (БДАГ; FMF).\n\n## Систематичен преглед на структурата на плода (ранна фетална морфология)\n\nТова е сърцевината на прегледа на 11–13+6 с.г. и се различава от самия скрининг за хромозомни аномалии: тук се оглежда последователно устройството на плода — черепа и мозъка (включително типичния „пеперудовиден\" образ на съдовите плексуси), лицето и очните ямки, гръбначния стълб, сърцето, коремната стена и мястото, където се залавя пъпната връв, стомахчето, пикочния мехур, бъбреците, крайниците с ръцете и стъпалата. (ISUOG; GLOWM)\n\n## Три групи по откриваемост\n\nНе всички отклонения обаче могат да се видят еднакво рано. Голямо проучване върху над 100 000 бременности разделя структурните отклонения на три групи според това доколко рано се откриват:\n\n- **Аномалии, които на практика винаги се откриват** вече на този преглед — например липса на изграждане на горната част на черепа (акрания), тежка форма на неразделяне на мозъчните полукълба (алобарна холопрозенцефалия), енцефалоцеле, определени тежки сърдечни малформации, дефект в предната коремна стена (омфалоцеле, гастрошизис) и др.\n- **Аномалии, които понякога се откриват вече сега**, в повече от половината случаи — например отворена спина бифида (открита в около 59% от случаите на този етап), тежка хипоплазия на лявото сърце (около 92,5%) или определени дефекти на сърдечната преграда (около 91%).\n- **Аномалии, които рядко се откриват на този етап** (под 10%) — например разширение на мозъчните стомахчета, липса на мазолестото тяло на мозъка, изолирана заешка устна, определени сърдечни или бъбречни отклонения, отклонения в стъпалата. Тези обичайно стават видими едва на прегледа в средата на бременността.\n\nОбщо на прегледа в 11–13+6 с.г. се откриват около 28% от всички структурни отклонения, около 54% се откриват на прегледа във втория триместър, а останалите — по-късно в бременността или след раждането. (Syngelaki et al., 2019)\n\n## Мегацистис и други редки находки\n\nМоже да се разпознаят и по-редки находки като силно уголемен пикочен мехур (мегацистис, ≥7 mm на този етап) — при уголемяване, което не отшуми самò при следващ преглед, честотата на хромозомно отклонение сред изследваните с кариотипиране е около 12%, което е показание за допълнителна оценка, включително генетична консултация. (PLOS ONE, 2021)\n\nЗатова прегледът може да даде по-ранно успокоение или, при находка — по-ранна диагноза и повече време за информиран избор. Но той допълва, а не замества подробния анатомичен преглед в средата на бременността, който остава необходим за всяка бременна. (NHS)\n\n## Скрининг за прееклампсия\n\nНа същия преглед може да се направи и оценка на риска от прееклампсия, като се съчетаят анамнезата, кръвното налягане, доплерово изследване на маточните артерии и кръвен маркер (PlGF). При установен по-висок риск обичайно се препоръчва нискодозов аспирин. Подробности за тази оценка и за аспириновата профилактика — в статията „Скрининг за прееклампсия\". (ISUOG; FMF)\n\n## Оценка на риска от преждевременно раждане и от забавен растеж\n\nЧаст от информацията, събрана на този преглед — анамнезата, някои ехографски и биохимични данни — се използва и за начална ориентация за риска от преждевременно раждане и от по-бавен растеж на плода по-нататък в бременността. Тази оценка се доразвива на следващите прегледи, включително чрез измерване на дължината на маточната шийка и проследяване на растежа — вижте статиите „Измерване на дължината на маточната шийка\" и за фетална растежова рестрикция.\n\n## Ограничения на прегледа\n\nПрегледът има граници. Някои структури на плода — например пълното развитие на мазолестото тяло на мозъка или определени сърдечни отклонения — узряват достатъчно за оценка едва по-късно и по правило не се търсят на този етап. Позицията на плода, особеностите на тъканите на майката и точният момент на изследването също могат да ограничат видимостта. (ISUOG)\n\nПонякога се налага прегледът да се направи и през влагалището, за да се видят структурите по-ясно, или да се повтори след време. Ако нещо не може да се огледа добре този път, това не означава автоматично проблем — означава, че е нужен още един поглед.\n",
+      "en": "The early morphology scan is a detailed ultrasound of the baby, usually performed between 11 and 14 weeks of pregnancy. Its aim is to look systematically at how the baby is built — not only to confirm the due date or to measure the fluid space at the back of the neck.\n\nIt helps to understand how this scan differs from the routine early scan. The routine early scan mainly confirms how far along the pregnancy is, whether there is one baby or more, and whether the baby is growing in the right place, and it is part of early screening. The early morphology scan adds a systematic survey of anatomy: the skull and brain, the face and eye sockets, the spine, the heart, the abdominal wall and where the umbilical cord attaches, the stomach, the bladder, the kidneys, and the limbs with hands and feet.\n\nEven at this early stage, some serious conditions can sometimes be recognised — for example, absence of the upper part of the skull, large openings in the abdominal wall, a markedly enlarged bladder, some major heart problems, and disorders in how the midline of the brain forms. Because of this, the early scan can give earlier reassurance or, when there is a finding, an earlier diagnosis and more time for informed choices.\n\nMany other conditions, however, appear or become visible only later in pregnancy. For this reason the early morphology scan complements but does not replace the detailed anatomy scan performed in the middle of pregnancy. That later scan remains necessary for everyone.\n\nThe scan also has limits. The baby's position, the mother's tissues, and the exact timing of the scan can restrict what is visible. Sometimes the scan is done through the vagina to see structures more clearly, or repeated after some time. If something cannot be seen well this time, it does not automatically mean a problem — it means another look is needed."
+    },
+    "student": {
+      "bg": "**Определение и разграничение.** Ранното феталното морфологично изследване е систематичен анатомичен оглед на плода на 11–13⁺⁶ с.г. (CRL 45–84 mm), който надгражда стандартния преглед за определяне на термина и измерване на нухалната транслуценция (NT). Стандартният ранен преглед и комбинираният скрининг оценяват гестационна възраст, хорионичност/брой, локализация и риска за Даун/Едуардс/Патау чрез NT и биохимия; ранната морфология добавя органна оценка.\n\n**Систематично оценявани структури** (при благоприятни условия):\n- **Череп/мозък:** осификация на калвариума; falx и интерхемисферна фисура по средната линия; хороидни плексуси, изпълващи латералните вентрикули — симетричният им вид формира т. нар. „пеперуден\" знак („butterfly\" sign); нарушената симетрия насочва към холопрозенцефалия. Отсъствието на нормален калвариум е част от последователността акрания–екзенцефалия–аненцефалия.\n- **Лице/орбити:** очни ябълки с лещи, назална кост, профил, цялост на устната.\n- **Гръбнак:** надлъжни и аксиални срезове за подреждане и покривна кожа.\n- **Сърце:** четирикухинна проекция (позиция, левокардия); оценка на изходните трактове/трисъдовата проекция е осъществима в опитни ръце, но не е рутинна.\n- **Корем/урина:** стомах в ляв горен квадрант; пикочен мехур по средната линия; бъбреци; залавяне на пъпната връв (след 12 с.г.).\n- **Крайници:** наличие на костните сегменти, ориентация на ръце и стъпала.\n- **NT/маркери:** измерване на 11–13+6 с.г. само от сертифицирани оператори като хромозомен маркер.\n\n**Кои аномалии се откриват РАНО**: акрания/аненцефалия (последователността е видима от ~12 с.г.); холопрозенцефалия (~14 с.г.: слети таламуси, моновентрикул); големи дефекти на коремната стена — екзомфалос и гастрошизис; мегацистис (надлъжен диаметър на мехура ≥7 mm на 11–13+6 с.г.; хромозомни аномалии в ~12,3% от кариотипираните случаи); тежки сърдечни дефекти; синдром на телесното стъбло/limb-body-wall.\n\n**Кои изискват СРЕДНОтриместърния преглед (18–23 с.г.):** структури, които се развиват или проявяват по-късно — напр. corpus callosum, хипопластично ляво сърце, много прогресивни/еволюиращи лезии. Ориентировъчно ~30% от аномалиите са „винаги\" откриваеми рано, ~40% „понякога\", а ~30% стават явни едва по-късно. Затова ранната морфология допълва, но не замества анатомичния преглед на 18–23 с.г.\n\n**Ограничения:** късно развитие на някои структури, позиция на плода, майчин хабитус, точен гестационен момент; трансабдоминалният достъп е основен, а трансвагиналният е показан при затлъстяване или ретровертирана матка.",
+      "en": "**Definition and distinction.** Early fetal morphology is a systematic anatomical survey of the fetus at 11–13⁺⁶ weeks (CRL 45–84 mm) that builds on the standard dating and nuchal-translucency (NT) scan. The standard early scan and combined screening assess gestational age, chorionicity/number, location, and Down's/Edwards'/Patau's risk via NT and biochemistry; early morphology adds organ-system assessment.\n\n**Structures systematically assessed** (under favourable conditions):\n- **Skull/brain:** calvarial ossification; midline falx and interhemispheric fissure; choroid plexuses filling the lateral ventricles — their symmetrical appearance forms the \"butterfly\" sign; loss of symmetry suggests holoprosencephaly. Absence of a normal calvarium is part of the acrania–exencephaly–anencephaly sequence.\n- **Face/orbits:** globes with lenses, nasal bone, profile, lip integrity.\n- **Spine:** longitudinal and axial views for alignment and overlying skin.\n- **Heart:** four-chamber view (position, levocardia); outflow-tract/three-vessel assessment is feasible in expert hands but not routine.\n- **Abdomen/urinary:** stomach in left upper quadrant; midline bladder; kidneys; cord insertion (after 12 weeks).\n- **Limbs:** presence of bony segments, orientation of hands and feet.\n- **NT/markers:** measured at 11–13+6 weeks by certified operators only, as a chromosomal marker.\n\n**Anomalies detectable EARLY**: acrania/anencephaly (sequence visible from ~12 weeks); holoprosencephaly (~14 weeks: fused thalami, monoventricle); large abdominal-wall defects — exomphalos and gastroschisis; megacystis (longitudinal bladder diameter ≥7 mm at 11–13+6 weeks; chromosomal abnormalities in ~12.3% of karyotyped cases); major cardiac defects; body-stalk/limb-body-wall anomaly.\n\n**Anomalies requiring the MID-trimester scan (18–23 weeks):** structures that develop or manifest later — e.g. corpus callosum, hypoplastic left heart, progressive/evolving lesions. As a rough guide, ~30% of anomalies are \"always\" detectable early, ~40% \"sometimes\", and ~30% become apparent only later. Early morphology therefore complements but does not replace the 18–23-week anatomy scan.\n\n**Limitations:** late development of some structures, fetal position, maternal habitus, exact gestational timing; transabdominal is the primary route, with transvaginal indicated in obesity or retroverted uterus."
+    },
+    "doctor": {
+      "bg": "**Позициониране.** Ранната фетална морфология е структуриран анатомичен обзор на 11–13⁺⁶ с.г. (CRL 45–84 mm), провеждан заедно с датиране, оценка на хорионичност и NT, но методологично отделен от тях: NT/комбинираният скрининг таргетира анеуплоидиен риск, докато морфологията систематично оценява органните системи.\n\n**Протоколен обзор** (документиране при осъществимост):\n- Калвариум/мозък: осификация; falx по средната линия; хороидни плексуси („butterfly\" sign) — асиметрия/загуба на знака насочва към холопрозенцефалия; акрания–екзенцефалия–аненцефалия като темпорална последователност.\n- Лице/орбити; гръбнак (подреждане, покривна кожа); четирикухинна сърдечна проекция с левокардия — разширената кардиална оценка (изходни трактове, трисъдова проекция) е осъществима, но извън рутинния обем.\n- Коремна стена и залавяне на пъпната връв (след 12 с.г.); стомах (ляв горен квадрант); пикочен мехур; бъбреци; крайници с ръце и стъпала.\n\n**Ранно откриваеми vs еволюиращи лезии**: рано — акрания/аненцефалия (~12 с.г.), холопрозенцефалия (~14 с.г.), екзомфалос, гастрошизис, мегацистис (надлъжен диаметър ≥7 mm; ~12,3% хромозомни аномалии при кариотипиране; по-малките мехури могат да регресират спонтанно), тежки CHD, body-stalk/limb-body-wall. Късно проявяващи се/еволюиращи (напр. агенезия на corpus callosum, HLHS, обструктивни уропатии, някои церебрални и скелетни лезии) налагат средно­триместърния анатомичен преглед на 18–23 с.г. Разпределение ~30/40/30 (винаги/понякога/едва по-късно откриваеми).\n\n**Практика.** Основен трансабдоминален достъп; трансвагинален при затлъстяване/ретрофлексия за резолюция. Нормална/непълна визуализация не изключва по-късна патология — консултирай пациентката, че прегледът на 18–23 с.г. остава задължителен. При находка — насочване към фетална медицина, обсъждане на генетично изследване (напр. CVS) и фетална ехокардиография при кардиални суспекции.\n\nLOCALIZATION_CHECK: БГ терминологията е локализирана; националната скринингова схема и препоръчителните срокове да се съгласуват с актуалните указания на БДАГ преди публикуване (без промяна на пиновите факти).",
+      "en": "**Positioning.** Early fetal morphology is a structured anatomical survey at 11–13⁺⁶ weeks (CRL 45–84 mm), performed alongside dating, chorionicity and NT but methodologically distinct: NT/combined screening targets aneuploidy risk, whereas morphology systematically evaluates organ systems.\n\n**Protocol survey** (document where achievable):\n- Calvarium/brain: ossification; midline falx; choroid plexuses (\"butterfly\" sign) — asymmetry/loss of the sign suggests holoprosencephaly; acrania–exencephaly–anencephaly as a temporal sequence.\n- Face/orbits; spine (alignment, overlying skin); four-chamber cardiac view with levocardia — extended cardiac evaluation (outflow tracts, three-vessel view) is feasible but beyond routine scope.\n- Abdominal wall and cord insertion (after 12 weeks); stomach (left upper quadrant); bladder; kidneys; limbs with hands and feet.\n\n**Early-detectable vs evolving lesions**: early — acrania/anencephaly (~12 weeks), holoprosencephaly (~14 weeks), exomphalos, gastroschisis, megacystis (longitudinal diameter ≥7 mm; ~12.3% chromosomal abnormalities on karyotyping; smaller bladders may regress spontaneously), major CHD, body-stalk/limb-body-wall. Later-manifesting/evolving lesions (e.g. agenesis of the corpus callosum, HLHS, obstructive uropathies, some cerebral and skeletal lesions) mandate the mid-trimester anatomy scan at 18–23 weeks. Distribution ~30/40/30 (always/sometimes/only later detectable).\n\n**Practice.** Primary transabdominal approach; transvaginal for obesity/retroflexion to improve resolution. Normal or incomplete visualisation does not exclude later pathology — counsel that the 18–23-week scan remains mandatory. On a finding — refer to fetal medicine, discuss genetic testing (e.g. CVS) and fetal echocardiography for cardiac suspicion.\n\nLOCALIZATION_CHECK: BG terminology localised; national screening scheme and recommended windows to be reconciled with current БДАГ guidance before publication (without altering pinned facts).\n\n### Cross-links: ART_FT_ULTRASOUND, ART_FT_SCREENING, ART_ANOMALY_SCAN, ART_CVS, ART_CHD_ANTENATAL"
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_EM_GLOWM_ANAT",
+      "citation": "Fontanella F, Bardi F, Bilardo CM. First-Trimester Ultrasound Examination of Fetal Anatomy. Global Library of Women's Medicine (GLOWM), Vol 18: Ultrasound in Obstetrics. 2024.",
+      "org": "GLOWM",
+      "year": "2024",
+      "url": "https://www.glowm.com/article/heading/vol-18--ultrasound-in-obstetrics--evaluation-of-fetal-anatomy-in-the-first-trimester/id/419353",
+      "rights": "citation-summary-only-no-verbatim",
+      "boundary": "Choroid plexuses form 'butterfly' sign; systematic anatomy survey adds organ-system assessment beyond NT/CRL; approximately 30% of anomalies always detectable early (e.g. acrania, holoprosencephaly, major cardiac, severe skeletal), ~40% sometimes, ~30% only apparent later; transvaginal approach indicated in obese women or retroverted uterus."
+    },
+    {
+      "id": "PIN_EM_ISUOG_FT",
+      "citation": "Salomon LJ, Alfirevic Z, Bilardo CM, et al. ISUOG Practice Guidelines: performance of first-trimester fetal ultrasound scan. Ultrasound Obstet Gynecol. 2013;41:102-113.",
+      "org": "ISUOG",
+      "year": "2013",
+      "url": "https://www.isuog.org/static/uploaded/4daa1ea7-bc64-4c24-b81b17df5a684a38.pdf",
+      "rights": "guideline-summary-only-no-verbatim",
+      "boundary": "Systematic structures assessable at 11-14 wk: cranial ossification, falx/interhemispheric fissure, choroid plexuses, face/orbits/nasal bone, spine, four-chamber cardiac view (detailed cardiac feasible but not routine), stomach LUQ, bladder, kidneys, cord insertion after 12 wk, limbs/hands/feet; NT measured 11-13+6 wk at CRL 45-84 mm by certified operators; transabdominal and transvaginal both acceptable; limitations = late-developing structures (corpus callosum, HLHS), fetal position, maternal habitus."
+    },
+    {
+      "id": "PIN_EM_MEGACYSTIS",
+      "citation": "Lesieur E, Barrois M, Bourdon M, et al. Megacystis in the first trimester of pregnancy: prognostic factors and perinatal outcomes. PLOS ONE. 2021;16(9):e0255890.",
+      "org": "PLOS ONE",
+      "year": "2021",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255890",
+      "rights": "open-access-summary-no-verbatim",
+      "boundary": "First-trimester megacystis defined as longitudinal bladder diameter >=7 mm at 11-13+6 wk; chromosomal abnormalities in ~12.3% of karyotyped cases; smaller bladders may show spontaneous regression on follow-up."
+    },
+    {
+      "id": "PIN_EM_NHS_12WK",
+      "citation": "NHS. 12-week scan. NHS.uk pregnancy care. Last reviewed 8 November 2023.",
+      "org": "NHS",
+      "year": "2023",
+      "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/12-week-scan/",
+      "rights": "public-health-info-summary-no-verbatim",
+      "boundary": "Dating scan performed ~10-14 wk to date pregnancy, check number/location and development; combined screening (nuchal translucency + blood test) offered for Down's/Edwards'/Patau's; a separate more detailed anomaly scan for physical conditions is offered around 18-20 weeks."
+    },
+    {
+      "id": "PIN_EM_RG_EARLY",
+      "citation": "Fong KW, Toi A, Salem S, et al. Detection of Fetal Structural Abnormalities with US during Early Pregnancy. RadioGraphics. 2004;24(1):157-174.",
+      "org": "RadioGraphics/RSNA",
+      "year": "2004",
+      "url": "https://pubs.rsna.org/doi/10.1148/rg.241035027",
+      "rights": "citation-summary-only-no-verbatim",
+      "boundary": "Acrania-exencephaly-anencephaly sequence detectable from ~12 wk; holoprosencephaly identifiable by ~14 wk (fused thalami, monoventricle); exomphalos, gastroschisis and megacystis detectable in early pregnancy; standardized protocol uses transabdominal US with transvaginal when necessary at 11-14 wk."
+    },
+    {
+      "id": "PIN_BDAG_1113_EM",
+      "citation": "БДАГ. Показания и препоръки за извършване на ултразвуково изследване между 11+0-13+6 гестационна седмица (AKUSHERSTVO-002).",
+      "org": "БДАГ",
+      "year": "",
+      "url": "",
+      "rights": "Medical Source Library /01_BG_National",
+      "boundary": "Прегледът и скринингът на 11+0-13+6 г.с. се предлагат заедно, като част от единен преглед; национален контекст за времевия прозорец."
+    },
+    {
+      "id": "PIN_FMF_NICOLAIDES_2011",
+      "citation": "Nicolaides KH. Screening for fetal aneuploidies at 11 to 13 weeks. Prenat Diagn. 2011;31:7-15.",
+      "org": "FMF",
+      "year": "2011",
+      "url": "https://fetalmedicine.org/fmf/aneuploidies.pdf",
+      "rights": "peer-reviewed-journal-article",
+      "boundary": "Комбиниран тест (MA+NT+free bhCG+PAPP-A) 85-95% DR при 5% FPR; комбиниран тест + назална кост/трикуспидна регургитация/дуктус венозус 93-96% DR при 2.5% FPR."
+    },
+    {
+      "id": "PIN_FMF_CERT_AUDIT",
+      "citation": "Fetal Medicine Foundation. Nuchal Translucency Scan - Certification.",
+      "org": "FMF",
+      "year": "",
+      "url": "https://archive.fetalmedicine.org/fmf-certification-2/nuchal-translucency-scan",
+      "rights": "public-org-page",
+      "boundary": "FMF поддържа сертификация за измерване на нухална транслуценция и списък на специалисти с успешен одит на резултатите (NT specialists with successful audit); ефективният скрининг изисква обучени сонографисти."
+    },
+    {
+      "id": "PIN_IVANOV_NGL_FMF_QUALITY",
+      "citation": "д-р Иван Иванов - клинично наблюдение (15.09.2026)",
+      "org": "FOUNDER_DELIVERED",
+      "year": "2026",
+      "url": "",
+      "rights": "FOUNDER_DELIVERED_2026-09-15",
+      "boundary": "При изчисляване на риска и провеждане на скрининга за хромозомни аномалии през Националната генетична лаборатория няма изискване за сертификация на извършващия измерването; в центрове, работещи по стандартите на FMF, измерванията се извършват от специалист по майчино-фетална медицина със завършено обучение, който подлежи на одит на резултатите си."
+    },
+    {
+      "id": "PIN_SYNGELAKI_2019_ANOMALY_GROUPS",
+      "citation": "Syngelaki A, Hammami A, Bower S, Zidere V, Akolekar R, Nicolaides KH. Diagnosis of fetal non-chromosomal abnormalities on routine ultrasound examination at 11-13 weeks' gestation. Ultrasound Obstet Gynecol. 2019;54:468-476.",
+      "org": "",
+      "year": "2019",
+      "url": "https://fetalmedicine.org/var/pdf/publications/1151.pdf",
+      "rights": "peer-reviewed-journal-article",
+      "boundary": "n=100,997 singleton pregnancies; 1720 (1.7%) non-chromosomal anomalies; три групи по откриваемост на 11-13 с.г. - винаги (100%), понякога (>50%, напр. OSB 59%, HLHS 92.5%, AVSD 90.9%), рядко (<10%); общо 27.6% открити на 1-ви триместър, 53.8% на 2-ри, 18.6% по-късно/следродилно."
+    },
+    {
+      "id": "PIN_NGL_MAICHINDOM",
+      "citation": "Лаборатория по Клинична генетика, СБАЛАГ \"Майчин дом\" (genetika.maichindom.com).",
+      "org": "СБАЛАГ Майчин дом",
+      "year": "",
+      "url": "https://genetika.maichindom.com/за-нас",
+      "rights": "public-org-page",
+      "boundary": "Център за диагностика, профилактика и контрол на над 120 редки генетични болести; биохимичен скрининг за синдром на Даун, дефекти на невралната тръба и други хромозомни болести; дородова и следродова диагностика на хромозомни болести."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-15",
+    "expires_at": "2029-09-15",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_NO_SEAFOOD",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Не бива да яде риба.“",
+    "en": "\"She should not eat fish.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Рибата е полезна и се препоръчват две порции седмично, едната мазна. Ограничението е върху определени видове: дълго живеещите хищни риби натрупват живак и други замърсители в тялото си, затова акула, риба меч и марлин не се ядат изобщо. Тонът се ограничава до 4 средни консерви или 2 стека седмично. Мазната риба — сьомга, пъстърва, скумрия, сардини, херинга — не повече от две порции седмично.",
+      "en": "Not true. Fish is good for her, and two portions a week are recommended, one of them oily. The limit applies to particular species: long-lived predatory fish accumulate mercury and other pollutants in their bodies, so shark, swordfish and marlin are avoided altogether. Tuna is limited to 4 medium cans or 2 tuna steaks a week. Oily fish — salmon, trout, mackerel, sardines, herring — no more than two portions a week."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_2",
+      "citation": "NHS · Foods to avoid in pregnancy · Have a healthy diet in pregnancy",
+      "org": "NHS",
+      "year": "",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [
+    "ART_PAT_002"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_POSTTERM",
+  "cluster": "PILOT_MFM_GAPS",
+  "title": {
+    "bg": "Преносена и късносрочна бременност",
+    "en": "Post-term and late-term pregnancy"
+  },
+  "layers": {
+    "patient": {
+      "bg": "> Терминът е 40-ата седмица, но раждането обикновено започва само по някое време преди 42-ата седмица (NICE 2021). Тук ще прочетете какво значи бременността да продължи след термина, защо от 41-вата седмица лекарят ще започне да говори за раждане и какви са възможностите. Ще разберете и кога не се чака до термина. Числата са от насоки и проучвания. Решенията за вашата бременност взема лекарят, който ви проследява.\n\n## Какво означават думите\n\nБременност от 37+0 до 41+6 седмици е **на термин** — бебето е доносено и раждането във всеки ден от този период е нормално. Бременност от 41+0 до 41+6 се нарича **късен термин**, а от 42+0 нататък — **преносена** бременност (ACOG 2014).\n\nКолко често бременността стига до 42-ата седмица, зависи преди всичко от това колко точно е определен срокът. Когато той е изчислен само по последната менструация, преносените бременности са около 10 от 100. Когато срокът е сверен с ехография в първия триместър, те са около 5 от 100 и дори по-малко (Nicolaides; ACOG 2014). Най-честата „преносеност“ всъщност е грешка в срока. Затова ранната ехография е толкова важна — тя казва кога наистина сте на 41 седмици.\n\nПреносване се случва по-често при първа бременност, при по-високо тегло преди бременността и ако вие или майка ви сте имали преносена бременност (Williams 2022).\n\n## Защо след 41-вата седмица се внимава повече\n\nСлед термина при повечето бебета всичко остава наред. При част от тях обаче околоплодната течност, която и без това намалява след 37-ата седмица, започва да намалява по-бързо — с около една трета на седмица. По-често бебето изпуска първото си изхождане (мекониум) във водите. Част от бебетата стават много едри, а раждането на едро бебе е по-трудно. Плацентата при това дори да не показва белези на „стареене“ — проблемът е по-скоро в кръвообращението между бебето и плацентата (ACOG 2014, Nicolaides).\n\nРискът от загуба на бебето преди или скоро след раждането е нисък във всеки срок. Но той не е еднакъв: започва да расте от 39-ата седмица и по-бързо след 40-ата (Иванов, Nicolaides). В лондонски регистър с над 170 000 раждания той е под 1 на 1000 продължаващи бременности на 37 седмици и около 6 на 1000 на 43 седмици (Nicolaides; ACOG 2014). Затова насоките не чакат 42-ата седмица, а предлагат разговор още на 41.\n\n## Какво показват проучванията\n\nМного проучвания сравняват две възможности на 41 седмици: **предизвикване (индукция)** на раждането или **изчакване** на естественото начало с наблюдение.\n\n- **Бебето.** При индукция от 41-вата седмица загубите на бебета са по-малко. В обобщението на Cochrane те са около 0,4 на 1000 срещу около 3 на 1000 при изчакване (Cochrane 2020). Две големи скандинавски проучвания показват същото, особено при първа бременност (Alkmark 2020).\n- **Цезаровото сечение не става по-често.** Индукцията на термин не увеличава цезаровите сечения, дори леко ги намалява (Cochrane 2020, Alkmark 2020).\n- **И по-рано.** В американското проучване ARRIVE при здрави жени с първа бременност индукцията на 39 седмици води до по-малко цезарови сечения (19 срещу 22 от 100) и по-рядко високо кръвно накрая на бременността (9 срещу 14 от 100). Бебетата не са по-застрашени (ARRIVE 2018). Това не значи, че всички трябва да раждат на 39 седмици — значи, че ако вие го поискате, индукцията на 39 седмици е безопасен избор.\n\nРазликата в абсолютни числа е малка — голямото мнозинство бебета са добре и при двата подхода. Но е постоянна във всички проучвания.\n\n## Какво ще ви предложат и кога\n\nНасоките се различават малко по срока:\n\n- **БДАГ (България):** при неусложнена бременност първо се дава възможност раждането да започне само; от 41+0 седмици лекарят обсъжда с вас, че индукцията може да намали рисковете, а вие преценявате и как тя ще се отрази на раждането ви (Препоръки за индукция на раждането, по NICE).\n- **СЗО (2022):** индукция се препоръчва от 41+0 седмици, не по-рано без причина.\n- **NICE (2021, Великобритания):** от 41+0 седмици лекарят обсъжда с вас индукция. Ако не искате индукция, това е ваше решение — лекарят го записва и обсъжда с вас възможностите нататък.\n- **ACOG (2014, САЩ):** индукцията може да се обсъди между 41+0 и 41+6 седмици и се препоръчва от 42+0 седмици.\n\n**Отлепяне на мембраните** (у нас „прийом на Хамилтон“ — БДАГ). Това е кратка манипулация при гинекологичен преглед: лекарят с пръст, през шийката, леко отделя обвивките на плодния мехур от стената на матката. Прави това по-вероятно раждането да започне само, без лекарства. NICE препоръчва да ви се предложи на прегледите след 39+0 седмици, с ваше съгласие, и да се повтори, ако раждането не започне. Възможни са болка, неприятно усещане и леко кървене (NICE 2021). Намалява вероятността бременността да продължи след 41-вата седмица; не се прави при предлежаща плацента (ACOG 2014).\n\n**Индукцията** е предизвикване на раждането в болница. Начинът зависи от състоянието на шийката. При неузряла шийка се използва лекарство от групата на простагландините — вагинална таблетка, гел или система с бавно освобождаване, или таблетка през устата. При узряла шийка — спукване на мехура и капково лекарство за контракции (NICE 2021, Williams 2022). Лекарят ще ви обясни кой начин е подходящ за вас.\n\n## Ако решите да изчакате\n\nИзборът да изчакате е ваш и е легитимен. Тогава наблюдението е по-често: **два пъти седмично** запис на сърдечната дейност на бебето (кардиотокография) и ехография за количеството околоплодна течност. Насоките се разминават откога: ACOG — от 41+0 седмици; NICE — от 42+0 седмици, като лекарят ви обяснява и какво наблюдението не може да улови (ACOG 2014, NICE 2021). При малко околоплодна течност на 41 седмици или по-късно ACOG препоръчва раждане (ACOG 2014).\n\nМежду прегледите най-важното, което следите сама, са **движенията на бебето**. При осезаемо намаление се обадете веднага, без да чакате следващия преглед. Вижте „Движенията на бебето“.\n\n## Близнаци и тризнаци\n\nПри близнаци не се чака до 40-ата седмица. Плацентата носи по-голямо натоварване, а рискът от загуба на бебе расте по-рано. Затова раждането се планира предварително — според това дали бебетата имат обща плацента или отделни. Видът на плацентата се определя най-добре на ехография в първия триместър.\n\n- **Всяко бебе със своя плацента** (дихориални): NICE — на 37+0 седмици; ACOG — между 38+0 и 38+6 седмици.\n- **Обща плацента, отделни мехури** (монохориални диамниотични): NICE — на 36+0 седмици; ACOG — между 34+0 и 37+6 седмици.\n- **Обща плацента и общ мехур** (монохориални моноамниотични): NICE — между 32+0 и 33+6 седмици, с цезарово сечение; ACOG — 32–34 седмици (NICE 2019, ACOG 2021).\n- **Тризнаци:** NICE — на 35+0 седмици.\n\nАко не искате раждане в тези срокове, NICE препоръчва всяка седмица преглед при специалист с ехография — околоплодна течност и кръвоток в пъпната артерия на всяко бебе — и на всеки две седмици измерване на растежа (NICE 2019).\n\n## Кога не се чака до термина: диабет и високо кръвно\n\nПри някои състояния на майката или бебето рискът от продължаване на бременността расте по-рано. Тогава раждането се планира преди 41-вата седмица — понякога и преди 39-ата. Точният срок зависи от това колко добре е контролирано състоянието и се определя от вашия лекар. Ето насоките за най-честите случаи.\n\n**Диабет.**\n- *Диабет отпреди бременността (тип 1 или 2):* NICE — раждане между 37+0 и 38+6 седмици; ACOG — при добър контрол между 39+0 и 39+6, при лош контрол по-рано (36–38 седмици) (NICE 2015, ACOG 2021).\n- *Гестационен диабет:* NICE — раждане не по-късно от 40+6 седмици. ACOG — при контрол само с диета — между 39+0 и 40+6. При лечение с лекарство — между 39+0 и 39+6 (NICE 2015, ACOG 2021). Вижте „Гестационен диабет“.\n\n**Високо кръвно налягане.**\n- *Хронична хипертония и хипертония, появила се в бременността:* при кръвно под 160/110 насоките не препоръчват раждане преди 37-ата седмица. След 37-ата седмица срокът се обсъжда с лекаря (NICE 2019, БДАГ). ACOG е по-конкретен. При гестационна хипертония — раждане на 37+0. При хронична хипертония без лекарства — между 38+0 и 39+6. С лекарства — между 37+0 и 39+6 (ACOG 2021).\n- *Прееклампсия:* след 37+0 седмици се препоръчва раждане. NICE — в рамките на 24–48 часа. Българският протокол — до 72 часа (NICE 2019, БДАГ, ACOG 2021). Преди 37-ата седмица решението зависи от тежестта. Вижте и „Скрининг за прееклампсия“.\n\n## Кога не се чака до термина: други състояния\n\n**Холестаза на бременността.** Това е сърбеж, най-силно по дланите и стъпалата, с повишени жлъчни киселини в кръвта. Рискът за бебето зависи от нивото на жлъчните киселини (µmol/l):\n\n- **RCOG (2022):** 19–39 — раждането може да се обсъди до 40-ата седмица. 40–99 — между 38-ата и 39-ата седмица. 100 и повече — между 35-ата и 36-ата седмица.\n- **ACOG и SMFM (2021):** 100 и повече — на 36+0. Под 100 — между 36+0 и 39+0 седмици.\n\nПри ниво под 40 рискът за бебето почти не се различава от този при всяка бременност (RCOG 2022).\n\n**Малко околоплодна течност.** Ако количеството е намалено, но всичко друго е нормално, ACOG препоръчва раждане между 36+0 и 37+6 седмици. Ако е установено на 41 седмици или по-късно — раждане (ACOG 2014, ACOG 2021).\n\n**Малко за срока бебе.** Срокът зависи от размера на бебето и от доплера — от 38–39 седмици при леко изоставане до по-рано при тежко (ACOG 2021).\n\n**Едро бебе (без диабет).** Възможностите са изчакване, индукция или цезарово сечение. При индукция рискът раменете на бебето да заседнат при раждането е по-малък, но тежките разкъсвания са по-чести; рискът за живота на бебето и за увреда на нервите на ръката му е еднакъв (БДАГ, NICE 2021).\n\n**Възраст 40 и повече години.** На 39 седмици при жени на 40 и повече години рискът от загуба на бебето е колкото при жени на 25–29 години на 41 седмици. Затова британската насока допуска индукция на 39–40 седмици (RCOG 2013). Това е възможност за обсъждане, не задължение.\n\n**Други.** Предишна загуба на бебе в късна бременност, предлежаща плацента, предишно цезарово сечение с надлъжен разрез на матката или отстранен миом с навлизане в кухината — при тях срокът се планира индивидуално, обикновено преди 39-ата седмица (ACOG 2021).\n\n## Как е у нас\n\nСтандартът по акушерство и гинекология определя нормалната бременност като продължаваща от 37 до 42 гестационни седмици (Наредба № 9/2021). Българското дружество по акушерство и гинекология има препоръки за индукция на раждането (БДАГ), съставени по NICE, RCOG, ACOG и СЗО. За бременност след термина те повтарят британската насока: разговор за индукция от 41+0 седмици. Как да се проследява жена, която е избрала да изчака, в тях не е описано. Практиката зависи от родилното отделение. Попитайте лекаря си предварително как се процедира там, където ще раждате.\n\n## Кога да се обадите — веднага\n\nОбадете се на лекаря, който ви проследява, или отидете в приемното на родилно отделение, ако:\n\n- движенията на бебето са променени — по-малко, по-слаби или са спрели;\n- изтекли са водите — а ако течността е оцветена или мирише, веднага;\n- имате кървене;\n- имате силно главоболие, замъглено зрение или „светкавици“ пред очите, или внезапен оток;\n- имате сърбеж по кожата (NHS 2025, NHS 2026).\n\nПътят за спешна консултация е описан в „Проследяване на бременността“ и „Кога да тръгнете за родилното“.\n\n## Въпроси към вашия лекар\n\n- Сверен ли е срокът ми с ранна ехография?\n- Какво предлагате, ако не родя до 41-вата седмица — и какво се прави в родилното, където ще раждам?\n- Подходяща ли съм за отлепяне на мембраните и от коя седмица?\n- Имам ли причина да раждам по-рано от 41-вата седмица?\n- Ако изберем индукция — по какъв начин и колко време може да продължи?",
+      "en": "> Your due date is 40 weeks, but labour usually starts on its own at some point before 42 weeks (NICE 2021). Here you will read what it means when pregnancy continues past the due date, why your doctor will start talking about birth from 41 weeks, and what the options are. You will also learn when it is not advisable to wait until term. The numbers come from guidelines and studies. Decisions about your pregnancy are made by the doctor who looks after you.\n\n## What the words mean\n\nA pregnancy from 37+0 to 41+6 weeks is **at term** — the baby is fully developed and birth on any day in this period is normal. From 41+0 to 41+6 weeks is called **late term**, and from 42+0 weeks onwards **post-term** (ACOG 2014).\n\nHow often a pregnancy reaches 42 weeks depends above all on how accurately the due date was set. When it is calculated from the last menstrual period alone, about 10 in 100 pregnancies are post-term. When it is confirmed by an ultrasound scan in the first trimester, about 5 in 100 or fewer are (Nicolaides; ACOG 2014). The most common \"post-term pregnancy\" is in fact a wrong due date. That is why the early scan matters so much — it tells you when you are really at 41 weeks.\n\nGoing past the due date is more common in a first pregnancy, with a higher weight before pregnancy, and if you or your mother have had a post-term pregnancy before (Williams 2022).\n\n## Why more care is taken after 41 weeks\n\nAfter the due date most babies remain perfectly well. In some, however, the amniotic fluid, which already declines after 37 weeks, starts to fall faster — by about a third each week. The baby is more likely to pass its first stool (meconium) into the fluid. Some babies grow very large, and the birth of a large baby is more difficult. The placenta itself shows no signs of \"ageing\" — the problem lies rather in the circulation between the baby and the placenta (ACOG 2014, Nicolaides).\n\nThe risk of losing the baby before or shortly after birth is low at any stage. But it is not the same at every stage: it begins to rise from 39 weeks and faster after 40 (Ivanov, Nicolaides). In a London registry of over 170,000 births it was under 1 per 1,000 ongoing pregnancies at 37 weeks and about 6 per 1,000 at 43 weeks (Nicolaides; ACOG 2014). That is why guidelines do not wait for 42 weeks but start the conversation at 41.\n\n## What the studies show\n\nMany studies have compared two options at 41 weeks: **induction** of labour or **waiting** for labour to start on its own, with monitoring.\n\n- **The baby.** With induction from 41 weeks fewer babies are lost. In the Cochrane summary the figures are about 0.4 per 1,000 versus about 3 per 1,000 with waiting (Cochrane 2020). Two large Scandinavian trials found the same, especially in first pregnancies (Alkmark 2020).\n- **Caesarean section does not become more common.** Induction at term does not increase caesarean births and even slightly reduces them (Cochrane 2020, Alkmark 2020).\n- **Even earlier.** In the American ARRIVE trial, in healthy women in their first pregnancy, induction at 39 weeks led to fewer caesarean births (19 versus 22 in 100) and less high blood pressure at the end of pregnancy (9 versus 14 in 100). Babies were no worse off (ARRIVE 2018). This does not mean everyone should give birth at 39 weeks — it means that if you ask for it, induction at 39 weeks is a safe choice.\n\nThe difference in absolute numbers is small — the great majority of babies do well with either approach. But it is consistent across all the studies.\n\n## What you will be offered, and when\n\nThe guidelines differ slightly on timing:\n\n- **WHO (2022):** induction is recommended from 41+0 weeks, and not earlier without a reason.\n- **NICE (2021, UK):** from 41+0 weeks your doctor discusses induction with you. If you do not want induction, that is your decision — it is recorded and your options from then on are discussed with you.\n- **ACOG (2014, USA):** induction may be considered between 41+0 and 41+6 weeks and is recommended from 42+0 weeks.\n\n**Membrane sweeping.** This is a brief procedure during a vaginal examination: the doctor passes a finger through the cervix and gently separates the membranes of the amniotic sac from the wall of the uterus. It makes it more likely that labour will start on its own, without medicines. NICE recommends that it be offered at visits after 39+0 weeks, with your consent, and repeated if labour does not start. Pain, discomfort and light bleeding are possible (NICE 2021). It reduces the chance of the pregnancy continuing past 41 weeks; it is not done when the placenta lies over the cervix (ACOG 2014).\n\n**Induction** means starting labour in hospital. The method depends on the state of the cervix. If the cervix is not yet ready, a medicine from the prostaglandin group is used — a vaginal tablet, gel or slow-release insert, or a tablet by mouth. If the cervix is ready — breaking the waters and a drip to bring on contractions (NICE 2021, Williams 2022). Your doctor will explain which method is right for you.\n\n## If you decide to wait\n\nChoosing to wait is your right and a legitimate choice. Monitoring is then more frequent: **twice a week** a recording of the baby's heartbeat (cardiotocography) and an ultrasound scan of the amount of amniotic fluid. The guidelines differ on when this starts: ACOG — from 41+0 weeks; NICE — from 42+0 weeks, with your doctor also explaining what monitoring cannot detect (ACOG 2014, NICE 2021). If the amniotic fluid is low at 41 weeks or later, ACOG recommends birth (ACOG 2014).\n\nBetween appointments the most important thing you can watch yourself is **your baby's movements**. If they are noticeably reduced, call straight away without waiting for the next appointment. See \"Feeling your baby move\".\n\n## Twins and triplets\n\nWith twins, no one waits until 40 weeks. The placenta carries a greater load and the risk of losing a baby rises earlier. Birth is therefore planned in advance — according to whether the babies share a placenta or each has its own. The type of placenta is best determined at a first-trimester scan.\n\n- **Each baby with its own placenta** (dichorionic): NICE — at 37+0 weeks; ACOG — between 38+0 and 38+6 weeks.\n- **Shared placenta, separate sacs** (monochorionic diamniotic): NICE — at 36+0 weeks; ACOG — between 34+0 and 37+6 weeks.\n- **Shared placenta and shared sac** (monochorionic monoamniotic): NICE — between 32+0 and 33+6 weeks, by caesarean section; ACOG — 32–34 weeks (NICE 2019, ACOG 2021).\n- **Triplets:** NICE — at 35+0 weeks.\n\nIf you do not want birth at these times, NICE recommends a weekly appointment with a specialist including ultrasound — amniotic fluid and blood flow in the umbilical artery of each baby — and a growth scan every two weeks (NICE 2019).\n\n## When you should not wait until term: diabetes and high blood pressure\n\nWith some conditions of the mother or baby, the risk of continuing the pregnancy rises earlier. Birth is then planned before 41 weeks — sometimes before 39. The exact timing depends on how well the condition is controlled and is set by your doctor. Here is what the guidelines say for the most common situations.\n\n**Diabetes.**\n- *Diabetes from before pregnancy (type 1 or type 2):* NICE — birth between 37+0 and 38+6 weeks; ACOG — with good control between 39+0 and 39+6, with poor control earlier (36–38 weeks) (NICE 2015, ACOG 2021).\n- *Gestational diabetes:* NICE — birth no later than 40+6 weeks. ACOG — if controlled by diet alone, between 39+0 and 40+6; if treated with medication, between 39+0 and 39+6 (NICE 2015, ACOG 2021). See \"Gestational diabetes\".\n\n**High blood pressure.**\n- *Chronic hypertension and hypertension that appeared in pregnancy:* with blood pressure below 160/110, the guidelines do not recommend birth before 37 weeks. After 37 weeks the timing is agreed with your doctor (NICE 2019). ACOG is more specific: gestational hypertension — birth at 37+0; chronic hypertension without medication — between 38+0 and 39+6; with medication — between 37+0 and 39+6 (ACOG 2021).\n- *Pre-eclampsia:* after 37+0 weeks birth is recommended — NICE within 24–48 hours (NICE 2019, ACOG 2021). Before 37 weeks the decision depends on severity. See also \"Screening for pre-eclampsia\".\n\n## When you should not wait until term: other conditions\n\n**Cholestasis of pregnancy.** This is itching, worst on the palms and soles, with raised bile acids in the blood. The risk to the baby depends on the bile acid level (µmol/l):\n\n- **RCOG (2022):** 19–39 — birth may be considered by 40 weeks. 40–99 — between 38 and 39 weeks. 100 or more — between 35 and 36 weeks.\n- **ACOG and SMFM (2021):** 100 or more — at 36+0. Below 100 — between 36+0 and 39+0 weeks.\n\nWith a level below 40, the risk to the baby is barely different from that in any pregnancy (RCOG 2022).\n\n**Low amniotic fluid.** If the amount is reduced but everything else is normal, ACOG recommends birth between 36+0 and 37+6 weeks. If it is found at 41 weeks or later — birth (ACOG 2014, ACOG 2021).\n\n**A baby small for its dates.** Timing depends on the baby's size and the Doppler — from 38–39 weeks if mild, earlier if severe (ACOG 2021).\n\n**A large baby (without diabetes).** The options are waiting, induction or caesarean section. With induction the risk of the baby's shoulders getting stuck at birth is lower, but severe tears are more common; the risk to the baby's life and of injury to the nerves of the arm is the same (NICE 2021, 1.2.24).\n\n**Age 40 and over.** At 39 weeks, women aged 40 and over have a risk of losing the baby similar to that of women aged 25–29 at 41 weeks. The British guidance therefore allows induction at 39–40 weeks (RCOG 2013). This is an option to discuss, not an obligation.\n\n**Others.** A previous loss of a baby late in pregnancy, a placenta lying over the cervix, a previous caesarean with a vertical incision in the uterus, or removal of a fibroid that entered the uterine cavity — with these the timing is planned individually, usually before 39 weeks (ACOG 2021).\n\n## When to call — straight away\n\nCall the doctor who looks after you, or go to the maternity unit, if:\n\n- your baby's movements have changed — fewer, weaker or stopped;\n- your waters have broken — and if the fluid is coloured or smells, immediately;\n- you are bleeding;\n- you have a severe headache, blurred vision or \"flashing lights\", or sudden swelling;\n- your skin is itching (NHS 2025, NHS 2026).\n\nThe route to urgent advice is described in \"Antenatal care\" and \"Preparing for birth: signs of labour and when to go\".\n\n## Questions for your doctor\n\n- Was my due date confirmed by an early scan?\n- What do you suggest if I have not given birth by 41 weeks — and what is the practice at the unit where I will give birth?\n- Am I suitable for membrane sweeping, and from which week?\n- Do I have a reason to give birth earlier than 41 weeks?\n- If we choose induction — by which method, and how long might it take?"
+    },
+    "student": {
+      "bg": "Дефиниции по гестационна възраст: термин 37+0–40+6 седмици; късносрочна (late-term) бременност 41+0–41+6; преносена (post-term) при ≥42+0. Само около 0,25% от бременностите достигат 42 седмици, тъй като повечето завършват спонтанно или се води раждане по-рано.\n\nРискът за плода нараства прогресивно с гестацията. Мъртвораждаемостта/перинаталната смъртност се увеличава от около 0,11 на 1000 при 37 седмици до около 3,18 на 1000 при 42 седмици. Успоредно нарастват макрозомия, мекониум в околоплодната течност, олигохидрамнион, раменна дистокия, честота на цезарово сечение и постъпване в неонатално интензивно отделение; повишени са и майчините рискове.\n\nКлючово условие е точното определяне на срока чрез датиране през първи триместър — то дефинира кога бременността е късносрочна или преносена и предпазва от свръхдиагноза (виж кръстосаната връзка към датирането).\n\nМеханизмът на нарастващия риск се свързва с прогресивно стареене на плацентата и намаляваща функционална резерва, което може да доведе до олигохидрамнион и намалена оксигенация на плода. Затова антенаталното наблюдение стартира около 41 седмица и включва нестрес-тест (NST) и оценка на околоплодната течност (често като модифициран биофизичен профил); абнормен резултат или намаляващ обем на течността насочват към ускорено раждане.\n\nИндукцията на раждане на 41 седмица намалява перинаталната смъртност и мъртвораждаемостта в сравнение с изчаквателно поведение; при всички случаи се цели раждане до 42 седмици. Тъй като повечето бременности навлизат в спонтанно раждане около термина, обсъждането е споделено решение, съобразено с предпочитанията на пациентката и клиничния контекст. Съобщаването на намалени движения остава ключов сигнал за незабавна преоценка.",
+      "en": "Definitions by gestational age: term is 37+0–40+6 weeks; late-term is 41+0–41+6; post-term is ≥42+0. Only about 0.25% of pregnancies reach 42 weeks, because most end spontaneously or are delivered earlier.\n\nFetal risk rises progressively with gestation. Stillbirth/perinatal mortality increases from roughly 0.11 per 1000 at 37 weeks to about 3.18 per 1000 at 42 weeks. In parallel, macrosomia, meconium-stained fluid, oligohydramnios, shoulder dystocia, caesarean rate and neonatal intensive care admission all increase; maternal risks are also higher.\n\nA key prerequisite is accurate first-trimester dating — it defines when a pregnancy is late-term or post-term and guards against over-diagnosis (see the cross-link to dating).\n\nThe mechanism of rising risk is linked to progressive placental ageing and falling functional reserve, which can produce oligohydramnios and reduced fetal oxygenation. Antenatal surveillance therefore begins around 41 weeks and typically combines a non-stress test (NST) with assessment of amniotic fluid (often as a modified biophysical profile); an abnormal result or a falling fluid volume points toward expedited delivery.\n\nInduction of labour at 41 weeks reduces perinatal mortality and stillbirth compared with expectant management; in all cases delivery is aimed for by 42 weeks. Because most pregnancies enter spontaneous labour around term, the discussion is a shared decision that reflects the patient's preferences and the clinical context. Throughout, reporting of reduced fetal movements remains an important trigger for immediate reassessment."
+    },
+    "doctor": {
+      "bg": "Дефинирайте статуса спрямо точно първотриместърно датиране: термин 37+0–40+6; late-term 41+0–41+6; post-term ≥42+0. Достигане на 42 седмици е рядко (~0,25%). Използвайте датирането като първа стъпка при всяко съмнение за преносена бременност (кръстосана връзка към датирането).\n\nКонсултирайте пациентката за прогресивно нарастващия риск: мъртвораждаемост от ~0,11 на 1000 (37 седмици) до ~3,18 на 1000 (42 седмици), както и макрозомия, мекониум, олигохидрамнион, раменна дистокия, цезарово сечение, неонатален прием и майчина заболеваемост.\n\nЗапочнете антенатално наблюдение около 41 седмица (NST + околоплодна течност; виж връзката към фетално наблюдение и оценка на амниотична течност). Предложете индукция на 41 седмица — намалява перинаталната смъртност/мъртвораждаемост спрямо изчакване — с планирано раждане най-късно до 42 седмици. Представяйте индукцията като споделено решение, не директивно.\n\nДокументирайте датирането, гестационната възраст и информираното обсъждане. Инструктирайте пациентката да съобщава намалени движения незабавно (връзка към намалени движения). При абнормно наблюдение, намаляващ обем на околоплодната течност или олигохидрамнион ускорете обсъждането и планирането на раждане, независимо от седмицата в интервала. Изборът на метод за индукция и оценката на цервикалната зрялост следват локалния протокол. Локализирайте пътеката за времето на индукция към българската практика и Наредба №8.",
+      "en": "Define status against accurate first-trimester dating: term 37+0–40+6; late-term 41+0–41+6; post-term ≥42+0. Reaching 42 weeks is uncommon (~0.25%). Use dating as the first step whenever post-term status is in question (cross-link to dating).\n\nCounsel on progressively rising risk: stillbirth from ~0.11 per 1000 at 37 weeks to ~3.18 per 1000 at 42 weeks, alongside macrosomia, meconium, oligohydramnios, shoulder dystocia, caesarean, neonatal admission and maternal morbidity.\n\nBegin antenatal surveillance around 41 weeks (NST plus amniotic fluid assessment; see fetal-surveillance and amniotic-fluid cross-links). Offer induction of labour at 41 weeks — it reduces perinatal mortality/stillbirth versus expectant management — with delivery planned no later than 42 weeks. Frame induction as a shared, non-directive decision aligned with the patient's preferences.\n\nDocument dating, gestational age and the informed discussion. Instruct the patient to report reduced fetal movements immediately (cross-link to reduced movements). Escalate the timing-of-delivery discussion and planning if surveillance is abnormal, amniotic fluid volume is falling, or oligohydramnios is present, regardless of the exact week within the interval. Choice of induction method and assessment of cervical readiness follow the local protocol. Localise the induction-timing pathway to Bulgarian practice and Наредба №8.\n\n### Cross-links: ART_OB_004, ART_FETAL_SURVEILLANCE, ART_DFM, ART_AMNIOTIC_FLUID, PILOT_LABOUR\n\n### SOURCE_CHECK\n- All numeric claims (gestational thresholds, ~0.25% reaching 42 weeks, stillbirth 0.11→3.18 per 1000, surveillance from 41 weeks, induction at 41 weeks) are pinned to PIN_AFP_POSTTERM (AAFP, 2024), rights: LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY.\n- No drug doses stated. No pin tokens appear inline in prose; pins are confined to the Claims table.\n- Patient layer verified free of digits, percentages, statistics, numeric week thresholds, tokens and ART_ references; gestational timing expressed only qualitatively (\"около и след термина\" / \"around and past the due date\").\n- Cross-linked topics (dating, fetal surveillance, amniotic fluid, reduced movements) reference their own source-checked articles; claims here not duplicated across pins.\n\n### LOCALIZATION_CHECK\n- Induction-timing recommendations (surveillance from 41 weeks, offer of induction at 41 weeks, delivery by 42 weeks) reflect AAFP/international guidance and MUST be reconciled with the Bulgarian induction-timing pathway and Наредба №8 before clinical release.\n- RED-TEAM to confirm the local threshold, referral level and documentation expected for post-term induction under Bulgarian practice, and to verify terminology (преносена / късносрочна бременност) against national usage.\n- Shared-decision and non-directive framing of induction to be checked against local consent norms; reduced-movements reporting pathway to be aligned with the national contact/triage route."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_ACOG_PB146_2014",
+      "citation": "ACOG Practice Bulletin No. 146: Management of Late-Term and Postterm Pregnancies. Obstet Gynecol 2014;124:390–6 (reaffirmed 2019). ПЪЛЕН ТЕКСТ — PDF, предоставен от д-р Иванов на 22.09.2026 (Management_of_Late-Term_and_Postterm_Pregnancies.pdf).",
+      "org": "ACOG",
+      "year": "2014",
+      "url": "https://doi.org/10.1097/01.AOG.0000452744.06088.48",
+      "rights": "COPYRIGHTED_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Дефиниции: late term 41+0–41+6, postterm ≥42+0; честота в САЩ 5,5% (2011); рисковете — мъртвораждане (Шотландия 0,4/1000 на 37 г.с. → 11,5/1000 на 43), мекониум, макрозомия, олигохидрамнион; отлепяне на мембраните намалява преносеността, противопоказано при placenta previa; наблюдение от 41+0 (два пъти седмично NST + околоплодна течност, без доказан оптимален режим); при олигохидрамнион ≥41+0 — раждане; индукция може да се обсъди 41+0–41+6, препоръчва се от 42+0."
+    },
+    {
+      "id": "PIN_WILLIAMS_26E_POSTTERM",
+      "citation": "Cunningham FG et al. Williams Obstetrics, 26th ed. McGraw Hill 2022 — гл. 46 „Postterm Pregnancy\" (дефиниции, рискови фактори, Table 46-1, наблюдение, ARRIVE, отлепяне на мембраните — Finucane 2020) и гл. 26 „Induction and Augmentation of Labor\" (методи, membrane stripping). ПЪЛЕН ТЕКСТ (локален PDF, 07_Medical_Source_Library/05_Textbooks/International), прочетен 22.09.2026.",
+      "org": "McGraw Hill",
+      "year": "2022",
+      "url": "",
+      "rights": "TEXTBOOK_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Рискови фактори (Olesen 2006, Danish Birth Cohort): ИТМ ≥25 преди бременността и нулипаритет; повторяемост при майка и дъщеря; рискът от неблагоприятен изход расте с възрастта на майката; отлепяне на мембраните — леко повече спонтанни раждания и по-малко индукции, без по-малко цезарови; методи за индукция — простагландини, механични, амниотомия + окситоцин."
+    },
+    {
+      "id": "PIN_GABBE_CH36_POSTTERM",
+      "citation": "Landon MB, Galan HL, Jauniaux ERM et al. (eds). Gabbe's Obstetrics: Normal and Problem Pregnancies, 8th ed. Elsevier 2021 — глава за late-term/postterm pregnancy. Локален текст, прегледан 22.09.2026 за съгласуваност; отделно число от Gabbe в пациентския текст НЯМА.",
+      "org": "Elsevier",
+      "year": "2021",
+      "url": "",
+      "rights": "TEXTBOOK_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Само проверка на съгласуваност с ACOG/Williams (дефиниции, рискове, наблюдение, индукция от 41 г.с.)."
+    },
+    {
+      "id": "PIN_BERGHELLA_MFM_EBG",
+      "citation": "Berghella V (ed). Maternal-Fetal Evidence Based Guidelines, 4th ed. CRC Press 2022 — раздел за postterm pregnancy. Локален текст, прегледан 22.09.2026 за съгласуваност; отделно число от Berghella в пациентския текст НЯМА.",
+      "org": "CRC Press",
+      "year": "2022",
+      "url": "",
+      "rights": "TEXTBOOK_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Само проверка на съгласуваност (индукция на 41 г.с., без повече цезарови)."
+    },
+    {
+      "id": "PIN_NICE_NG207_2021",
+      "citation": "NICE. Inducing labour. NICE guideline NG207, 04.11.2021 — препоръки 1.2.1–1.2.7 (prolonged pregnancy), 1.3.1–1.3.3 (membrane sweeping), 1.3.5, 1.3.7, 1.3.9 (методи). Прочетено 22.09.2026 през WebFetch.",
+      "org": "NICE",
+      "year": "2021",
+      "url": "https://www.nice.org.uk/guidance/ng207/chapter/recommendations",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Раждането обикновено започва само преди 42+0 (по датиране от ехография); рисковете след 41+0 растат (цезарово, интензивно отделение, мъртвораждане/неонатална смърт); индукция от 41+0 може да ги намали; при отказ — записва се, обсъждат се възможностите; допълнително наблюдение (два пъти седмично КТГ + най-дълбок джоб) — ОТ 42 СЕДМИЦИ (1.2.7); отлепяне — на прегледите след 39+0 с устно съгласие, повторение; болка, дискомфорт, кървене; неузряла шийка — динопростон (таблетка/гел/система) или мизопростол 25 µg per os; узряла — амниотомия + окситоцин. Продължителност на индукцията НЕ е дадена."
+    },
+    {
+      "id": "PIN_WHO_IOL_2022",
+      "citation": "WHO. WHO recommendations on induction of labour, at or beyond term. Geneva: World Health Organization; 2022. Прочетено в предишната сесия (22.09.2026, WebFetch).",
+      "org": "СЗО",
+      "year": "2022",
+      "url": "https://www.who.int/publications/i/item/9789240052796",
+      "rights": "PUBLIC_WHO_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Индукция се препоръчва при сигурен срок ≥41+0 (умерена сигурност); не се препоръчва преди 41+0 без друго показание (ниска сигурност)."
+    },
+    {
+      "id": "PIN_BDAG_INDUKCIYA_AKUSHERSTVO_014",
+      "citation": "Българско дружество по акушерство и гинекология. Препоръки за индукция на раждането (AKUSHERSTVO-014; стр. 132–138 на сборника; качен 04.2026; година на текста не е изписана; литература — NICE NG207 11.2021, WHO IOL, Alfirevic et al.). Прочетен 22.09.2026 през Chrome/pdf.js (раздели А, Б.I, Б.IV–VII, В.II, Г, литература); извадките са записани в _platform/podpisi/IZVADKI__BDAG_AKUSHERSTVO_014__2026-09-22.txt.",
+      "org": "БДАГ",
+      "year": "2026",
+      "url": "https://bsobgyn.com/wp-content/uploads/2026/04/AKUSHERSTVO-014.pdf",
+      "rights": "PROFESSIONAL_SOCIETY_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Б.I „Бременност след термин\" = NICE 1.2.1–1.2.4 дословно: възможност за спонтанно раждане при неусложнена; раждането обикновено започва преди 42+0; рисковете след 41+0; индукция от 41+0 може да ги намали, жената преценява въздействието. НЯМА текст за наблюдение при отказ; АХ/ПЕ и ГД — препраща към другите препоръки на БДАГ; отлепяне = „прийом на Хамилтон\" (физичен метод); съмнение за макрозомия без диабет — изчакване/индукция/ЦС, индукцията намалява раменната дистоция, увеличава разкъсванията III–IV ст., перинатална смърт и увреда на брахиалния сплит еднакви."
+    },
+    {
+      "id": "PIN_COCHRANE_MIDDLETON_2020",
+      "citation": "Middleton P, Shepherd E, Morris J, Crowther CA, Gomersall JC. Induction of labour at or beyond 37 weeks' gestation. Cochrane Database Syst Rev 2020;7:CD004945. Прочетено в предишната сесия (22.09.2026, резюме на Cochrane Library).",
+      "org": "Cochrane",
+      "year": "2020",
+      "url": "https://doi.org/10.1002/14651858.CD004945.pub5",
+      "rights": "COPYRIGHTED_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Перинатална смърт при индукция срещу изчакване: 4/9153 срещу 25/9161 (≈0,4 срещу ≈3 на 1000), RR 0,31; NNT 544; цезарово сечение RR 0,90 (по-малко при индукция)."
+    },
+    {
+      "id": "PIN_ALKMARK_2020_IPD",
+      "citation": "Alkmark M, Keulen JKJ, Kortekaas JC et al. Induction of labour at 41 weeks or expectant management until 42 weeks: A systematic review and an individual participant data meta-analysis of randomised trials (SWEPIS + INDEX). PLoS Med 2020;17(12):e1003436. Прочетено в предишната сесия (22.09.2026).",
+      "org": "PLoS Medicine",
+      "year": "2020",
+      "url": "https://doi.org/10.1371/journal.pmed.1003436",
+      "rights": "CC_BY_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "4561 жени; перинатална смърт 1 срещу 8; композитен неблагоприятен изход 0,4% срещу 1,0%; цезарово 10,5% срещу 10,7%; ползата главно при нулипари (NNT 79)."
+    },
+    {
+      "id": "PIN_ARRIVE_2018",
+      "citation": "Grobman WA, Rice MM, Reddy UM et al. Labor Induction versus Expectant Management in Low-Risk Nulliparous Women (ARRIVE). N Engl J Med 2018;379:513–23. Прочетено в предишната сесия (22.09.2026); числата сверени.",
+      "org": "NEJM",
+      "year": "2018",
+      "url": "https://doi.org/10.1056/NEJMoa1800566",
+      "rights": "COPYRIGHTED_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "6106 нискорискови нулипари, индукция на 39+0–39+4 срещу изчакване; композитен перинатален изход 4,3% срещу 5,4% (RR 0,80; 95% CI 0,64–1,00); цезарово 18,6% срещу 22,2%; хипертензивни нарушения 9,1% срещу 14,1%; NNT 28 за едно избегнато цезарово."
+    },
+    {
+      "id": "PIN_NICE_NG137_TWINS_2019",
+      "citation": "NICE. Twin and triplet pregnancy. NICE guideline NG137, 04.09.2019 — 1.9 (timing of birth), 1.9.12 (при отказ), 1.10.6 (MCMA — цезарово). Прочетено 22.09.2026 през NCBI Bookshelf (NBK546070).",
+      "org": "NICE",
+      "year": "2019",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK546070/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "DCDA — планирано раждане на 37+0 (след 37+6 рискът от фетална смърт расте); MCDA — 36+0 (след кортикостероиди); MCMA — 32+0–33+6, с цезарово сечение; тризнаци (три-/дихориални триамниотични) — 35+0; при отказ — всяка седмица преглед при специалист с ехография (околоплодна течност + доплер на a. umbilicalis на всяко бебе) и на 2 седмици растеж."
+    },
+    {
+      "id": "PIN_ACOG_CO831_2021",
+      "citation": "ACOG Committee Opinion No. 831: Medically Indicated Late-Preterm and Early-Term Deliveries. Obstet Gynecol 2021;138:e35–9 (заменя CO 764). Прочетено в предишната сесия (22.09.2026) през резюмето на ObG Project (вторично; acog.org — 402/403). Сроковете за близнаци (DCDA 38+0–38+6, MCDA 34+0–37+6, MCMA 32–34) — през Williams 26e.",
+      "org": "ACOG / SMFM",
+      "year": "2021",
+      "url": "https://www.obgproject.com/2021/06/28/acog-recommendations-timing-of-medically-indicated-late-preterm-and-early-term-deliveries/",
+      "rights": "SECONDARY_SUMMARY_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Хронична хипертония без лекарства 38+0–39+6, с лекарства 37+0–39+6, трудна за контрол 36+0–37+6; гестационна хипертония 37+0 (тежка — 34+0); прееклампсия без тежки белези 37+0; прегестационен диабет добре контролиран 39+0–39+6, лошо контролиран 36+0–38+6; ГДМ на диета 39+0–40+6, на лекарство 39+0–39+6; ICP: жлъчни киселини ≥100 → 36+0, <100 → 36+0–39+0; изолиран олигохидрамнион (DVP <2 cm) 36+0–37+6; FGR 3–10-и персентил 38+0–39+0, при реверзен кръвоток до 30–32 г.с.; предишно мъртвораждане — индивидуално; previa 36+0–37+6, accreta 34+0–35+6; предишно класическо ЦС 36+0–37+0; миомектомия 37+0–38+6."
+    },
+    {
+      "id": "PIN_NICE_NG3_2015",
+      "citation": "NICE. Diabetes in pregnancy: management from preconception to the postnatal period. NICE guideline NG3, 25.02.2015 (актуализирана 16.12.2020) — 1.4.x timing of birth. Прочетено в предишната сесия (22.09.2026).",
+      "org": "NICE",
+      "year": "2015",
+      "url": "https://www.nice.org.uk/guidance/ng3/chapter/Recommendations",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Тип 1/тип 2 диабет без усложнения — планирано раждане (индукция или цезарово по показания) между 37+0 и 38+6; ГДМ без усложнения — раждане не по-късно от 40+6."
+    },
+    {
+      "id": "PIN_NICE_NG133_2019",
+      "citation": "NICE. Hypertension in pregnancy: diagnosis and management. NICE guideline NG133, 25.06.2019 (актуализирана 17.04.2023) — 1.3.14, 1.4.7–1.4.8, 1.5.7 и Table 3. ПЪЛЕН ТЕКСТ — локален PDF-текст (hypertension-in-pregnancy-diagnosis-and-management-pdf-66141717671365), прочетен 21–22.09.2026.",
+      "org": "NICE",
+      "year": "2019",
+      "url": "https://www.nice.org.uk/guidance/ng133",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Хронична и гестационна хипертония: не се предлага планирано раждане преди 37 г.с. при кръвно <160/110; след 37 срокът се съгласува с жената и старши акушер; прееклампсия след 37+0 — раждане в рамките на 24–48 часа (Table 3)."
+    },
+    {
+      "id": "PIN_BDAG_HIPERTENZIVNI",
+      "citation": "Българско дружество по акушерство и гинекология. Хипертензивни нарушения по време на бременност (препоръки; 10. Прееклампсия.pdf). ПЪЛЕН ТЕКСТ — локален текст, прочетен 21.09.2026 (редове 160–221 срок на раждане, 388 прееклампсия след 37+0).",
+      "org": "БДАГ",
+      "year": "2023",
+      "url": "https://bsobgyn.com/guidelines/akusherstvo/10.%20%D0%9F%D1%80%D0%B5%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BF%D1%81%D0%B8%D1%8F.pdf",
+      "rights": "PROFESSIONAL_SOCIETY_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Гестационна хипертония <160/110 — без преждевременно родоразрешение преди 37 г.с.; прееклампсия след 37+0 — родоразрешение до 72 часа."
+    },
+    {
+      "id": "PIN_RCOG_GTG43_2022",
+      "citation": "Girling J, Knight CL, Chappell L; RCOG. Intrahepatic cholestasis of pregnancy. Green-top Guideline No. 43. BJOG 2022;129(13):e95–e114. Прочетено 22.09.2026 през Chrome (Wiley Online Library).",
+      "org": "RCOG",
+      "year": "2022",
+      "url": "https://doi.org/10.1111/1471-0528.17206",
+      "rights": "COPYRIGHTED_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Мъртвораждане по пикови жлъчни киселини (Ovadia 2019): 19–39 µmol/l — 0,13% (като фоновия риск); 40–99 — 0,28%; ≥100 — 3,44%. Срок: 19–39 — може да се обсъди раждане до 40 г.с.; 40–99 — 38–39 г.с.; ≥100 — 35–36 г.с. (Grade A); съпътстващи състояния (ГДМ, ПЕ, многоплодна) повишават риска."
+    },
+    {
+      "id": "PIN_SMFM_ICP_2021",
+      "citation": "Society for Maternal-Fetal Medicine (Lee RH, Greenberg M, Metz TD, Pettker CM). SMFM Consult Series #53: Intrahepatic cholestasis of pregnancy. Am J Obstet Gynecol 2021;224(2):B2–B9. Прочетено в предишната сесия (22.09.2026, резюме); съгласувано с ACOG CO 831.",
+      "org": "SMFM",
+      "year": "2021",
+      "url": "https://doi.org/10.1016/j.ajog.2020.11.002",
+      "rights": "COPYRIGHTED_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Жлъчни киселини ≥100 µmol/l — раждане на 36+0 (или при поставяне на диагнозата след 36); <100 — 36+0–39+0."
+    },
+    {
+      "id": "PIN_RCOG_SIP34_2013",
+      "citation": "RCOG. Induction of Labour at Term in Older Mothers. Scientific Impact Paper No. 34, февруари 2013. Прочетено в предишната сесия (22.09.2026).",
+      "org": "RCOG",
+      "year": "2013",
+      "url": "https://www.rcog.org.uk/guidance/browse-all-guidance/scientific-impact-papers/induction-of-labour-at-term-in-older-mothers-scientific-impact-paper-no-34/",
+      "rights": "COPYRIGHTED_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Жени ≥40 г. на 39 г.с. имат риск от мъртвораждане като жени 25–29 г. на 41 г.с.; има аргумент индукция на 39–40 г.с. да се предлага след обсъждане."
+    },
+    {
+      "id": "PIN_NICOLAIDES_DOPPLER_POSTTERM",
+      "citation": "Nicolaides KH, Rizzo G, Hecher K. Doppler in Obstetrics — „Doppler studies in post-term pregnancies\" (глава/бележки; Fetal Medicine Foundation). PDF, предоставен от д-р Иванов на 22.09.2026 (Doppler_Ultrasound_-_Post_term_pregnancy.pdf), прочетен изцяло.",
+      "org": "Fetal Medicine Foundation",
+      "year": "2002",
+      "url": "https://fetalmedicine.org/education/doppler-in-obstetrics",
+      "rights": "COPYRIGHTED_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Преносена ≈10% по ПРМ, ≈5% по ранна ехография; лондонски регистър 171 527 раждания — перинатална+детска смърт 0,7/1000 продължаващи бременности на 37 г.с. → 5,8/1000 на 43; няма морфологични белези на стареене на плацентата; околоплодната течност намалява от ~37 г.с., след термина ~33% на седмица; мекониум; проблемът е фетоплацентарен, а не утероплацентарен (маточните артерии нормални)."
+    },
+    {
+      "id": "PIN_IVANOV_POSTTERM_NOTES",
+      "citation": "д-р Иван Иванов д.м. — работни бележки „Postterm pregnancy\" (Postterm_pregnancy.doc: обзор + шаблон за доклад „Post Dates\"), предоставени 22.09.2026, и указания в съдържателния чат (founder-delivered).",
+      "org": "FemAI OS — медицински водещ",
+      "year": "2026",
+      "url": "",
+      "rights": "FOUNDER_DELIVERED_CLINICAL_STATEMENT",
+      "boundary": "Мъртвораждането расте от 39 г.с. нататък с рязко покачване след 40; перинатална смъртност на 42 г.с. ≈2× (4–7 срещу 2–3 на 1000), 4× на 43, 5–7× на 44; ранната ехография намалява преносеността от 12% на 3% (Savitz 2002); най-честата причина за „преносване\" е грешен срок; при 42 г.с. и изчакване — антенатално наблюдение. Указания: ARRIVE влиза; практиката у нас — провери; близнаци по източниците; състояния без изчакване — с източници; изречението за плацентата — в неговата формулировка; РЕШЕНИЕ „не измисляй съдържание никога\"."
+    },
+    {
+      "id": "PIN_NHS_SYMPTOMS_GET_HELP_2026",
+      "citation": "NHS. Pregnancy symptoms you need to get help for (nhs.uk), last reviewed 24.06.2026. Прочетено 22.09.2026 през WebFetch.",
+      "org": "NHS",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/pregnancy-symptoms-you-need-to-get-help-for/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Обадете се: вагинално кървене; сърбеж (възможна холестаза); силно главоболие, замъглено зрение/светкавици, внезапен оток (прееклампсия/ДВТ); промяна в движенията на бебето."
+    },
+    {
+      "id": "PIN_NHS_SIGNS_OF_LABOUR_2025",
+      "citation": "NHS. Signs of going into labour (Best Start in Life, nhs.uk), last reviewed 23.12.2025. Прочетено 22.09.2026 през WebFetch.",
+      "org": "NHS",
+      "year": "2025",
+      "url": "https://www.nhs.uk/best-start-in-life/pregnancy/preparing-for-labour-and-birth/signs-of-going-into-labour/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Изтекли води: течността трябва да е бистра; „contact your midwife or doctor immediately if it's smelly or coloured\"; обадете се, дори да е посред нощ."
+    }
+  ],
+  "pins_en": [
+    "PIN_ACOG_PB146_2014",
+    "PIN_WILLIAMS_26E_POSTTERM",
+    "PIN_GABBE_CH36_POSTTERM",
+    "PIN_BERGHELLA_MFM_EBG",
+    "PIN_NICE_NG207_2021",
+    "PIN_WHO_IOL_2022",
+    "PIN_COCHRANE_MIDDLETON_2020",
+    "PIN_ALKMARK_2020_IPD",
+    "PIN_ARRIVE_2018",
+    "PIN_NICE_NG137_TWINS_2019",
+    "PIN_ACOG_CO831_2021",
+    "PIN_NICE_NG3_2015",
+    "PIN_NICE_NG133_2019",
+    "PIN_RCOG_GTG43_2022",
+    "PIN_SMFM_ICP_2021",
+    "PIN_RCOG_SIP34_2013",
+    "PIN_NICOLAIDES_DOPPLER_POSTTERM",
+    "PIN_IVANOV_POSTTERM_NOTES",
+    "PIN_NHS_SYMPTOMS_GET_HELP_2026",
+    "PIN_NHS_SIGNS_OF_LABOUR_2025"
+  ],
+  "see_also": [
+    "ART_REDUCED_FETAL_MOVEMENTS",
+    "ART_ANTENATAL_CARE",
+    "ART_PAT_010",
+    "ART_PAT_COMP_GDM",
+    "ART_PE_SCREENING",
+    "ART_FIRST_TRIMESTER_SCREENING",
+    "ART_FETAL_SURVEILLANCE",
+    "ART_OB_013"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-22",
+    "expires_at": "2029-09-22",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

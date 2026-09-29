@@ -1,0 +1,38 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_NO_EXERCISE",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Не бива да спортува.“",
+    "en": "\"She should not exercise.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно — обратното е вярно. Движението в бременност е свързано с по-нисък риск от прееклампсия, гестационна хипертония, гестационен диабет, прекомерно наддаване, усложнения при раждането и следродилна депресия. Препоръчват се поне 150 минути умерена активност седмично, разпределени през седмицата — например по 30 минути в пет дни. Добре е да има и упражнения за мускулна сила, а лекото разтягане също помага. Ако не може толкова — всяко движение е по-добре от никакво; ако не е била активна преди бременността, не започва рязко с натоварване. Най-подходящи са фитнес и йога „за бременни“; състезателни спортове — не. Не са подходящи и контактните спортове с риск от удар (кикбокс, джудо, скуош), гмуркането с бутилка — бебето няма защита от декомпресионна болест — спортът на височина над 2500 м, и продължителното лежане по гръб, особено след 16-а седмица. Спортовете с риск от падане — езда, ски спускане, хокей, гимнастика, колоездене — само с повишено внимание.",
+      "en": "Not true — the opposite is true. Being active in pregnancy is associated with a lower risk of pre-eclampsia, gestational hypertension, gestational diabetes, excessive weight gain, delivery complications and postnatal depression. At least 150 minutes of moderate-intensity activity a week is recommended, spread across the week — for example 30 minutes on five days. A mix that includes muscle-strengthening activity is good, and gentle stretching helps too. If that is not manageable, any amount is better than none; if she was not active before pregnancy, she should not suddenly take up strenuous exercise. The best fit is pregnancy-specific fitness and yoga classes; competitive sport, no. Also unsuitable: contact sports with a risk of being hit (kickboxing, judo, squash), scuba diving — the baby has no protection against decompression sickness — exercise above 2,500 m, and lying flat on the back for long periods, particularly after 16 weeks. Sports with a risk of falling — horse riding, downhill skiing, ice hockey, gymnastics, cycling — only with caution."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_6",
+      "citation": "СЗО (Европа) · Physical activity; NHS · Exercise in pregnancy",
+      "org": "СЗО (Европа)",
+      "year": "",
+      "url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [
+    "ART_PAT_009"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

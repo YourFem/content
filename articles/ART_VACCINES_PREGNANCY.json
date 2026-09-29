@@ -1,0 +1,171 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_VACCINES_PREGNANCY",
+  "cluster": "PILOT_MVP_GAP",
+  "title": {
+    "bg": "Ваксинация през бременността",
+    "en": "Vaccines in pregnancy"
+  },
+  "layers": {
+    "patient": {
+      "bg": "> Няколко ваксини през бременността защитават два пъти: вас — от тежко боледуване, и бебето — в първите месеци след раждането, когато то е най-уязвимо и още не може да бъде ваксинирано само. Тук е кои са те, кога се поставят, колко помагат и кои ваксини не се правят в бременност. Числата са от насоки и проучвания. Решенията за вашата бременност взема лекарят, който ви проследява.\n\n## Как работи защитата „на две“\n\nКогато се ваксинирате през бременността, организмът ви произвежда антитела. Те преминават през плацентата, най-активно през третия триместър, и остават в кръвта на новороденото няколко месеца. Затова времето на ваксината има значение: достатъчно рано, за да има време за антитела, и достатъчно късно, за да ги получи бебето в най-голямо количество.\n\nВаксините, които се препоръчват в бременност, са **неживи** — инактивирани или само с част от микроба. Те не могат да причинят инфекция нито на вас, нито на бебето. Твърденията за връзка на ваксините с неврологични разстройства са доказано неоснователни (Williams 2022).\n\n## Коклюш — най-важната\n\nКоклюшът (магарешка кашлица) при бебе под 3 месеца е тежка болест: пристъпи на кашлица със спиране на дишането, често болница, понякога смърт. Бебето получава първата си ваксина на 2 месеца. Дотогава единствената му защита са вашите антитела.\n\nВаксинацията на майката предпазва бебето в около **9 от 10** случая от коклюш и от смърт от коклюш в първите седмици. Това е резултатът от над 10 години наблюдение във Великобритания. Проследени са над 150 000 ваксинирани бременности, без повишен риск от усложнения (UKHSA 2025).\n\n**Кога.** У нас — между 27-ата и 36-ата седмица, във всяка бременност, независимо кога сте били ваксинирана преди (Наредба № 15). Същото препоръчват ACOG и Williams. Великобритания препоръчва по-рано — между 16-ата и 32-ата седмица, най-добре около 20-ата, при морфологичния преглед. Доводът е, че така антителата са най-високи и при преждевременно раждане. Ако сте пропуснали прозореца, ваксината пак има смисъл: защитава вас и намалява риска да заразите бебето (UKHSA 2025). Използва се комбинирана ваксина срещу тетанус, дифтерия и коклюш.\n\n**За бебето след това.** Ако сте ваксинирана в бременността, задължителните ваксини на бебето започват от 2-месечна възраст (Наредба № 15). Лекарят на детето ще ви обясни схемата.\n\n## RSV — новата\n\nРеспираторно-синцитиалният вирус е най-честата причина за бронхиолит и за болнично лечение на бебета под 6 месеца. От 1 юли 2026 г. ваксината срещу RSV за бременни е в българския имунизационен календар: една доза между 24-ата и 36-ата седмица (Наредба № 15; същият прозорец е и в европейското разрешение на ваксината). В голямото проучване MATISSE ваксината намалява тежкото боледуване на бебето от RSV с около **8 от 10** през първите 3 месеца и с около **7 от 10** до 6-ия месец (EMA 2026).\n\nНасоките се разминават по прозореца:\n\n- **У нас:** 24–36-ата седмица.\n- **Великобритания:** около 28-ата седмица.\n- **САЩ:** 32–36-ата седмица и само от септември до януари, в сезона на RSV. В проучванията при по-ранно поставяне е забелязана малка, статистически недоказана разлика в преждевременните раждания и американските власти са избрали предпазливост.\n\nОбсъдете с лекаря си кога във вашия прозорец е най-подходящо, например според сезона. Между RSV ваксината и коклюшната трябва да минат поне 2 седмици. С грипната и с COVID ваксината RSV ваксината може да се постави едновременно (EMA 2026).\n\n## Грип\n\nГрипът в бременност протича по-тежко. Имунната система е „приглушена“, а нарастващата матка затруднява дишането. Рискът от пневмония, преждевременно раждане и болнично лечение е по-висок.\n\nГрипната ваксина се препоръчва във **всеки триместър**, по възможност в началото на сезона (октомври), но и по-късно (ACOG 2026, Williams 2022, NHS 2023). Тя защитава и бебето през първите месеци. Използва се само инактивирана ваксина — не спрей за нос, защото той е жива ваксина.\n\n## COVID-19\n\nКовид по време на бременност протича по-тежко, отколкото извън нея. При симптомна инфекция преждевременното раждане и мъртвораждането са около два пъти по-чести (RCOG). Ваксините са поставени на над милион бременни в света, без да се увеличат спонтанните аборти, преждевременните раждания или мъртворажданията (RCOG).\n\n**У нас** бременните са сред приоритетните групи в сезонната кампания (МЗ, 2025/2026). Ваксината е иРНК, една доза, безплатно при общопрактикуващия лекар. Българската препоръка е да се постави след 12-ата седмица (МЗ и Експертен съвет по акушерство и гинекология, 2022).\n\n**Навън** позициите се разминават:\n\n- СЗО и ACOG (2026) я препоръчват на всички бременни, а ACOG и RCOG — по всяко време на бременността.\n- Във Великобритания от 2025 г. бременните вече не получават безплатна ваксина, освен ако са с отслабен имунитет.\n- Американската CDC от 2025 г. не я препоръчва рутинно за здрави бременни.\n\nПричината за разминаването не е нов сигнал за вреда, а по-ниската заболеваемост и имунитетът, натрупан от минали ваксинации и боледувания. Ако имате хронично заболяване, не сте ваксинирана или последната ви доза е отдавна, обсъдете го с лекаря си.\n\n## Ваксини, които не се поставят в бременност\n\n**Живите** ваксини не се поставят в бременност, защото на теория отслабеният вирус може да стигне до бебето. Това са ваксините срещу морбили, паротит и рубеола (МПР), варицела, херпес зостер, туберкулоза (БЦЖ), жълта треска, ваксината срещу коремен тиф, която се пие, и грипният спрей за нос.\n\nНяма доказателства, че живите ваксини са причинявали вродени дефекти. Вродена рубеола след ваксина не е описвана никога. Ако сте получили жива ваксина, без да знаете, че сте бременна, това не е причина за прекъсване на бременността (Williams 2022, NHS 2023). Кажете на лекаря си, но не се плашете.\n\nЖивите ваксини се правят преди забременяване — по възможност поне месец преди опит за бременност — или след раждането. Кърменето не е пречка (Williams 2022).\n\nПри пътуване, ухапване от животно, нараняване или контакт с хепатит В лекарят преценява. Ваксините срещу хепатит А и В, тетанус, бяс, пневмококи и менингококи са неживи и при нужда се поставят и в бременност. Ваксината срещу жълта треска е жива, но при пътуване в зона с висок риск рискът от болестта е по-голям от теоретичния риск от ваксината (Williams 2022, ACOG 2026).\n\n## Как е у нас\n\nКоклюшната ваксина (между 27-ата и 36-ата седмица) и RSV ваксината (между 24-ата и 36-ата седмица) са безплатни целеви имунизации за бременни. Осигурява ги Министерството на здравеопазването по Наредба № 15. Поставят се не при всеки лекар, а в определени лечебни заведения и в имунизационните кабинети на регионалните здравни инспекции (заповед на министъра от 03.07.2026). Списъкът и картата на местата са на сайта на министерството „Плюс мен“ (plusmen.bg → „Целеви имунизации“). Носете документ за срока на бременността, например картата на бременната. Между двете ваксини трябва да има поне две седмици.\n\nCOVID ваксината в сезонната кампания е безплатна, при общопрактикуващия лекар. Грипната ваксина е безплатна само от 65 години нагоре, за бременните се заплаща.\n\n## Кога да потърсите помощ\n\nСлед ваксина са нормални болка и зачервяване на мястото, лека температура и умора за ден-два.\n\nОбадете се на лекаря си, ако:\n\n- температурата е над 38,5 °C повече от 24 часа;\n- по цялото тяло излезе обрив;\n- забележите промяна в движенията на бебето.\n\nЗатруднено дишане или подуване на лицето са повод за спешна помощ веднага.\n\n## Въпроси към вашия лекар\n\n- Къде най-близо до мен се поставят коклюшната и RSV ваксината?\n- Кога във моя прозорец е най-добре да поставя RSV ваксината?\n- Трябва ли ми грипна ваксина сега, според сезона? А COVID?\n- Ваксинирана ли съм срещу рубеола и варицела — и ако не, кога след раждането?\n- Пътувам — кои ваксини са безопасни за мен?",
+      "en": "> A few vaccines given during pregnancy protect twice: you — from serious illness — and your baby, in the first months after birth, when it is most vulnerable and cannot yet be vaccinated itself. Here is which vaccines they are, when they are given, how much they help, and which vaccines are not given in pregnancy. The numbers come from guidelines and studies. Decisions about your pregnancy are made by the doctor who looks after you.\n\n## How protection \"for two\" works\n\nWhen you are vaccinated during pregnancy, your body produces antibodies. They cross the placenta, most actively in the third trimester, and remain in the newborn's blood for several months. That is why the timing of the vaccine matters: early enough for antibodies to form, and late enough for the baby to receive them in the largest amount.\n\nThe vaccines recommended in pregnancy are **non-live** — inactivated, or containing only a part of the microbe. They cannot cause infection in you or in the baby. Claims of a link between vaccines and neurological disorders have been proven groundless (Williams 2022).\n\n## Whooping cough — the most important one\n\nWhooping cough (pertussis) in a baby under 3 months is a serious illness: bouts of coughing with pauses in breathing, often hospital, sometimes death. Until the baby's own vaccinations begin, at about 8 weeks, its only protection is your antibodies (UKHSA 2025).\n\nVaccinating the mother protects the baby in about **9 in 10** cases from whooping cough and from death from whooping cough in the first weeks. This is the result of more than 10 years of surveillance in the United Kingdom. Over 150,000 vaccinated pregnancies have been followed, with no increased risk of complications (UKHSA 2025).\n\n**When.** The guidelines differ on the window. ACOG and Williams recommend between 27 and 36 weeks, in every pregnancy, regardless of when you were vaccinated before (ACOG 2026, Williams 2022). The United Kingdom recommends earlier — between 16 and 32 weeks, ideally around 20 weeks, at the anomaly scan; the argument is that this way the antibodies are highest even if the baby is born early. If you have missed the window, the vaccine still makes sense: it protects you and reduces the risk of your infecting the baby (UKHSA 2025). A combined vaccine against tetanus, diphtheria and pertussis is used.\n\n## RSV — the new one\n\nRespiratory syncytial virus is the most common cause of bronchiolitis and of hospital treatment in babies under 6 months. The vaccine for pregnant women is licensed in Europe as a single dose between 24 and 36 weeks (EMA 2026). In the large MATISSE trial the vaccine reduced severe RSV illness in the baby by about **8 in 10** in the first 3 months and by about **7 in 10** up to 6 months (EMA 2026).\n\nThe guidelines differ on the window:\n\n- **European licence:** 24–36 weeks.\n- **United Kingdom:** around 28 weeks.\n- **USA:** 32–36 weeks, and only from September to January, in the RSV season. In the trials a small, statistically unproven difference in preterm births was noticed with earlier administration, and the American authorities chose caution.\n\nDiscuss with your doctor when within your window is most suitable, for example according to the season. At least 2 weeks should pass between the RSV vaccine and the whooping cough vaccine. The RSV vaccine can be given at the same time as the flu and COVID vaccines (EMA 2026).\n\n## Flu\n\nFlu in pregnancy runs a more severe course. The immune system is \"dampened\", and the growing uterus makes breathing harder. The risk of pneumonia, preterm birth and hospital treatment is higher.\n\nThe flu vaccine is recommended in **any trimester**, if possible at the start of the season (October), but also later (ACOG 2026, Williams 2022, NHS 2023). It also protects the baby in the first months. Only the inactivated vaccine is used — not the nasal spray, because that is a live vaccine.\n\n## COVID-19\n\nCOVID during pregnancy runs a more severe course than outside it. With symptomatic infection, preterm birth and stillbirth are about twice as common (RCOG). The vaccines have been given to over a million pregnant women worldwide without an increase in miscarriages, preterm births or stillbirths (RCOG).\n\nThe positions differ:\n\n- WHO and ACOG (2026) recommend it for all pregnant women, and ACOG and RCOG — at any time in pregnancy.\n- In the United Kingdom, from 2025 pregnant women no longer receive a free vaccine unless they are immunosuppressed.\n- The American CDC, from 2025, does not routinely recommend it for healthy pregnant women.\n\nThe reason for the divergence is not a new signal of harm but lower rates of illness and the immunity built up from past vaccinations and infections. If you have a chronic condition, have not been vaccinated, or your last dose was long ago, discuss it with your doctor.\n\n## Vaccines that are not given in pregnancy\n\n**Live** vaccines are not given in pregnancy, because in theory the weakened virus could reach the baby. These are the vaccines against measles, mumps and rubella (MMR), chickenpox, shingles, tuberculosis (BCG), yellow fever, the oral typhoid vaccine, and the nasal flu spray.\n\nThere is no evidence that live vaccines have caused birth defects. Congenital rubella after the vaccine has never been described. If you received a live vaccine without knowing you were pregnant, this is not a reason to end the pregnancy (Williams 2022, NHS 2023). Tell your doctor, but do not be alarmed.\n\nLive vaccines are given before conception — if possible at least a month before trying for a pregnancy — or after birth. Breastfeeding is not an obstacle (Williams 2022).\n\nFor travel, an animal bite, an injury or contact with hepatitis B, your doctor decides. The vaccines against hepatitis A and B, tetanus, rabies, pneumococcus and meningococcus are non-live and, when needed, are given in pregnancy too. The yellow fever vaccine is live, but for travel to a high-risk area the risk from the disease is greater than the theoretical risk from the vaccine (Williams 2022, ACOG 2026).\n\n## When to seek help\n\nAfter a vaccine, pain and redness at the site, a slight temperature and tiredness for a day or two are normal.\n\nCall your doctor if:\n\n- the temperature is above 38.5 °C for more than 24 hours;\n- a rash appears over the whole body;\n- you notice a change in your baby's movements.\n\nDifficulty breathing or swelling of the face are a reason for emergency help straight away.\n\n## Questions for your doctor\n\n- When in my window is it best to have the whooping cough vaccine? And the RSV vaccine?\n- Do I need a flu vaccine now, according to the season? And COVID?\n- Am I vaccinated against rubella and chickenpox — and if not, when after the birth?\n- I am travelling — which vaccines are safe for me?"
+    },
+    "student": {
+      "bg": "Обосновка: майчината имунизация използва трансплацентарен трансфер на IgG — пасивна защита на новороденото до собствената му ваксинация. През 2026 ACOG публикува първата си самостоятелна схема, препоръчваща четири ваксини в бременност: **Tdap** (една доза всяка бременност, за предпочитане рано в **седмици 27–36**, срещу коклюш), **грип** (инактивиран или рекомбинантен, всеки триместър, идеално до края на октомври), **COVID-19** (всеки триместър, възможно най-рано) и **RSV** (майчина, еднократно **32+0–36+6 седмица**, сезонно).\n\nРазминаване между организации (представено безпристрастно): CDC през май 2025 оттегли универсалната си препоръка за COVID-19 в бременност, но запазва RSV и Tdap; за грипа CDC съветва формули без тимеросал, докато ACOG приема, че съдържащите тимеросал ваксини са безопасни. Контекст: ACOG напусна ACIP на CDC (февруари 2026) — жива дивергенция в насоките, без ясен единен консенсус. **Живите атенюирани ваксини са противопоказани** (теоретичен риск за плода): MMR, варицела и живата назална противогрипна (LAIV) — вместо LAIV се използва инактивиран грип. MMR/варицела могат да се поставят постпартум.",
+      "en": "Rationale: maternal immunisation exploits transplacental IgG transfer — passive protection of the newborn until its own vaccinations. In 2026 ACOG issued its first independent schedule recommending four vaccines in pregnancy: **Tdap** (one dose each pregnancy, preferably early in **weeks 27–36**, against pertussis), **influenza** (inactivated or recombinant, any trimester, ideally by end of October), **COVID-19** (any trimester, as soon as possible) and **RSV** (maternal, single dose **32+0–36+6 weeks**, seasonally).\n\nDivergence between bodies (presented evenhandedly): in May 2025 the CDC withdrew its universal COVID-19-in-pregnancy recommendation but retains RSV and Tdap; on influenza the CDC advises thimerosal-free formulations, whereas ACOG holds that thimerosal-containing vaccines are safe. Context: ACOG left the CDC's ACIP (February 2026) — a live guideline divergence rather than a single settled consensus. **Live attenuated vaccines are contraindicated** (theoretical fetal risk): MMR, varicella and live nasal-spray influenza (LAIV) — inactivated flu is used instead of LAIV. MMR/varicella can be given postpartum."
+    },
+    "doctor": {
+      "bg": "Предлагайте и документирайте според националната схема: **Tdap** веднъж всяка бременност, за предпочитане рано в **седмици 27–36**; **инактивиран/рекомбинантен грип** всеки триместър, идеално до края на октомври; при консултиране за **COVID-19** и **RSV** (**32+0–36+6 седмица**, сезонно) отчитайте разминаването ACOG↔CDC и местните препоръки. Уведомявайте пациентката безпристрастно: ACOG препоръчва и четирите; CDC оттегли универсалната COVID-19 препоръка (май 2025), запазва RSV и Tdap, и предпочита формули без тимеросал.\n\nПротивопоказани в бременност: **живи атенюирани ваксини** — MMR, варицела, LAIV; предлагайте ги преди забременяване или постпартум (напр. преди изписване). При случайно приложена жива ваксина рискът се очаква по-нисък от естествената инфекция — реасигуриране, не индикация за поставяне. Проверявайте имунизационен статус при предгравидна консултация. Cross-links по-долу.",
+      "en": "Offer and document per the national schedule: **Tdap** once each pregnancy, preferably early in **weeks 27–36**; **inactivated/recombinant influenza** any trimester, ideally by end of October; when counselling on **COVID-19** and **RSV** (**32+0–36+6 weeks**, seasonally), account for the ACOG↔CDC divergence and local recommendations. Inform the patient evenhandedly: ACOG recommends all four; the CDC withdrew its universal COVID-19 recommendation (May 2025), retains RSV and Tdap, and prefers thimerosal-free formulations.\n\nContraindicated in pregnancy: **live attenuated vaccines** — MMR, varicella, LAIV; offer these before conception or postpartum (e.g., before discharge). If a live vaccine is inadvertently given, risk is expected to be lower than natural infection — reassure, not an indication to give. Check immunisation status at preconception visits. Cross-links below.\n\n### Cross-links: ART_PRECONCEPTION_VACCINES, ART_ANTENATAL_CARE, ART_BOOKING_SCREENING\n\n### SOURCE_CHECK / LOCALIZATION_CHECK items (if any)\n- LOCALIZATION_CHECK: Bulgarian national immunization schedule / БДАГ — confirm exact locally recommended and funded vaccines in pregnancy (Tdap/pertussis, influenza, COVID-19, RSV availability and reimbursement), and preferred timing, as these may differ from ACOG/CDC.\n- Note: ACOG↔CDC divergence is an evolving 2026 guideline situation; re-verify current positions at red-team review before publication."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_BG_NAREDBA_15_IMUNIZACII_2026",
+      "citation": "Наредба № 15 от 2005 г. за имунизациите в Република България, изм. ДВ бр. 3/09.01.2026 (в сила 01.07.2026), Приложение № 1 и чл. 23 — прочетени през DOM на lex.bg на 14.09.2026; същият източник като подписания имунизационен календар (iv48, app/data/immunisations.json).",
+      "org": "Министерство на здравеопазването",
+      "year": "2026",
+      "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=240425",
+      "rights": "NORMATIVE_ACT_PUBLIC_DOMAIN",
+      "boundary": "Целева имунизация срещу коклюш при бременни 27–36 г.с. (чл. 23, ал. 1); срещу RSV 24–36 г.с. (от 01.07.2026); деца на ваксинирани срещу коклюш майки — задължителните имунизации от 2-месечна възраст (забележки 10, 11); грип и COVID — препоръчителни."
+    },
+    {
+      "id": "PIN_ACOG_MATIMM_SCHEDULE_2026",
+      "citation": "American College of Obstetricians and Gynecologists. 2026 Maternal Immunization Schedule (10.06.2026) — ACOG издава собствен график след оттеглянето си от ACIP (02.2026). Прочетено 22.09.2026 през Healio и Contemporary OB/GYN (вторични); acog.org — 402.",
+      "org": "ACOG",
+      "year": "2026",
+      "url": "https://www.healio.com/news/womens-health-ob-gyn/20260610/acog-releases-2026-maternal-immunization-schedule",
+      "rights": "SECONDARY_SUMMARY_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Грип — инактивирана/рекомбинантна, всеки триместър, до края на октомври; COVID-19 — всеки продукт, всеки триместър, „as soon as possible\"; RSV — само една ваксина, 32+0–36+6 г.с., септември–януари; алтернатива — моноклонално антитяло за бебето; Tdap — във всяка бременност, за предпочитане 27–36 г.с.; хепатит A/B, пневмококи, HPV, менингококи — по показания. CDC (2025) — COVID вече не се препоръчва за здрави бременни (Contemporary OB/GYN 16.06.2026)."
+    },
+    {
+      "id": "PIN_UKHSA_GREENBOOK_PERTUSSIS_2025",
+      "citation": "UK Health Security Agency. Immunisation against infectious disease (Green Book), Chapter 24: Pertussis, updated 19.12.2025. Прочетено 22.09.2026 през WebFetch (PDF).",
+      "org": "UKHSA",
+      "year": "2025",
+      "url": "https://assets.publishing.service.gov.uk/media/69457d4a033693d5d50eb84f/Green-book-chapter-Pertussis-19_12_25.pdf",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "В бременност — около морфологичния преглед (обикновено 20 г.с.), от 16 г.с., за предпочитане преди 32; ефективност ~90% срещу заболяване и хоспитализация до 8 седм.; срещу смърт 91% (73–98%), 2013–2024; безопасност — ~18 000 в UK и >150 000 бременности международно, без повишен риск от мъртвораждане/усложнения; всяка бременност; след 32 г.с. — защитава майката; RSV отделно (~28 г.с.)."
+    },
+    {
+      "id": "PIN_NHS_VACCINATIONS_PREGNANCY",
+      "citation": "NHS. Vaccinations in pregnancy (nhs.uk/pregnancy/keeping-well/vaccinations), last reviewed 18.01.2023. Прочетено 22.09.2026.",
+      "org": "NHS",
+      "year": "2023",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/vaccinations/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Коклюш обикновено на 20 г.с., от 16; RSV около 28-седмичния преглед; грип — препоръчва се; живи ваксини (БЦЖ, МПР, тиф през устата, жълта треска) — обичайно след раждането; „no evidence that any live vaccine causes birth defects\"."
+    },
+    {
+      "id": "PIN_EMA_RSV_PREF_SMPC",
+      "citation": "European Medicines Agency. Кратка характеристика на продукта — RSV prefusion F ваксина (бивалентна) за активна имунизация на бременни (EPAR product information). Прочетено 22.09.2026 през WebFetch. В пациентския текст без търговско име по указание на д-р Иванов.",
+      "org": "EMA",
+      "year": "2026",
+      "url": "https://www.ema.europa.eu/en/documents/product-information/abrysvo-epar-product-information_en.pdf",
+      "rights": "REGULATORY_DOCUMENT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Една доза 0,5 ml между 24 и 36 г.с.; MATISSE — тежка медицински наблюдавана инфекция на долните дихателни пътища: 81,8% (40,6–96,3) до 90 дни, 69,4% (44,3–84,1) до 180 дни; MA-LRTI 57,1% / 51,3%; интервал поне 2 седмици от Tdap; едновременно с грипна и иРНК COVID ваксина."
+    },
+    {
+      "id": "PIN_WILLIAMS_26E_IMMUNIZATION",
+      "citation": "Cunningham FG et al. Williams Obstetrics, 26th ed. McGraw Hill 2022 — гл. 10 „Prenatal Care\", стр. 189–191, Table 10-7 „Recommendations for Immunization During Pregnancy and Postpartum\"; гл. 9 „Preconceptional Counseling\", стр. 166–167. ПЪЛЕН ТЕКСТ (локален PDF, 07_Medical_Source_Library/05_Textbooks/International), прочетен 22.09.2026.",
+      "org": "McGraw Hill",
+      "year": "2022",
+      "url": "",
+      "rights": "TEXTBOOK_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Рутинно: грип (всеки триместър, октомври–май) и Tdap (във всяка бременност, за предпочитане 27–36 г.с.); по показания: хепатит A/B, пневмококи, менингококи, бяс, полиомиелит (инактивирана), тиф (убита); жълта треска — при пътуване във високорискови зони, теоретичният риск е по-малък; HPV — не се препоръчва в бременност; противопоказани живи: МПР, варицела, зостер, едра шарка; вродена рубеола след ваксина не е описвана; случайна МПР/варицела ваксинация не е показание за прекъсване; ≥1 месец между жива ваксина и зачеване; тимеросал — връзката с неврологични разстройства „proven groundless\"; RSV и COVID — няма в изданието."
+    },
+    {
+      "id": "PIN_MZ_COVID_BREMENNI_2022",
+      "citation": "Министерство на здравеопазването и Експертен съвет по акушерство и гинекология. „Бременните жени могат да се ваксинират срещу COVID-19 след 12-та гестационна седмица на бременността\", 29.03.2022. Прочетено 22.09.2026 (mh.government.bg).",
+      "org": "МЗ / ЕС по АГ",
+      "year": "2022",
+      "url": "https://www.mh.government.bg/bg/novini/aktualno/2360",
+      "rights": "PUBLIC_GOVERNMENT_STATEMENT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Ваксинация след 12-та г.с., когато ембриогенезата е завършена; предпочитат се иРНК ваксини; натрупаните данни не показват вредни ефекти, а защитни, вкл. за плода. Отделен медицински стандарт „Епидемиология на инфекциозните болести\" НЕ е намерен (търсено 22.09.2026; Наредба № Н-4/2026 е за профилактика и контрол на инфекциите в лечебните заведения)."
+    },
+    {
+      "id": "PIN_MZ_COVID_KAMPANIYA_2025",
+      "citation": "Министерство на здравеопазването / Национален експертен съвет — имунизационна кампания срещу COVID-19 за есенно-зимния сезон 2025/2026 (ваксина срещу вариант LP.8.1). Прочетено 22.09.2026 през съобщението на РЗИ Габрово (18.09.2025).",
+      "org": "МЗ / РЗИ",
+      "year": "2025",
+      "url": "https://rzi-gbr.org/",
+      "rights": "PUBLIC_GOVERNMENT_STATEMENT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Приоритетни групи: 60+, хронично болни, имунокомпрометирани, бременни жени, медицински персонал, социални институции; единична доза, ≥3 месеца от предишна; безплатно; за 12+ г. — от общопрактикуващите лекари; препоръка и за едновременна грипна ваксина."
+    },
+    {
+      "id": "PIN_WHO_SAGE_2023_COVID",
+      "citation": "WHO SAGE. Roadmap on uses of COVID-19 vaccines (update 28.03.2023). Прочетено 22.09.2026 през PAHO/WHO.",
+      "org": "СЗО",
+      "year": "2023",
+      "url": "https://www.paho.org/en/news/28-3-2023-sage-updates-covid-19-vaccination-guidance",
+      "rights": "PUBLIC_WHO_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Бременните — в групата с висок приоритет; допълнителна доза, ако са минали >6 месеца от последната."
+    },
+    {
+      "id": "PIN_JCVI_2025_COVID",
+      "citation": "JCVI / Welsh Government. Written Statement: Eligibility for autumn 2025 and spring 2026 COVID-19 vaccination programmes (27.06.2025); JCVI (11.2024): от пролетта на 2025 бременните не са отделна група. Прочетено 22.09.2026 (gov.wales; University of Manchester, 20.11.2024).",
+      "org": "JCVI (UK)",
+      "year": "2025",
+      "url": "https://www.gov.wales/written-statement-eligibility-autumn-2025-and-spring-2026-covid-19-vaccination-programmes",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Допустими: домове за възрастни, 75+, 6 мес.–74 г. с имуносупресия; бременните не са посочени отделно."
+    },
+    {
+      "id": "PIN_RCOG_COVID_VACCINE_FAQ",
+      "citation": "RCOG. COVID-19 vaccines, pregnancy and breastfeeding FAQs (последна актуализация 20.10.2023 — преди промяната на JCVI). Прочетено 22.09.2026.",
+      "org": "RCOG",
+      "year": "2023",
+      "url": "https://www.rcog.org.uk/guidance/coronavirus-covid-19-pregnancy-and-women-s-health/vaccination/covid-19-vaccines-pregnancy-and-breastfeeding-faqs/",
+      "rights": "PUBLIC_WEB_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„strongly recommended in pregnancy\"; по всяко време, без изчакване до 12 г.с.; >1,3 млн. ваксинирани бременни, без повишен риск от спонтанен аборт, преждевременно раждане, мъртвораждане; симптомна инфекция — ~2× преждевременно раждане и мъртвораждане."
+    },
+    {
+      "id": "PIN_PLUSMEN_TARGET_PERTUSSIS_RSV_2026",
+      "citation": "Министерство на здравеопазването — „Плюс мен\" (plusmen.bg), раздел „Целеви имунизации\": страници „Коклюш\" и „RSV\" (target/pertussis, target/rsv). Прочетени 22.09.2026 през Chrome. Заповед на министъра РД-01-441/03.07.2026 (89 лечебни заведения) — цитирана по „Плюс мен\" и блога на Б. Юруков (07.07.2026); самата заповед НЕ е отваряна.",
+      "org": "МЗ — plusmen.bg",
+      "year": "2026",
+      "url": "https://plusmen.bg/bg/target/rsv",
+      "rights": "PUBLIC_GOVERNMENT_WEB_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Безплатна целева имунизация срещу коклюш за бременни с документиран срок 27–36 г.с. вкл. и срещу RSV 24–36 г.с. вкл.; поставя се в лечебни заведения за болнична и извънболнична помощ и в имунизационните кабинети на РЗИ, определени със заповед на министъра; карта на местата; интервал ≥2 седмици между RSV и коклюшната ваксина. На общата страница за RSV пише „от юли 2027\" — очевидна грешка (заповедта е от 03.07.2026, програмата тече). Търговските имена НЕ се цитират в пациентския текст."
+    },
+    {
+      "id": "PIN_IVANOV_VACCINES_PRAKTIKA",
+      "citation": "д-р Иван Иванов д.м., акушер-гинеколог, специалист по майчино-фетална медицина — указания в съдържателния чат 22.09.2026 (founder-delivered).",
+      "org": "FemAI OS — медицински водещ",
+      "year": "2026",
+      "url": "",
+      "rights": "FOUNDER_DELIVERED_CLINICAL_STATEMENT",
+      "boundary": "Покрива: без търговски имена в пациентския текст; „Как е у нас\" — „не знам, провери\" → написано само по проверени публични източници; препратката към ART_PAT_PRECONCEPTION_VACCINES — едва след нейния подпис; COVID — по българския стандарт/проф. организация и международните позиции едно до друго. Решение (а), 23.09.2026 (iv77): покрива и раздела „Кога да потърсите помощ\" / „When to seek help\" (38,5 °C над 24 ч; обрив по цялото тяло; затруднено дишане или оток на лицето — спешно) като клинична преценка на д-р Иванов, без външен източник; важи за BG (iv73) и EN (iv77)."
+    }
+  ],
+  "pins_en": [
+    "PIN_ACOG_MATIMM_SCHEDULE_2026",
+    "PIN_UKHSA_GREENBOOK_PERTUSSIS_2025",
+    "PIN_NHS_VACCINATIONS_PREGNANCY",
+    "PIN_EMA_RSV_PREF_SMPC",
+    "PIN_WILLIAMS_26E_IMMUNIZATION",
+    "PIN_WHO_SAGE_2023_COVID",
+    "PIN_JCVI_2025_COVID",
+    "PIN_RCOG_COVID_VACCINE_FAQ",
+    "PIN_IVANOV_VACCINES_PRAKTIKA"
+  ],
+  "see_also": [
+    "ART_ANTENATAL_CARE",
+    "ART_RH_ALLOIMMUNIZATION",
+    "ART_FETAL_MORPHOLOGY",
+    "ART_PE_SCREENING"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-22",
+    "expires_at": "2029-09-22",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

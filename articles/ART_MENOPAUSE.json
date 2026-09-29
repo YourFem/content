@@ -1,0 +1,80 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_MENOPAUSE",
+  "cluster": "PILOT_GYN_MENOPAUSE",
+  "title": {
+    "bg": "Менопауза",
+    "en": "Menopause"
+  },
+  "layers": {
+    "patient": {
+      "bg": "Менопаузата е естествен етап от живота, а не болест. С времето яйчниците постепенно намаляват работата си, нивата на хормона естроген спадат и менструациите стават нередовни, докато накрая спрат окончателно. За менопауза се говори, когато е минала една година без менструация. Годините на промени преди последната менструация се наричат пременопауза, времето около самото спиране на менструацията — перименопауза, а след него — постменопауза. Този преход често отнема известно време и всяка жена го преживява по свой начин.\n\nЧести оплаквания са горещите вълни и нощното изпотяване, нарушеният сън, промените в настроението, както и сухота и дискомфорт във влагалището, които могат да направят половия акт неприятен. Тези симптоми са естествени, но не бива да се търпят мълчаливо — има доказани начини да се облекчат.\n\nС годините спадът на естрогена може да отслаби костите и да намали естествената защита на сърцето и съдовете. Затова са важни движението, разнообразното хранене, отказът от тютюнопушенето и умереността с алкохола.\n\nОбсъдете с лекар всякакви смущаващи симптоми. Съществуват както хормонални, така и нехормонални възможности, но всяко лечение е само по лекарско назначение — не започвайте и не спирайте лекарства сама.\n\n#### Кога да не отлагате\n\nВсяко вагинално кървене, което се появи след настъпването на менопаузата, трябва да се прегледа от лекар без отлагане.",
+      "en": "Menopause is a natural life stage, not an illness. Over time the ovaries gradually wind down, levels of the female hormone oestrogen fall, and periods become irregular until they finally stop for good. The phase of change before the last period is called perimenopause, and the time afterwards is postmenopause. This transition often takes a while, and every woman experiences it in her own way.\n\nCommon complaints include hot flushes and night sweats, disturbed sleep, mood changes, and vaginal dryness and discomfort that can make sex unpleasant. These symptoms are natural, but you do not have to endure them in silence — there are proven ways to ease them.\n\nOver the years the fall in oestrogen can weaken the bones and reduce the natural protection of the heart and blood vessels. That is why staying active, eating well, not smoking and being moderate with alcohol all matter.\n\nTalk to a doctor about any troubling symptoms. Both hormonal and non-hormonal options exist, but any treatment is only on a physician's order — do not start or stop medicines on your own. Especially important: any vaginal bleeding that appears after menopause has set in should be checked by a doctor without delay."
+    },
+    "student": {
+      "bg": "**Дефиниции**: менопаузата е трайно спиране на менструацията вследствие на естрогенен дефицит, ретроспективно потвърдено след 12 последователни месеца аменорея без друга причина. Перименопаузата е преходната фаза с нередовни цикли, а постменопаузата започва след тези 12 месеца и продължава до края на живота. Естествената менопауза настъпва обикновено на 45–55 г.; медиана ~51 г. (САЩ). Ранна менопауза 40–45 г. (~5%); преждевременна овариална недостатъчност <40 г. (~1%).\n\n**Физиология:** прогресивното изчерпване на овариалните фоликули понижава естрадиола, инхибин B и AMH; загубата на отрицателна обратна връзка води до покачване на FSH и LH. Ориентировъчно FSH >30 mIU/mL и естрадиол <20 pg/mL насочват към менопауза.\n\n**Симптоми:** вазомоторни (горещи вълни/нощно изпотяване) при ~75–80%, обикновено с продължителност няколко години; генитоуринарен синдром на менопаузата при ~50–75% (вагинална сухота, диспареуния, уринарни оплаквания); нарушения на съня и настроението. Дългосрочно: ускорена костна загуба и повишен сърдечно-съдов риск.\n\n**Червен флаг:** постменопаузално кървене изисква оценка за изключване на ендометриален карцином.",
+      "en": "**Definitions**: menopause is the permanent cessation of menstruation from oestrogen deficiency, confirmed retrospectively after 12 consecutive months of amenorrhoea with no other cause. Perimenopause is the transitional phase with irregular cycles; postmenopause begins after those 12 months and continues for life. Natural menopause usually occurs at 45–55 y; median ~51 y (US). Early menopause 40–45 y (~5%); primary ovarian insufficiency <40 y (~1%).\n\n**Physiology:** progressive depletion of ovarian follicles lowers estradiol, inhibin B and AMH; loss of negative feedback raises FSH and LH. As a guide, FSH >30 mIU/mL and estradiol <20 pg/mL point toward menopause.\n\n**Symptoms:** vasomotor (hot flushes/night sweats) in ~75–80%, typically lasting several years; genitourinary syndrome of menopause in ~50–75% (vaginal dryness, dyspareunia, urinary symptoms); sleep and mood disturbance. Long term: accelerated bone loss and increased cardiovascular risk.\n\n**Red flag:** postmenopausal bleeding requires evaluation to exclude endometrial carcinoma."
+    },
+    "doctor": {
+      "bg": "**Диагноза**: при жени >45 г. перименопаузата/менопаузата се поставят клинично, без лабораторни изследвания (менопауза = без менструация ≥12 мес. без хормонална контрацепция). FSH се използва само при 40–45 г. със симптоми или <40 г. при съмнение за менопауза; не се използва при жени на комбинирана или високодозова прогестагенна контрацепция.\n\n**Костна загуба:** ускорена до ~3–5%/год. за 5–7 г. около менопаузата.\n\n**Мениджмънт (рамка):** начин на живот (движение, хранене, спиране на тютюнопушене, умерен алкохол). Менопаузална хормонална терапия (МХТ) — най-ефективна за вазомоторни симптоми и генитоуринарен синдром и предпазва от костна загуба; ползите надвишават рисковете за здрави симптоматични жени <60 г. или до 10 г. от менопаузата (timing). По роля: естроген-прогестаген при налична матка; естроген самостоятелно след хистеректомия; локален вагинален естроген за генитоуринарни симптоми. Трансдермалният път може да намали риска от ВТЕ/инсулт. Индивидуализация и периодична преоценка; **без дози, само по лекарско назначение**. Нехормонални: NICE не препоръчва рутинно SSRI/SNRI/клонидин като първа линия само за вазомоторни симптоми; КПТ при потиснато настроение/тревожност; вагинални лубриканти/овлажнители.\n\n**Постменопаузално кървене**: кървенето е първи симптом при >90% от ендометриалните карциноми; 1–14% от случаите с ПМК са карцином. Ендометрий ≤4 mm на трансвагинален ултразвук има >99% отрицателна предиктивна стойност; при >4 mm, персистиращо/рецидивиращо кървене или невъзможна оценка → ендометриална биопсия/хистероскопия.",
+      "en": "**Diagnosis**: in women >45 y, perimenopause/menopause are diagnosed clinically without laboratory tests (menopause = no period ≥12 mo without hormonal contraception). FSH is used only in women 40–45 y with symptoms or <40 y with suspected menopause; not in women on combined or high-dose progestogen contraception.\n\n**Bone loss:** accelerates to ~3–5%/yr for 5–7 y around menopause.\n\n**Management (framework):** lifestyle (activity, diet, smoking cessation, moderate alcohol). Menopausal hormone therapy (MHT) — most effective for vasomotor symptoms and genitourinary syndrome and prevents bone loss; benefits outweigh risks for healthy symptomatic women <60 y or within 10 y of menopause onset (timing). By role: estrogen–progestogen if a uterus is present; estrogen alone after hysterectomy; local vaginal estrogen for genitourinary symptoms. Transdermal route may reduce VTE/stroke risk. Individualise with periodic reevaluation; **no doses, on physician's order only**. Non-hormonal: NICE does not routinely recommend SSRIs/SNRIs/clonidine first-line for vasomotor symptoms alone; CBT for low mood/anxiety; vaginal lubricants/moisturisers.\n\n**Postmenopausal bleeding**: bleeding is the presenting sign in >90% of endometrial carcinomas; 1–14% of PMB cases are cancer. An endometrium ≤4 mm on transvaginal ultrasound has >99% negative predictive value; if >4 mm, persistent/recurrent bleeding, or non-measurable → endometrial biopsy/hysteroscopy.\n\n### Cross-links: ART_GYN_LIFESTAGES, ART_GYN_CANCER_SCREENING, ART_MENSTRUAL_CYCLE\n\n### SOURCE_CHECK / LOCALIZATION_CHECK items\n- LOCALIZATION_CHECK: Ages, median (~51 y, US), FSH/estradiol thresholds and prevalence figures reflect WHO/US (StatPearls) and UK (NICE NG23) data; confirm against Bulgarian national data / БДАГ. Patient layer kept generic (no numeric ages/thresholds).\n- SOURCE_CHECK: Specific pharmacologic non-hormonal agents newer than the fetched NICE NG23 recommendations text (e.g., neurokinin-3 receptor antagonists such as fezolinetant) not independently fetched this task — omitted rather than asserted.\n- LOCALIZATION_CHECK: MHT regulatory framing (MHRA breast-cancer/VTE risk tables referenced by NICE) is UK-specific; verify against EMA/Bulgarian labelling. Lekar layer states role only, no doses."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_ACOG_PMB",
+      "citation": "Committee Opinion No. 734: Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding",
+      "org": "ACOG",
+      "year": "2018",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/05/the-role-of-transvaginal-ultrasonography-in-evaluating-the-endometrium-of-women-with-postmenopausal-bleeding",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Postmenopausal bleeding requires evaluation to exclude endometrial carcinoma; bleeding is presenting sign in >90% of postmenopausal endometrial cancer; 1-14% of PMB is endometrial cancer; endometrial thickness <=4 mm on TVUS has >99% negative predictive value; thickness >4 mm, persistent/recurrent bleeding, or non-measurable endometrium warrants sampling/hysteroscopy/sonohysterography"
+    },
+    {
+      "id": "PIN_NAMS_HT2022",
+      "citation": "The 2022 Hormone Therapy Position Statement of The North American Menopause Society (The Menopause Society)",
+      "org": "The Menopause Society (NAMS)",
+      "year": "2022",
+      "url": "https://menopause.org/wp-content/uploads/press-release/ht-position-statement-release.pdf",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Hormone therapy most effective treatment for vasomotor symptoms and genitourinary syndrome and prevents bone loss/fracture; benefits outweigh risks for most healthy symptomatic women aged <60 y or within 10 y of menopause onset (timing); individualisation with shared decision-making and periodic reevaluation; estrogen-progestogen if uterus present vs estrogen-alone after hysterectomy; low-dose vaginal estrogen for genitourinary symptoms; transdermal/lower dose may lower VTE/stroke risk; breast cancer risk considerations; therapy need not be routinely stopped at fixed age"
+    },
+    {
+      "id": "PIN_NICE_NG23",
+      "citation": "Menopause: identification and management (NG23) - Recommendations",
+      "org": "NICE",
+      "year": "2015",
+      "url": "https://www.nice.org.uk/guidance/ng23/chapter/recommendations",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Diagnose perimenopause/menopause clinically in women >45 without lab tests (menopause=no period >=12 mo without hormonal contraception); FSH testing only in women 40-45 with symptoms or <40 with suspected menopause; offer HRT for vasomotor symptoms after discussing benefits/risks; do not routinely offer SSRIs/SNRIs/clonidine first-line for vasomotor symptoms alone; CBT for low mood/anxiety; vaginal estrogen plus moisturisers/lubricants for urogenital atrophy; oral HRT raises VTE risk while transdermal at standard dose no greater than baseline; estrogen-alone little/no change vs estrogen-progestogen increased breast cancer risk that reduces after stopping"
+    },
+    {
+      "id": "PIN_STATPEARLS_MENOPAUSE",
+      "citation": "Menopause (StatPearls, NCBI Bookshelf, NBK507826)",
+      "org": "StatPearls",
+      "year": "2024",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507826/",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Definitions (menopause=12 mo amenorrhea from estrogen deficiency; perimenopause; postmenopause); median age ~51 y US, range 45-56; early menopause 40-45 (~5%); primary ovarian insufficiency <40 (~1%); physiology follicular depletion lowers estradiol/inhibin B/AMH, raises FSH and LH; FSH >30 mIU/mL / >40 IU/L postmenopause, estradiol <20 pg/mL; vasomotor 75-80% (duration ~1-6 y, up to ~15 y in a minority); genitourinary syndrome 50-75%; bone loss ~3-5%/y for 5-7 y peri-menopause; increased cardiovascular risk"
+    },
+    {
+      "id": "PIN_WHO_MENOPAUSE",
+      "citation": "Menopause (WHO fact sheet)",
+      "org": "WHO",
+      "year": "2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/menopause",
+      "rights": "LAWFUL_ACCESS_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Menopause = 12 consecutive months without menstruation with no other cause; typical age 45-55; results from loss of ovarian follicular function and decline in circulating oestrogen; perimenopause/transition can last several years; vasomotor (hot flushes/night sweats), sleep, mood (anxiety/depression), genitourinary (vaginal dryness, dyspareunia) symptoms; long-term osteoporosis/fracture and reduced cardiovascular protection; both hormonal and non-hormonal interventions via clinician"
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-09-11",
+    "expires_at": "2029-09-11",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

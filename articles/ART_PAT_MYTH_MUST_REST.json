@@ -1,0 +1,36 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_MUST_REST",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Трябва да лежи.“",
+    "en": "\"She must stay in bed.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно като общо правило. Няма доказателства, че лежането предпазва бременността — най-големият обзор по въпроса не намира нито довод за, нито довод против при предотвратяване на преждевременно раждане. Продължителното лежане обаче носи собствени рискове: загуба на мускулна маса започва още след няколко дни, костната плътност спада, рискът от тромбоза се повишава, а тревожността и потиснатостта са чести. Почивка на легло понякога се препоръчва при определени състояния — но това е решение на лекуващия екип за конкретния случай, а не правило за всяка бременност.",
+      "en": "Not true as a general rule. There is no evidence that bed rest protects a pregnancy — the largest review of the question found nothing either supporting or refuting it for preventing preterm birth. Prolonged bed rest carries its own risks: muscle loss begins within days, bone density falls, the risk of a blood clot rises, and anxiety and low mood are common. Rest in bed is sometimes advised for particular conditions — but that is a decision by the care team for that case, not a rule for every pregnancy."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_PARTNER_P1_8",
+      "citation": "Cochrane · Bed rest in singleton pregnancies for preventing preterm birth (CD003581); Activity Restriction and Hospitalization in Pregnancy — narrative review, PMC9859130",
+      "org": "Cochrane",
+      "year": "",
+      "url": "https://www.cochrane.org/evidence/CD003581_bed-rest-singleton-pregnancies-preventing-preterm-birth",
+      "rights": "Public guidance — cited, not reproduced",
+      "boundary": "Твърдението е ограничено до цитираното указание."
+    }
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-08-27",
+    "expires_at": "2029-08-27",
+    "publishable": true,
+    "languages_signed": null
+  }
+}

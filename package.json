@@ -1,0 +1,16 @@
+{
+  "name": "@yourfem/content",
+  "private": true,
+  "type": "module",
+  "description": "Signed articles and the manifest the YourFem app reads.",
+  "scripts": {
+    "publish:articles": "node tools/publish.mjs",
+    "test": "node --test tools/*.test.mjs"
+  },
+  "dependencies": {
+    "zod": "^4.4.3"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
