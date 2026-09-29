@@ -1,0 +1,3 @@
+# The manifest hashes the exact bytes of every file; a checkout that turns LF
+# into CRLF would make a correct file look tampered with.
+* text=auto eol=lf
