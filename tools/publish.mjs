@@ -429,7 +429,8 @@ async function main() {
       return 1;
     }
     const rl = createInterface({ input: process.stdin, output: process.stdout });
-    const answer = (await rl.question('Публикувам? (д/н) ')).trim().toLowerCase();
+    // Windows' console does not always pass Cyrillic through stdin; `y` always works.
+    const answer = (await rl.question('Публикувам? (д или y = да) ')).trim().toLowerCase();
     rl.close();
     if (!['д', 'да', 'y', 'yes'].includes(answer)) {
       console.log('Нищо не е записано.');

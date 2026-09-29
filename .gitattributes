@@ -1,3 +1,6 @@
 # The manifest hashes the exact bytes of every file; a checkout that turns LF
 # into CRLF would make a correct file look tampered with.
 * text=auto eol=lf
+
+# cmd.exe loses its labels in a batch file with bare LF line ends (goto fails).
+*.cmd text eol=crlf
