@@ -3,6 +3,11 @@
 Written by `tools/publish.mjs` on every publish, newest first. What changed is
 worked out from the hashes; a person adds only the why, with `--note`.
 
+## 2026-10-02 · source generated 2026-10-02T10:40:04+00:00
+
+Changed (1)
+- ART_PAT_COMP_PREECLAMPSIA — Прееклампсия
+
 ## 2026-09-29 · source generated 2026-09-29T17:30:24+00:00
 
 Added (48)

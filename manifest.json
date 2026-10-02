@@ -1,9 +1,9 @@
 {
   "schema": "yourfem.manifest.v1",
-  "published_at": "2026-09-29T21:08:35.751Z",
+  "published_at": "2026-10-02T11:36:37.132Z",
   "source": {
     "schema": "femai.articles.v1",
-    "generated_at": "2026-09-29T17:30:24+00:00"
+    "generated_at": "2026-10-02T10:40:04+00:00"
   },
   "articles": [
     {
@@ -269,11 +269,11 @@
     {
       "id": "ART_PAT_COMP_PREECLAMPSIA",
       "path": "articles/ART_PAT_COMP_PREECLAMPSIA.json",
-      "sha256": "daa3c0bedb976f5e990a060df1aaca2c83a0926c6e8a1ba094f830e5ea2f2d91",
-      "bytes": 25024,
-      "content_sha256": "a10d993c677d69794324c12e38e0bb7e478cb4aad13b6131d6bb2481c11226dc",
-      "reviewed_at": "2026-09-29",
-      "expires_at": "2029-09-29",
+      "sha256": "b6c25a227a3d9392166623a0cad54ed7fae80c06af0bd833c046488fc61b4a4a",
+      "bytes": 83123,
+      "content_sha256": "631605596edb67e543c58e6a393f58c3f49e8cc7ad81b0f1e3dbf4097637cefc",
+      "reviewed_at": "2026-10-02",
+      "expires_at": "2029-10-02",
       "title": {
         "bg": "Прееклампсия",
         "en": "Pre-eclampsia"
