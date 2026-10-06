@@ -1,0 +1,34 @@
+{
+ "schema": "yourfem/yo-meaning@1",
+ "model": {
+  "id": "Xenova/bge-m3",
+  "dtype": "q8",
+  "pooling": "cls",
+  "dim": 1024,
+  "query": "",
+  "passage": "",
+  "files": [
+   {
+    "path": "config.json",
+    "bytes": 770,
+    "sha256": "734a79bf12d388c1467a4e3ab625f45de7f6906cffcfb93a1eca1787504bed95"
+   },
+   {
+    "path": "tokenizer.json",
+    "bytes": 17082821,
+    "sha256": "6710678b12670bc442b99edc952c4d996ae309a7020c1fa0096dd245c2faf790"
+   },
+   {
+    "path": "tokenizer_config.json",
+    "bytes": 1173,
+    "sha256": "7e4c1cc848840aeccdd763458c18dd525eb0f795c992e00ebe9c28554e7db2d4"
+   },
+   {
+    "path": "onnx/model_quantized.onnx",
+    "bytes": 569694530,
+    "sha256": "0826f8c1ab9edf1801db86c61919d4d108e8bfc0b809ec823ad366882ff0b77d"
+   }
+  ],
+  "source": "https://github.com/YourFem/content/releases/download/"
+ }
+}

@@ -5,6 +5,10 @@
   "description": "Signed articles and the manifest the YourFem app reads.",
   "scripts": {
     "publish:articles": "node tools/publish.mjs",
+    "meaning:setup": "node tools/meaning/setup.mjs",
+    "meaning:index": "node tools/meaning.mjs index",
+    "meaning:check": "node tools/meaning.mjs check",
+    "meaning:selftest": "node tools/meaning.mjs selftest",
     "test": "node --test tools/*.test.mjs"
   },
   "dependencies": {

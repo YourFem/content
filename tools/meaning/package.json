@@ -1,0 +1,10 @@
+{
+  "name": "@yourfem/content-meaning",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The model's runtime for tools/meaning.mjs. Its own package: half a gigabyte of dependencies the gate and its tests never need.",
+  "dependencies": {
+    "@huggingface/transformers": "4.3.0"
+  }
+}

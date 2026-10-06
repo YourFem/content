@@ -247,3 +247,27 @@ test('the changelog says what went out, by title', () => {
   assert.match(entry, /ART_A — Заглавие ART_A/);
   assert.match(entry, /first publish/);
 });
+
+test('a publish carries the list of vectors through — the meaning step keeps it, not the gate', () => {
+  const first = plan(source([signed('ART_A')]), null, NOW);
+  const meaning = [
+    {
+      model: 'yo-model-12345678',
+      rule: 1,
+      files: [{ id: 'ART_A', path: 'meaning/yo-model-12345678-r1/ART_A.json', sha256: 'a'.repeat(64), bytes: 9 }],
+    },
+  ];
+  const withVectors = { ...first, manifest: { ...first.manifest, meaning } };
+
+  const second = again(withVectors, [signed('ART_A'), signed('ART_B')]);
+
+  assert.deepEqual(second.changes.added, ['ART_B']);
+  assert.deepEqual(second.manifest.meaning, meaning);
+});
+
+test('a manifest without vectors stays without the key', () => {
+  const first = plan(source([signed('ART_A')]), null, NOW);
+  const second = again(first, [signed('ART_A'), signed('ART_B')]);
+
+  assert.equal('meaning' in second.manifest, false);
+});

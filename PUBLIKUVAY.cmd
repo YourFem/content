@@ -38,11 +38,22 @@ echo.
 echo --- 2 portata ---
 node tools\publish.mjs "%SOURCE%" --note "%NOTE%" || goto :fail
 
+rem Vektorite, po koito Yo tarsi po smisal. Tekstat NE gi chaka: ako modelat
+rem lipsva ili stapkata padne, statiite i otteglyaniyata se kachvat vse taka.
+echo.
+echo --- 3 vektorite za tarsene po smisal ---
+node tools\meaning.mjs index
+if errorlevel 1 if not errorlevel 3 (
+  echo.
+  echo VEKTORITE NE STANAHA. Tekstovete se kachvat; statiite se namirat po zaglavie.
+  echo Izprati tozi prozorets na Niki.
+)
+
 git add -A
 git diff --cached --quiet && (echo. & echo Nyama nishto novo za kachvane. & goto :end)
 
 echo.
-echo --- 3 kachvane ---
+echo --- 4 kachvane ---
 if defined NOTE (
   git commit -q -m "Publish from the author's articles" -m "%NOTE%" || goto :fail
 ) else (

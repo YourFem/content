@@ -1,1 +1,4 @@
 node_modules/
+# The model the vectors are computed with: 0.6 GB, downloaded and checked by
+# `npm run meaning:setup`. It lives in this repository's release, not in its tree.
+tools/meaning/.model/

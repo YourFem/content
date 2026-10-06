@@ -100,6 +100,9 @@ const Manifest = z.object({
   source: z.object({ schema: z.string(), generated_at: z.string() }),
   articles: z.array(ManifestEntry),
   revoked: z.array(Revoked),
+  // The vectors Yo searches by meaning. `tools/meaning.mjs` writes and reads
+  // this list; the gate only carries it from one manifest to the next.
+  meaning: z.array(z.unknown()).optional(),
 });
 
 const sha256 = (data) => createHash('sha256').update(data).digest('hex');
@@ -326,6 +329,11 @@ export function plan(sourceJson, previous, now) {
         source: { schema: SOURCE_SCHEMA, generated_at: source.data.generated_at },
         articles: entries.sort(byId),
         revoked,
+        // Carried as it was, stale entries included: a vector is used only if
+        // its passage still has the fingerprint it was filed under, so an old
+        // list can cost a place found by meaning and can never show a wrong
+        // text. The meaning step, which runs next, puts the list right.
+        ...(before?.meaning ? { meaning: before.meaning } : {}),
       };
 
   const titles = new Map(
