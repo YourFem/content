@@ -631,5 +631,301 @@
       }
     }
   ],
-  "revoked": []
+  "revoked": [],
+  "meaning": [
+    {
+      "model": "yo-model-12da84b9",
+      "rule": 1,
+      "files": [
+        {
+          "id": "ART_ANTENATAL_CARE",
+          "path": "meaning/yo-model-12da84b9-r1/ART_ANTENATAL_CARE.json",
+          "sha256": "1e7375ee30a9ce8c1559af6dbd82fbb6b466047d9ed1adad02a0bbfa0edc755f",
+          "bytes": 21477
+        },
+        {
+          "id": "ART_CERVICAL_LENGTH",
+          "path": "meaning/yo-model-12da84b9-r1/ART_CERVICAL_LENGTH.json",
+          "sha256": "ff5e34b4db2ed17f661b385dd45c8b1574fd24006ea93159af5fda8b1dd9eb0c",
+          "bytes": 27607
+        },
+        {
+          "id": "ART_EARLY_BLEEDING",
+          "path": "meaning/yo-model-12da84b9-r1/ART_EARLY_BLEEDING.json",
+          "sha256": "403eca6b1e1d8017effb771986162987b142b42f19b04066cb0565afbdb67659",
+          "bytes": 18427
+        },
+        {
+          "id": "ART_EARLY_FETAL_MORPHOLOGY",
+          "path": "meaning/yo-model-12da84b9-r1/ART_EARLY_FETAL_MORPHOLOGY.json",
+          "sha256": "a80915d48d640887a7131e6bc9d1f2e6ee2a84ae994f016534a4c3dc94ddccff",
+          "bytes": 23247
+        },
+        {
+          "id": "ART_ENDO_006",
+          "path": "meaning/yo-model-12da84b9-r1/ART_ENDO_006.json",
+          "sha256": "ddc5637508443991670e7d34121ff082b191dc463cb04b21f73f2b23a2d0d055",
+          "bytes": 6189
+        },
+        {
+          "id": "ART_FETAL_ECHO",
+          "path": "meaning/yo-model-12da84b9-r1/ART_FETAL_ECHO.json",
+          "sha256": "25edfb007e0b320d3516892a2696bc352c40c0b4bd1af7e5ce3bbb32bd4d0e0e",
+          "bytes": 28940
+        },
+        {
+          "id": "ART_FETAL_MORPHOLOGY",
+          "path": "meaning/yo-model-12da84b9-r1/ART_FETAL_MORPHOLOGY.json",
+          "sha256": "490bac441751b525a79e784f3e95d927d53c0112da9059b337ff5dc90a6087b1",
+          "bytes": 30700
+        },
+        {
+          "id": "ART_FIRST_TRIMESTER_SCREENING",
+          "path": "meaning/yo-model-12da84b9-r1/ART_FIRST_TRIMESTER_SCREENING.json",
+          "sha256": "591c911479f34c92457e1ea7dab45a140cfb3050a5419dcb200482d9e11a9fd0",
+          "bytes": 26434
+        },
+        {
+          "id": "ART_GESTATIONAL_WEIGHT_GAIN",
+          "path": "meaning/yo-model-12da84b9-r1/ART_GESTATIONAL_WEIGHT_GAIN.json",
+          "sha256": "ab3d38ef2d4a0d2365455c05ea2c1484bc4bf72baccf5e1e059ec50a64b2bd5f",
+          "bytes": 9405
+        },
+        {
+          "id": "ART_INV_004",
+          "path": "meaning/yo-model-12da84b9-r1/ART_INV_004.json",
+          "sha256": "e5cd77eb35fb290d751e7f4e1f3832b904e077dee1da9af14f12ce9ab180578c",
+          "bytes": 43916
+        },
+        {
+          "id": "ART_MENOPAUSE",
+          "path": "meaning/yo-model-12da84b9-r1/ART_MENOPAUSE.json",
+          "sha256": "a41da698c7ce87ba213b4cfab957bbf9e77114672a637337d70cc1addb050106",
+          "bytes": 6197
+        },
+        {
+          "id": "ART_NIPT",
+          "path": "meaning/yo-model-12da84b9-r1/ART_NIPT.json",
+          "sha256": "91691102a90bed2cdc74f640dae08835a84535dee21773b1c68e29b1695727d4",
+          "bytes": 25699
+        },
+        {
+          "id": "ART_PAT_002",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_002.json",
+          "sha256": "cf184a9b7a8668df1098d90e74f605c802f909d31a3bc6e898a554fad1f3b244",
+          "bytes": 16742
+        },
+        {
+          "id": "ART_PAT_007",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_007.json",
+          "sha256": "dfb9dae5a5b47204451fead086ebf12e272941c941b57a642b6aca246f07c277",
+          "bytes": 3162
+        },
+        {
+          "id": "ART_PAT_009",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_009.json",
+          "sha256": "7a2ab6931773ab9ce244b5e249ebda8e8423974dd243f9bf4b1e0faa8d483f65",
+          "bytes": 4669
+        },
+        {
+          "id": "ART_PAT_010",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_010.json",
+          "sha256": "2785bb2e007b79d4372f5655c16fda3faa4044283d658ea8f12672e562364d4c",
+          "bytes": 7689
+        },
+        {
+          "id": "ART_PAT_013",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_013.json",
+          "sha256": "03d309661c4173d73d97303cd15d0567d1c9a150236b651fceb7327e2fa19fd0",
+          "bytes": 10707
+        },
+        {
+          "id": "ART_PAT_015",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_015.json",
+          "sha256": "4c34bb3e937b8a22065d165b1e44065cb9fb9418a2b7c6f3bb071dd793daf2ea",
+          "bytes": 7689
+        },
+        {
+          "id": "ART_PAT_BIRTH_PLAN_DISCUSSION",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_BIRTH_PLAN_DISCUSSION.json",
+          "sha256": "13799bca4713251f64db3759086fcb1b1845aca49c3f8ef51aaff0bc49d43860",
+          "bytes": 6341
+        },
+        {
+          "id": "ART_PAT_COMP_GDM",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_COMP_GDM.json",
+          "sha256": "a6b0f9e0baadc99702b2e4cf6d9a793e4e9800d67c3067c7bd4e6edb4de0f0d6",
+          "bytes": 22938
+        },
+        {
+          "id": "ART_PAT_COMP_PREECLAMPSIA",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_COMP_PREECLAMPSIA.json",
+          "sha256": "7353e032d072731d681cdbae1ae48a0fa9409dbb87fb9283c2a5437cf53bb017",
+          "bytes": 37054
+        },
+        {
+          "id": "ART_PAT_DAILY_HAIR_DYE",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_DAILY_HAIR_DYE.json",
+          "sha256": "c46ca840496a2f74b71ebdefad6a225d8ca3d28a7d43ae9fd60a2d8b022768f2",
+          "bytes": 1686
+        },
+        {
+          "id": "ART_PAT_HOSPITAL_BAG",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_HOSPITAL_BAG.json",
+          "sha256": "79eca02f16cf9dedcb2162f2bb6bcc9a36dbe675db13d8f92d3b993d433c4537",
+          "bytes": 6261
+        },
+        {
+          "id": "ART_PAT_MISSED_PERIOD",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MISSED_PERIOD.json",
+          "sha256": "2843e221d61fe5fa5d429adb9deb37f010000aa65a3f26ed296446b5aec6cf91",
+          "bytes": 4741
+        },
+        {
+          "id": "ART_PAT_MYTH_BUMP_SHAPE",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_BUMP_SHAPE.json",
+          "sha256": "529da7e65a7a7a399dc8cfccdad5b367bf5d98b1d0f32d4d002a79556fb5c225",
+          "bytes": 1689
+        },
+        {
+          "id": "ART_PAT_MYTH_CANT_FLY",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_CANT_FLY.json",
+          "sha256": "712b20db2c484e1df9f9bacd8bf61331f369de876465452ffc3a95a411be73e5",
+          "bytes": 1683
+        },
+        {
+          "id": "ART_PAT_MYTH_CAT_OUT",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_CAT_OUT.json",
+          "sha256": "5bfe4917e7d2b4ed5015740cf6df1d15075b652e9e1f6e281ea0c1b2e59e61e8",
+          "bytes": 1680
+        },
+        {
+          "id": "ART_PAT_MYTH_DUE_DATE_WRONG",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_DUE_DATE_WRONG.json",
+          "sha256": "7d7896dc5eaa7688b22b796ebfed755753c18dc4d657b0e4d717beac5598da8b",
+          "bytes": 1701
+        },
+        {
+          "id": "ART_PAT_MYTH_EATING_TWO",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_EATING_TWO.json",
+          "sha256": "d48cd2aab6eff1b05fa25f62fd83f4bcf0ada6a728dac951ef8984c29958f497",
+          "bytes": 1689
+        },
+        {
+          "id": "ART_PAT_MYTH_ELECTIVE_CS",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_ELECTIVE_CS.json",
+          "sha256": "35dabff49c926735686f29ef7613eabcad70730ae09c6c9d740aa78fbfeaaa5c",
+          "bytes": 1692
+        },
+        {
+          "id": "ART_PAT_MYTH_HAIR_DYE",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_HAIR_DYE.json",
+          "sha256": "8a108bdda07dea716310ad7499c396a54fbb79eef62d901766dd80da2040e0e9",
+          "bytes": 1683
+        },
+        {
+          "id": "ART_PAT_MYTH_HEARTBURN_HAIR",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_HEARTBURN_HAIR.json",
+          "sha256": "1b8c2f8ab28b0345966263d49c0c15c69797556f2683f9ef35e6c8c4f18ae22e",
+          "bytes": 1701
+        },
+        {
+          "id": "ART_PAT_MYTH_LITTLE_WINE",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_LITTLE_WINE.json",
+          "sha256": "b4164e7db0e8c3628c96a983953c341b3b88adf2058ac381693186603fce5081",
+          "bytes": 1692
+        },
+        {
+          "id": "ART_PAT_MYTH_MUST_REST",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_MUST_REST.json",
+          "sha256": "71d66ef6d2fe4d66172234b97ffe1e1239db2009120af497cc8eddafa70a946c",
+          "bytes": 1686
+        },
+        {
+          "id": "ART_PAT_MYTH_NO_COFFEE",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_NO_COFFEE.json",
+          "sha256": "5ef4d27c7fa0dc49335468a7f898075c97d3cf7c85d687034680b2e0fbf423a8",
+          "bytes": 1686
+        },
+        {
+          "id": "ART_PAT_MYTH_NO_EXERCISE",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_NO_EXERCISE.json",
+          "sha256": "5bc0c4a45b22a53c2b07f05d0a05d916a804e50926a44910f7679a7edf2105f1",
+          "bytes": 1692
+        },
+        {
+          "id": "ART_PAT_MYTH_NO_SEAFOOD",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_NO_SEAFOOD.json",
+          "sha256": "fae7064c103a75ba58166d9075adee06eb3eb457b83f9a504208bb3774e43a62",
+          "bytes": 1689
+        },
+        {
+          "id": "ART_PAT_MYTH_REACHING_CORD",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_MYTH_REACHING_CORD.json",
+          "sha256": "56d395243ebeeb7f43df2d921097260d50464ebfa8b1c31d3f3490da715e20fd",
+          "bytes": 1698
+        },
+        {
+          "id": "ART_PAT_PP_OVERVIEW",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_PP_OVERVIEW.json",
+          "sha256": "4b43c8880374a9e9ac6b43ecea0d908bdaa31e27e3683898fa4a579f92df893a",
+          "bytes": 4726
+        },
+        {
+          "id": "ART_PAT_PP_WARNING_SIGNS",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_PP_WARNING_SIGNS.json",
+          "sha256": "0f9fc5c2071ed8614730125743c563089bef2e18e6c97801d5073c656453e3e4",
+          "bytes": 4762
+        },
+        {
+          "id": "ART_PAT_SYM_NAUSEA",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PAT_SYM_NAUSEA.json",
+          "sha256": "712d984cec8f64fe1926ecd05450e92168acb57453ff8f41925dbe8edfc8a2c3",
+          "bytes": 16902
+        },
+        {
+          "id": "ART_PE_SCREENING",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PE_SCREENING.json",
+          "sha256": "c6c9c9b24928c493c73397597f0783d6b680f28ae12684ad782c08f4eeab0586",
+          "bytes": 36618
+        },
+        {
+          "id": "ART_POSTTERM",
+          "path": "meaning/yo-model-12da84b9-r1/ART_POSTTERM.json",
+          "sha256": "3de4deaf72c65002384487dfd05a464090d888b85b1b7b68cc753e0640b3fa5c",
+          "bytes": 40955
+        },
+        {
+          "id": "ART_PREGNANCY_OVERVIEW",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PREGNANCY_OVERVIEW.json",
+          "sha256": "b1890ba3850165a218ea0262ba5f2ca1023b26c8337e4518bacaf1a69954f6f5",
+          "bytes": 47634
+        },
+        {
+          "id": "ART_PREG_DIAGNOSIS",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PREG_DIAGNOSIS.json",
+          "sha256": "6695e9e9fc6f60e576f4e5bb5d52d294230781ed8452ecc546299b632a2d4fc0",
+          "bytes": 79385
+        },
+        {
+          "id": "ART_REDUCED_FETAL_MOVEMENTS",
+          "path": "meaning/yo-model-12da84b9-r1/ART_REDUCED_FETAL_MOVEMENTS.json",
+          "sha256": "5ebe69557312250073be975308f2737979477a080fddf33045b1eecda99930c9",
+          "bytes": 26360
+        },
+        {
+          "id": "ART_RH_ALLOIMMUNIZATION",
+          "path": "meaning/yo-model-12da84b9-r1/ART_RH_ALLOIMMUNIZATION.json",
+          "sha256": "3f1fd0f5e9e064fdaaf28a998963282a89008d4a494fd747c77bb9f43a74644e",
+          "bytes": 21616
+        },
+        {
+          "id": "ART_VACCINES_PREGNANCY",
+          "path": "meaning/yo-model-12da84b9-r1/ART_VACCINES_PREGNANCY.json",
+          "sha256": "e7b00a80429aa6e0820c7ed5ebfe1ef186753a086b9c5cc2c52ad9c20478e1cf",
+          "bytes": 26186
+        }
+      ]
+    }
+  ]
 }
