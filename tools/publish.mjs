@@ -49,6 +49,21 @@ const text = z.string().nullable().optional();
 const Bilingual = z.looseObject({ bg: text, en: text });
 const Pin = z.looseObject({ id: z.string() });
 
+/**
+ * What the workshop writes on a source for itself. `read_from` is the file in
+ * the author's library a source was read from: a path on his disk, and no part
+ * of what a reviewer signs — so it is neither published nor counted as a change.
+ */
+const WORKSHOP_PIN_KEYS = new Set(['read_from']);
+
+/** A source as the public sees it. */
+function publicPin(pin) {
+  return Object.fromEntries(Object.entries(pin).filter(([key]) => !WORKSHOP_PIN_KEYS.has(key)));
+}
+
+const sameSource = (a, b) =>
+  JSON.stringify(canonical(publicPin(a))) === JSON.stringify(canonical(publicPin(b)));
+
 const Status = z.looseObject({
   medical_review: z.string().nullable().optional(),
   reviewer: z.string().nullable().optional(),
@@ -58,22 +73,44 @@ const Status = z.looseObject({
   languages_signed: z.array(z.string()).nullable().optional(),
 });
 
-const SourceArticle = z.looseObject({
-  id: z.string().min(1),
-  cluster: z.string().nullable().optional(),
-  title: Bilingual,
-  layers: z.partialRecord(z.enum(LAYERS), Bilingual),
-  pins: z.array(Pin).optional(),
-  // Ids into `pins`: which of the sources the English text rests on.
-  pins_en: z.array(z.string()).optional(),
-  // The chain writes a single link as a bare string; the public shape is always a list.
-  see_also: z
-    .union([z.string(), z.array(z.string())])
-    .transform((value) => (typeof value === 'string' ? [value] : value))
-    .optional(),
-  source_check: z.array(z.string()).optional(),
-  status: Status,
-});
+const SourceArticle = z
+  .looseObject({
+    id: z.string().min(1),
+    cluster: z.string().nullable().optional(),
+    title: Bilingual,
+    layers: z.partialRecord(z.enum(LAYERS), Bilingual),
+    pins: z.array(Pin).optional(),
+    // Which of the sources the English text rests on. The chain writes them as
+    // ids into `pins` or, since 05.10.2026, as the sources themselves; the
+    // public shape is always the ids.
+    pins_en: z.array(z.union([z.string(), Pin])).optional(),
+    // The chain writes a single link as a bare string; the public shape is always a list.
+    see_also: z
+      .union([z.string(), z.array(z.string())])
+      .transform((value) => (typeof value === 'string' ? [value] : value))
+      .optional(),
+    source_check: z.array(z.string()).optional(),
+    status: Status,
+  })
+  .superRefine((article, context) => {
+    // A source written out under `pins_en` has to be one of the article's own,
+    // word for word. One that is not would be published as an id that points at
+    // nothing, or at a source that says something else — so the article is
+    // named and stays out, like any signed text that cannot be read.
+    const own = new Map((article.pins ?? []).map((pin) => [pin.id, pin]));
+    (article.pins_en ?? []).forEach((entry, index) => {
+      if (typeof entry === 'string') return;
+      const pin = own.get(entry.id);
+      if (pin && sameSource(pin, entry)) return;
+      context.addIssue({
+        code: 'custom',
+        path: ['pins_en', index],
+        message: pin
+          ? `the English text gives the source ${entry.id} differently than the article's own sources do`
+          : `the English text names a source that is not among the article's own: ${entry.id}`,
+      });
+    });
+  });
 
 const Source = z.looseObject({
   schema: z.literal(SOURCE_SCHEMA),
@@ -198,8 +235,10 @@ export function publicArticle(article) {
     cluster: article.cluster ?? null,
     title: article.title,
     layers,
-    pins: article.pins ?? [],
-    ...(article.pins_en ? { pins_en: article.pins_en } : {}),
+    pins: (article.pins ?? []).map(publicPin),
+    ...(article.pins_en
+      ? { pins_en: article.pins_en.map((entry) => (typeof entry === 'string' ? entry : entry.id)) }
+      : {}),
     see_also: article.see_also ?? [],
     source_check: article.source_check ?? [],
     status: {

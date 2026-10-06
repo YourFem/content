@@ -98,6 +98,68 @@ test('the English source list is carried as the ids it points at', () => {
   assert.deepEqual(publicArticle(article).pins_en, ['WHO_2022']);
 });
 
+test('an English source list written out in full is published as the same ids', () => {
+  // The chain began writing the sources themselves where it used to write their
+  // ids (first seen 05.10.2026). The public shape stays one: ids into `pins`.
+  const [pin] = signed('x').pins;
+  const article = signed('ART_A', { pins_en: [{ ...pin }] });
+  const result = plan(source([article]), null, NOW);
+
+  assert.deepEqual(result.changes.invalid, []);
+  assert.deepEqual(result.changes.added, ['ART_A']);
+  assert.deepEqual(JSON.parse(result.writes[0].bytes.toString('utf8')).pins_en, ['WHO_2022']);
+});
+
+test('writing the same English sources the other way is not an edit', () => {
+  const [pin] = signed('x').pins;
+  const first = plan(source([signed('ART_A', { pins_en: ['WHO_2022'] })]), null, NOW);
+
+  const second = again(first, [signed('ART_A', { pins_en: [{ ...pin }] })]);
+
+  assert.deepEqual(second.changes.unchanged, ['ART_A']);
+  assert.deepEqual(second.changes.held, []);
+});
+
+test('an English source that is not among the article’s sources keeps it out, by name', () => {
+  const stray = { id: 'NICE_2019', citation: 'NICE 2019', org: 'NICE', year: '2019', url: '', rights: 'facts' };
+  const result = plan(source([signed('ART_A', { pins_en: [stray] }), signed('ART_B')]), null, NOW);
+
+  assert.deepEqual(result.manifest.articles.map((a) => a.id), ['ART_B']);
+  assert.deepEqual(result.changes.invalid.map((i) => i.id), ['ART_A']);
+  assert.match(result.changes.invalid[0].reason, /NICE_2019/);
+});
+
+test('an English source that says something else than the article’s own is not guessed at', () => {
+  const [pin] = signed('x').pins;
+  const reworded = signed('ART_A', { pins_en: [{ ...pin, citation: 'WHO 2023' }] });
+  const result = plan(source([reworded, signed('ART_B')]), null, NOW);
+
+  assert.deepEqual(result.manifest.articles.map((a) => a.id), ['ART_B']);
+  assert.deepEqual(result.changes.invalid.map((i) => i.id), ['ART_A']);
+  assert.match(result.changes.invalid[0].reason, /WHO_2022/);
+});
+
+test('where the workshop read a source from is not published', () => {
+  const [pin] = signed('x').pins;
+  const noted = { ...pin, read_from: 'C:/Users/ivan/Dropbox/07_Medical_Source_Library/who.md' };
+  const result = plan(source([signed('ART_A', { pins: [noted], pins_en: [noted] })]), null, NOW);
+
+  const written = result.writes[0].bytes.toString('utf8');
+  assert.equal(written.includes('read_from'), false);
+  assert.equal(written.includes('Dropbox'), false);
+  assert.deepEqual(JSON.parse(written).pins, [pin]);
+});
+
+test('noting where a source was read from is not an edit of a signed text', () => {
+  const [pin] = signed('x').pins;
+  const first = plan(source([signed('ART_A')]), null, NOW);
+
+  const second = again(first, [signed('ART_A', { pins: [{ ...pin, read_from: 'library/who.md' }] })]);
+
+  assert.deepEqual(second.changes.unchanged, ['ART_A']);
+  assert.deepEqual(second.changes.held, []);
+});
+
 test('a single "see also" is published as a list of one', () => {
   const article = signed('ART_A', { see_also: 'ART_B' });
   const result = plan(source([article]), null, NOW);
