@@ -1,0 +1,52 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_EPIDURAL_HARM",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Епидуралната аналгезия неизбежно причинява хронични болки в гърба, парализа или цезарово сечение.“",
+    "en": "\"An epidural inevitably causes chronic back pain, paralysis or a caesarean birth.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Епидуралната аналгезия не прави по-вероятно цезаровото раждане и не причинява болки в гърба след раждането (RCoA/OAA 2025). Възможни са временно понижаване на кръвното налягане, сърбеж, невъзможност да усетите, че Ви се уринира, главоболие след пункция или нужда от допълнително обезболяване, защото ефектът е непълен (RCoA/OAA 2025). Увреждането на нерв е рядко и обикновено временно; трайното увреждане е много рядко (RCoA 2024). *Граница:* числата на RCoA за нервно увреждане са общи за епидурална анестезия, не само за родилки — затова тук са дадени с думи, а не с числа. Личният риск се обсъжда с анестезиолог.",
+      "en": "Not true. Epidural analgesia does not make you more likely to need a caesarean birth and does not cause back pain after childbirth (RCoA/OAA 2025). Possible effects are a temporary drop in blood pressure, itching, not being able to feel when you need to pass urine, a headache after the puncture, or needing additional pain relief because the effect is incomplete (RCoA/OAA 2025). Nerve damage is rare and usually temporary; permanent damage is very rare (RCoA 2024). *Limit:* the RCoA figures for nerve damage are for epidural anaesthesia in general, not specifically for women in labour — which is why they are given here in words, not numbers. Discuss your individual risk with an anaesthetist."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_RCOA_OAA_EPIDURAL_INFOGRAPHIC_2025",
+      "citation": "Royal College of Anaesthetists / Obstetric Anaesthetists' Association. Epidural anaesthetics: risks and side effects — infographic, 2025 (rcoa.ac.uk, documents/2025-11). PDF прочетен 06.10.2026.",
+      "org": "RCoA / OAA",
+      "year": "2025",
+      "url": "https://rcoa.ac.uk/sites/default/files/documents/2025-11/Epidural-infographics2025.pdf",
+      "rights": "PROFESSIONAL_COLLEGE_PATIENT_INFO_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Епидуралите „do not make you more likely to need a caesarean birth\" и „do not cause backpain after childbirth\"; странични ефекти: понижено кръвно (5–30/100), сърбеж (~30/100), невъзможност да се усети нужда от уриниране, главоболие след пункция (0,5–1/100), допълнително обезболяване (~10/100); нервно увреждане временно 8/20 000, трайно ~1/20 000. В пациентския текст числата НЕ се цитират (общи за епидурална анестезия, не само родилки)."
+    },
+    {
+      "id": "PIN_RCOA_NERVE_DAMAGE_2024",
+      "citation": "Royal College of Anaesthetists. Nerve damage after a spinal or epidural anaesthetic — patient information, 6th edition, November 2024. Прочетена 06.10.2026 през WebFetch.",
+      "org": "RCoA",
+      "year": "2024",
+      "url": "https://rcoa.ac.uk/patients/patient-information-resources/anaesthesia-risk/risks-associated-regional-anaesthesia/nerve-damage-after-spinal-or-epidural-anaesthetic",
+      "rights": "PROFESSIONAL_COLLEGE_PATIENT_INFO_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Епидурална: 8 временни и 1 трайно нервно увреждане на 20 000; спинална: 10 и 1 на 20 000. Документът НЕ казва, че числата са специфични за родилки — в пациентския текст: „рядко и обикновено временно; трайното — много рядко\", без числа."
+    }
+  ],
+  "pins_en": [
+    "PIN_RCOA_OAA_EPIDURAL_INFOGRAPHIC_2025",
+    "PIN_RCOA_NERVE_DAMAGE_2024"
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

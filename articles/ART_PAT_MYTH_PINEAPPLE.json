@@ -1,0 +1,64 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_PINEAPPLE",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Ананасът причинява спонтанен аборт или сигурно започва раждането.“",
+    "en": "\"Pineapple causes miscarriage or reliably starts labour.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Ананасът не е сред храните, които NHS препоръчва да се избягват в бременност (NHS). Няма проучване върху хора, което да е установило, че обичайна хранителна порция ананас причинява спонтанен аборт — това е липса на данни за вреда, не доказателство за нулев риск. За започване на раждането: едно малко рандомизирано проучване, публикувано през 2026 г., включва 71 жени в 40–41-ва седмица — 36 са яли по 250 g пресен ананас дневно три дни, 35 са получили обичайни грижи; отчита по-бързо узряване на шийката и не намира статистически значима разлика в нежеланите изходи за майката и бебето (Shariat Moghani 2026). Проучването няма хранително плацебо, участничките на практика не могат да бъдат заслепени и то е твърде малко, за да изключи редки вреди; резултатите не може да се пренасят към ранна бременност и не правят ананаса надежден домашен метод за индукция. Обзорът на „народните“ методи от същата година не включва това проучване и не намира подходящи изследвания за ананас (Risman 2026). Не използвайте ананас, за да замените или отложите препоръчана индукция; добавките с бромелаин са концентрирани продукти и не са същото като плода.",
+      "en": "Not true. Pineapple is not among the foods the NHS advises avoiding in pregnancy (NHS). No human study has established that an ordinary dietary portion causes miscarriage; this is an absence of evidence of harm, not proof of zero risk. On starting labour: a small randomised trial published in 2026 included 71 women at 40–41 weeks — 36 ate 250 g of fresh pineapple daily for three days and 35 received routine care; it reported faster cervical ripening and found no statistically significant difference in adverse maternal or neonatal outcomes (Shariat Moghani 2026). It had no food placebo, participants could not realistically be blinded, and it was too small to exclude uncommon harms; its findings cannot be extrapolated to early pregnancy and do not establish pineapple as a reliable home-induction method. The same year's review of \"traditional\" methods does not include this trial and found no eligible studies on pineapple (Risman 2026). Do not use pineapple to replace or delay a recommended medical induction; bromelain supplements are concentrated products and are not equivalent to eating the fruit."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_FOODS_TO_AVOID_2026",
+      "citation": "NHS. Foods to avoid in pregnancy (nhs.uk/pregnancy/keeping-well/foods-to-avoid). Last reviewed 15.06.2026; next review due 15.06.2029. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Кофеин — „you should not have more than 200mg of caffeine a day\"; примери (100 mg разтворимо кафе, 75 mg чай); риба — акула, риба меч, марлин да не се ядат; тон — до 4 средни консерви или 2 стека седмично; мазна риба ≤ 2 порции; сурови миди — да се избягват; билков чай — „avoid drinking more than 4 cups of herbal tea a day, and avoid teas containing liquorice root\"; ананасът НЕ е в списъка (използвано като „не е сред храните за избягване\" в iv103). НЕ покрива: EFSA числата по напитки. | MYTH_NATURAL_ALWAYS_SAFE / MYTH_PINEAPPLE (iv103): ≤ 4 чаши билков чай, без сладник; ананасът не е в списъка."
+    },
+    {
+      "id": "PIN_SHARIAT_MOGHANI_PINEAPPLE_RCT_2026",
+      "citation": "Shariat Moghani S, Ramezani M, Hajebi Khaniki S, Mazlom R, Eslami Hasanabadi S. Pineapple consumption accelerates cervical ripening and labor onset: a randomized controlled trial. Next Research. 2026;11:101969. doi:10.1016/j.nexres.2026.101969. Препринт: Research Square, 18.09.2023, doi:10.21203/rs.3.rs-2915312/v1 (прочетен изцяло 06.10.2026). Публикуваният абстракт (ScienceDirect) не е отворен от агента (robots/403) — числата по него са по проверката на д-р Иванов.",
+      "org": "Next Research (Elsevier)",
+      "year": "2026",
+      "url": "https://www.sciencedirect.com/science/article/pii/S3050475926006652",
+      "rights": "PEER_REVIEWED_ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "ГРАНИЦА НА ПРОВЕРКАТА: препринтът (2023) — 66 рандомизирани (36/30), 60 анализирани, 40–41 г.с., 250 g ананас дневно 3 дни, без плацебо/заслепяване, Bishop score по-висок на 48/72 ч, без разлика в Apgar/мекониум/тип раждане; публикуваната версия (2026) по д-р Иванов — 71 жени (36/35), „no statistically significant difference in adverse maternal or neonatal outcomes\". Пациентският текст цитира публикуваните числа и всички ограничения. НЕ покрива: ранна бременност, спонтанен аборт, бромелаин като причина."
+    },
+    {
+      "id": "PIN_RISMAN_2026_WIVES_TALES",
+      "citation": "Risman SK, Dhanani S, Novoa J, et al. Exploring traditional labor practices: the efficacy and safety of wives' tales methods for labor induction and augmentation. J Clin Gynecol Obstet. 2026;15(3):97–113. doi:10.14740/jcgo1556. Published 30.09.2026. Прочетена 06.10.2026 през WebFetch (jcgo.elmerpub.com).",
+      "org": "J Clin Gynecol Obstet",
+      "year": "2026",
+      "url": "https://jcgo.elmerpub.com/index.php/jcgo/article/view/1556",
+      "rights": "PEER_REVIEWED_ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Scoping review, 59 включени изследвания; „Overall evidence remains limited and heterogeneous\"; „There were no eligible studies found for pineapple, raspberry leaf tea, or spicy foods\"; секс, рициново масло, стимулация на зърната — противоречиви; „should not replace evidence-based obstetrical management\". ГРАНИЦА: не включва почти едновременно публикуваното RCT за ананаса (SHARIAT_MOGHANI_PINEAPPLE_RCT_2026) — отбелязано в текста."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_FOODS_TO_AVOID_2026",
+    "PIN_SHARIAT_MOGHANI_PINEAPPLE_RCT_2026",
+    "PIN_RISMAN_2026_WIVES_TALES"
+  ],
+  "see_also": [
+    "ART_PAT_MYTH_HOME_INDUCTION"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

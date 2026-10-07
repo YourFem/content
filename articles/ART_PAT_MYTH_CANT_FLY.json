@@ -8,20 +8,43 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не е вярно. Пътуването и летенето не са забранени при неусложнена бременност. Ограниченията идват от авиокомпаниите, не от медицината: след 28-а седмица компанията може да поиска писмо от лекаря или акушерката с термина и с уточнение, че няма риск от усложнения, а към края на бременността някои изобщо не приемат пътнички. Вероятността раждането да започне се повишава след 37-а седмица — около 32-ра при близнаци. Правилата са различни при всяка компания и се проверяват предварително. При пътуване по-дълго от четири часа има малък риск от кръвни съсиреци; помагат вода и движение на всеки трийсетина минути, а компресионните чорапи намаляват отока на краката.",
-      "en": "Not true. Travelling and flying are not forbidden in an uncomplicated pregnancy. The limits come from airlines, not from medicine: after 28 weeks the airline may ask for a letter from her doctor or midwife confirming the due date and that she is not at risk of complications, and towards the end of pregnancy some will not carry her at all. The chance of labour starting rises after 37 weeks — around 32 weeks with twins. The rules differ from airline to airline and are worth checking in advance. Travel longer than four hours carries a small risk of blood clots; water and moving about every 30 minutes or so help, and compression stockings reduce swelling in the legs."
+      "bg": "Не е вярно. При неусложнена бременност случайното пътуване със самолет обичайно е безопасно за майката и за бебето (RCOG; NHS). Ограниченията към края са практически — от авиокомпаниите: след 28-ата седмица компанията може да поиска писмо от лекаря или акушерката с термина и с уточнение, че няма повишен риск от усложнения, а повечето не приемат пътнички след 37-ата седмица при едно бебе и след 32-ата при близнаци, някои и по-рано (NHS; RCOG; CDC). Определени състояния — повишен риск от преждевременно раждане, тежка анемия, значимо кървене, сериозно сърдечно или белодробно заболяване — могат да направят летенето неподходящо; това се решава с наблюдаващия лекар (RCOG). При пътуване над четири часа има малък повишен риск от кръвни съсиреци; помагат вода, движение на всеки около 30 минути и правилно подбрани компресионни чорапи (NHS; RCOG). Подробно — в „Пътуване по време на бременност“.",
+      "en": "Not true. In an uncomplicated pregnancy, occasional air travel is usually safe for you and your baby (RCOG; NHS). The limits towards the end are practical ones set by the airlines: after 28 weeks the airline may ask for a letter from your doctor or midwife confirming your due date and that you are not at increased risk of complications, and most do not allow pregnant passengers to fly after 37 weeks with one baby or after 32 weeks with twins, some earlier (NHS; RCOG; CDC). Certain conditions — an increased risk of preterm birth, severe anaemia, significant bleeding, serious heart or lung disease — can make flying inadvisable; discuss this with the clinician looking after you (RCOG). Journeys over four hours carry a small increased risk of blood clots; water, moving about every 30 minutes or so and properly fitted compression stockings help (NHS; RCOG). Details are in \"Travel during pregnancy\"."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_7",
-      "citation": "NHS · Travelling in pregnancy",
-      "org": "NHS",
-      "year": "",
+      "id": "PIN_RCOG_PI_AIR_TRAVEL_2026",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Air travel and pregnancy — patient information. Published July 2016, minor update January 2026 (PDF pi-air-travel-and-pregnancy-lp-2025_ldo.pdf + уеб страница). Доказателствена основа: RCOG Scientific Impact Paper No. 1 „Air Travel and Pregnancy\" (May 2013). Прочетени 06.10.2026 през WebFetch.",
+      "org": "RCOG",
+      "year": "2026 (SIP 1: 2013)",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/air-travel-and-pregnancy/",
+      "rights": "PUBLIC_PATIENT_INFORMATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Occasional air travel during pregnancy is not harmful for you or your baby as long as you are having an uncomplicated pregnancy\"; най-безопасно преди 37 (едно) / 32 (неусложнени близнаци); „Most airlines do not allow women to fly after 37 weeks\"; кога да не се лети: повишен риск от ПТР, тежка анемия, сърповидно-клетъчна болест с неотдавнашна криза, значимо вагинално кървене, сериозно белодробно/сърдечно заболяване; DVT при >4 ч; <4 ч — „unlikely that you will need to take any special measures\"; чорапи — „your midwife or doctor will need to provide the correct size and type… different from standard flight socks\"; разходки, упражнения на седалката на 30 мин, вода; хепарин — „on the day of the flight and daily for a few days afterwards\" при допълнителни рискови фактори; „Low-dose aspirin does not appear to reduce the risk of a DVT but you should continue to take it if it has been prescribed for another reason\"; скенери на летището — не са риск. Основен пин за полетите и тромбозата. НЕ покрива: ваксини, малария, Зика. | MYTH_CANT_FLY (iv101): кратката версия на ART_PAT_007."
+    },
+    {
+      "id": "PIN_NHS_TRAVELLING_IN_PREGNANCY_2022",
+      "citation": "NHS. Travelling in pregnancy (nhs.uk/pregnancy/keeping-well/travelling). Last reviewed 17.08.2022; next review due 17.08.2025 (просрочен към 06.10.2026). Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2022",
       "url": "https://www.nhs.uk/pregnancy/keeping-well/travelling/",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Поддържащ пациентски източник — НЕ самостоятелен пин за ваксини и динамични препоръки (Зика, малария). Покрива: „best time to travel… mid-pregnancy, between 4 and 6 months\"; „After week 28… letter from your doctor or midwife confirming your due date\"; „chance of going into labour is naturally higher after 37 weeks (around 32 weeks if… twins)\"; „Long-distance travel (longer than 4 hours) carries a small risk of blood clots (DVT)\"; „graduated compression or support stockings… reduce leg swelling\"; колан — „cross strap between your breasts and the lap strap across your pelvis under your bump\"; „Non-live (inactivated) vaccines are safe\"; „Some anti-malaria tablets aren't safe\"; Зика — не се препоръчва; „check if tap water is safe… bottled water\"; застраховка — бременност, раждане, преждевременно раждане. | MYTH_CANT_FLY (iv101): кратката версия на ART_PAT_007."
+    },
+    {
+      "id": "PIN_CDC_YELLOW_BOOK_2026_PREGNANT_TRAVELERS",
+      "citation": "Centers for Disease Control and Prevention. CDC Yellow Book 2026: Health Information for International Travel — chapter „Pregnant Travelers\" (cdc.gov/yellow-book/hcp/family-travel/pregnant-travelers), chapter updated 23 April 2025; + CDC Travelers' Health „Pregnant Travelers\" (wwwnc.cdc.gov/travel/page/pregnant-travelers). Прочетени 06.10.2026 през WebFetch.",
+      "org": "CDC",
+      "year": "2026 (обн. 23.04.2025)",
+      "url": "https://www.cdc.gov/yellow-book/hcp/family-travel/pregnant-travelers.html",
+      "rights": "PUBLIC_GOV_SOURCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Основен актуален пин за ваксини, малария, Зика и дестинационни рискове. Консултация 4–6 седмици преди път; „Most commercial airlines allow pregnant travelers to fly until 36 weeks\" (някои по-рано); DVT — хидратация, разходка (поне на час), упражнения, градуирани компресионни чорапи; живи ваксини (LAIV, MMR, Ty21a, варицела) противопоказани; жълта треска — предпазна мярка/относително противопоказание, когато рискът от пътуването е по-голям; японски енцефалит обичайно се отлага („theoretical risk\") освен при значим риск от експозиция; малария — „avoid or delay travel… no prophylactic regimen provides complete protection\", хлорохин/мефлохин предпочитани, доксициклин противопоказан; Зика — „reconsider travel\" при огнище, презервативи при партньор от рисков район; Oropouche, денга, чикунгуня — предупреждения; храна — „foods served hot… dry and packaged\"; без бисмут субсалицилат и йодни таблетки; копие от пренаталната документация, уговорена акушерска помощ в дестинацията, застраховка с медицинска евакуация; „If you traveled and feel sick, particularly if you have a fever, talk to a healthcare provider immediately, and tell them about your travel\". НЕ покрива: конкретни авиокомпании; хепарин. | MYTH_CANT_FLY (iv101): само правилата на авиокомпаниите (36 с.)."
     }
+  ],
+  "pins_en": [
+    "PIN_RCOG_PI_AIR_TRAVEL_2026",
+    "PIN_NHS_TRAVELLING_IN_PREGNANCY_2022",
+    "PIN_CDC_YELLOW_BOOK_2026_PREGNANT_TRAVELERS"
   ],
   "see_also": [
     "ART_PAT_007"
@@ -30,9 +53,12 @@
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

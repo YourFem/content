@@ -1,0 +1,56 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_HOME_INDUCTION",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Люто, гореща вана, секс, билки или чай сигурно ще започнат раждането у дома.“",
+    "en": "\"Spicy food, a hot bath, sex, herbs or tea will reliably start labour at home.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Няма доказан начин сами да започнете раждането у дома: за горещи вани, определени храни и напитки, секс и билкови добавки няма доказателства, че действат, а за билковите добавки няма и информация за безопасност — те могат да навредят на Вас или на бебето (NHS). Сексът не вреди, но се избягва след изтичане на околоплодните води заради риска от инфекция (NHS). Обзор на 59 изследвания (2026) намира ограничени и противоречиви данни за „народните“ методи и подчертава, че те не заместват медицинското проследяване; за люто, малинов лист и ананас в него не са намерени подходящи изследвания (Risman 2026). Не отлагайте препоръчана оценка или индукция. Подробно — в „Преносена и късносрочна бременност“.",
+      "en": "Not true. There are no proven ways of starting your labour yourself at home: there is no evidence that hot baths, certain foods or drinks, sex or herbal supplements work, and there is no information about the safety of herbal supplements — they could be harmful to you or your baby (NHS). Sex will not cause harm, but avoid it once your waters have broken because of the increased risk of infection (NHS). A review of 59 studies (2026) found limited and inconsistent evidence for \"traditional\" methods and stresses that they must not replace medical care; it found no eligible studies for spicy food, raspberry leaf or pineapple (Risman 2026). Do not delay a recommended assessment or induction. More in \"Post-term and late-term pregnancy\"."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_INDUCING_LABOUR_2023",
+      "citation": "NHS. Inducing labour (nhs.uk/pregnancy/labour-and-birth/inducing-labour). Last reviewed 01.11.2023; next review due 01.11.2026. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2023",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/inducing-labour/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Покрива: предлагане на индукция при преносване (41–42 с.); „There are no proven ways of starting your labour yourself at home\"; „hot baths, certain food or drinks, having sex or herbal supplements… there's no evidence that these work\"; „no information about the safety of herbal supplements and they could be harmful\"; „avoid having sex if your waters have broken as there's an increased risk of infection\". НЕ покрива: методи на индукция в детайл, рискове. | MYTH_HOME_INDUCTION / MYTH_SEX_CAUSES_LOSS (iv103): няма доказан домашен метод; без секс след изтекли води."
+    },
+    {
+      "id": "PIN_RISMAN_2026_WIVES_TALES",
+      "citation": "Risman SK, Dhanani S, Novoa J, et al. Exploring traditional labor practices: the efficacy and safety of wives' tales methods for labor induction and augmentation. J Clin Gynecol Obstet. 2026;15(3):97–113. doi:10.14740/jcgo1556. Published 30.09.2026. Прочетена 06.10.2026 през WebFetch (jcgo.elmerpub.com).",
+      "org": "J Clin Gynecol Obstet",
+      "year": "2026",
+      "url": "https://jcgo.elmerpub.com/index.php/jcgo/article/view/1556",
+      "rights": "PEER_REVIEWED_ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Scoping review, 59 включени изследвания; „Overall evidence remains limited and heterogeneous\"; „There were no eligible studies found for pineapple, raspberry leaf tea, or spicy foods\"; секс, рициново масло, стимулация на зърната — противоречиви; „should not replace evidence-based obstetrical management\". ГРАНИЦА: не включва почти едновременно публикуваното RCT за ананаса (SHARIAT_MOGHANI_PINEAPPLE_RCT_2026) — отбелязано в текста."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_INDUCING_LABOUR_2023",
+    "PIN_RISMAN_2026_WIVES_TALES"
+  ],
+  "see_also": [
+    "ART_POSTTERM",
+    "ART_PAT_MYTH_PINEAPPLE",
+    "ART_PAT_MYTH_DUE_DATE_WRONG"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

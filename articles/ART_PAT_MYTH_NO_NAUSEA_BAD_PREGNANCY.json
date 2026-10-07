@@ -1,0 +1,65 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_NO_NAUSEA_BAD_PREGNANCY",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Ако нямам гадене — или ако то намалее — бременността не се развива.“",
+    "en": "\"If I do not feel sick — or if nausea fades — the pregnancy is not developing.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Всяка бременност е различна и не всички жени имат всички симптоми (NHS). Един симптом — или промяна в симптомите — сам по себе си не може да потвърди или да изключи проблем; оценката включва преглед, ехография и при нужда проследяване на хормона на бременността (RCOG). При кървене или ако сте обезпокоена — потърсете медицински съвет. Спешна помощ е нужна при обилно кървене, силна или едностранна болка в корема, болка към върха на рамото, силно замайване или припадък (RCOG).",
+      "en": "Not true. Every pregnancy is different, and not everyone has all the symptoms (NHS). A symptom — or a change in symptoms — cannot by itself confirm or exclude a problem; assessment may include clinical review, ultrasound and, when indicated, serial pregnancy-hormone measurements (RCOG). Seek medical advice if you have bleeding or are worried. Seek emergency help for heavy bleeding, severe or one-sided abdominal pain, shoulder-tip pain, marked dizziness or fainting (RCOG)."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_PREGNANCY_SIGNS_2026",
+      "citation": "NHS. Signs and symptoms that might mean you're pregnant (nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant). Last reviewed 31.07.2026; next review due 31.07.2029. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-that-might-mean-youre-pregnant/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Every pregnancy is different, so you may not have all these symptoms\"; „Not everyone has all of these symptoms\"; гаденето — по всяко време на деня/нощта. НЕ покрива: жизнеспособност/диагностика."
+    },
+    {
+      "id": "PIN_RCOG_PI_EARLY_BLEEDING_PAIN_2025",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Bleeding and/or pain in early pregnancy — patient information. Last reviewed 15.08.2025; next review 15.08.2028. Прочетена 06.10.2026 през WebFetch.",
+      "org": "RCOG",
+      "year": "2025",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/",
+      "rights": "PUBLIC_PATIENT_INFORMATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Bleeding and/or pain is common in early pregnancy and does not always mean that there is a problem\"; спешно — „heavy bleeding\", „severe pain in your abdomen\", „pain in your shoulders\", „dizziness\", „fainting\"; оценка — преглед, ехография, при нужда серийни β-hCG; извънматочна ~1 на 90. НЕ покрива: че липсата на кървене изключва проблем (обратното — RCOG_PI_ECTOPIC_2025)."
+    },
+    {
+      "id": "PIN_RCOG_PI_ECTOPIC_2025",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Ectopic pregnancy — patient information. Published November 2017; last reviewed May 2025. Прочетена 06.10.2026 през WebFetch.",
+      "org": "RCOG",
+      "year": "2025",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/ectopic-pregnancy/",
+      "rights": "PUBLIC_PATIENT_INFORMATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Each woman is affected differently… Some women have no symptoms, some have a few symptoms, while others have many symptoms\"; едностранна болка; болка в рамото (кръв в корема — влошаване); кървене, различно от менструация; при руптура — „intense abdominal pain or you may collapse\"; незабавна помощ. НЕ покрива: лечение."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_PREGNANCY_SIGNS_2026",
+    "PIN_RCOG_PI_EARLY_BLEEDING_PAIN_2025",
+    "PIN_RCOG_PI_ECTOPIC_2025"
+  ],
+  "see_also": [
+    "ART_PAT_MYTH_MORNING_ONLY",
+    "ART_PAT_MYTH_BLEEDING_BINARY"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

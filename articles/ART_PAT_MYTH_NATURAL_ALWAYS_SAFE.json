@@ -1,0 +1,64 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_NATURAL_ALWAYS_SAFE",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Щом е билка, чай или етерично масло, значи е безопасно през бременността.“",
+    "en": "\"If it is a herb, tea or essential oil, it must be safe in pregnancy.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Не всички „натурални“ средства и допълващи терапии са безопасни в бременност (NHS). Предупреждението се отнася за билковите лекарства и концентрираните продукти — капсули, тинктури, екстракти, добавки: те не се изпитват по начина, по който се изпитват стандартните лекарства, и могат да взаимодействат с лекарства — например за кръвно налягане, диабет, антидепресанти, антикоагуланти — като причинят вреда или спрат действието им; NHS съветва бременните и кърмещите да не приемат билкови лекарства (NHS). Кулинарните подправки и чаят като напитка са друго: NHS съветва не повече от 4 чаши билков чай дневно и избягване на чай със сладник (liquorice root) (NHS). За етеричните масла няма общ източник в този текст — питайте лекар, акушерка или фармацевт за конкретния продукт и им кажете какво вече приемате (NHS). *Граница:* конкретни ефекти на отделни билки (върху матката, кръвното, съсирването) не се твърдят тук — за всяка билка е нужен отделен източник.",
+      "en": "Not true. Not all \"natural\" remedies or complementary therapies are safe in pregnancy (NHS). The warning concerns herbal medicines and concentrated products — capsules, tinctures, extracts, supplements: they are not tested in the same way as standard medicines, and they can interact with medicines — for example for blood pressure or diabetes, antidepressants or blood thinners — causing harm or stopping your medicine from working; the NHS advises that you should not take herbal medicines if you are pregnant or breastfeeding (NHS). Culinary herbs and tea as a drink are a different matter: the NHS advises no more than 4 cups of herbal tea a day and avoiding teas containing liquorice root (NHS). There is no general source for essential oils in this text — ask a doctor, midwife or pharmacist about the specific product and tell them what you already take (NHS). *Limit:* no claims are made here about the effects of individual herbs (on the uterus, blood pressure or clotting) — each would need its own source."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_MEDICINES_PREGNANCY_2022",
+      "citation": "NHS. Medicines in pregnancy (nhs.uk/pregnancy/keeping-well/medicines). Last reviewed 05.09.2022; next review due 05.09.2025 (просрочен към 06.10.2026 — отбелязано). Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2022",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/medicines/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Stopping taking your medicine could be harmful to both you and your baby\"; „Not all 'natural' remedies or complementary therapies are safe in pregnancy\"; „Before taking any medicine when you're pregnant, including painkillers, check with your pharmacist, midwife or GP\"; препраща към BUMPS (UKTIS). НЕ покрива: безопасност на конкретно лекарство."
+    },
+    {
+      "id": "PIN_NHS_HERBAL_MEDICINES_2026",
+      "citation": "NHS. Herbal medicines and complementary therapies (nhs.uk/tests-and-treatments/herbal-medicines-and-complementary-therapies). Last reviewed 01.05.2026; next review 01.05.2029. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2026",
+      "url": "https://www.nhs.uk/tests-and-treatments/herbal-medicines-and-complementary-therapies/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„You should not take herbal medicines if: you're pregnant or breastfeeding\"; не се изпитват като стандартните лекарства; взаимодействия (статини, антидепресанти, лекарства за диабет, за кръвно, антикоагуланти, хормонална контрацепция) — „may cause harmful effects or stop your medicine working\"; проверка с фармацевт; THR знак. НЕ покрива: кулинарни подправки, чай като напитка (NHS_FOODS_TO_AVOID_2026), етерични масла."
+    },
+    {
+      "id": "PIN_NHS_FOODS_TO_AVOID_2026",
+      "citation": "NHS. Foods to avoid in pregnancy (nhs.uk/pregnancy/keeping-well/foods-to-avoid). Last reviewed 15.06.2026; next review due 15.06.2029. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Кофеин — „you should not have more than 200mg of caffeine a day\"; примери (100 mg разтворимо кафе, 75 mg чай); риба — акула, риба меч, марлин да не се ядат; тон — до 4 средни консерви или 2 стека седмично; мазна риба ≤ 2 порции; сурови миди — да се избягват; билков чай — „avoid drinking more than 4 cups of herbal tea a day, and avoid teas containing liquorice root\"; ананасът НЕ е в списъка (използвано като „не е сред храните за избягване\" в iv103). НЕ покрива: EFSA числата по напитки. | MYTH_NATURAL_ALWAYS_SAFE / MYTH_PINEAPPLE (iv103): ≤ 4 чаши билков чай, без сладник; ананасът не е в списъка."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_MEDICINES_PREGNANCY_2022",
+    "PIN_NHS_HERBAL_MEDICINES_2026",
+    "PIN_NHS_FOODS_TO_AVOID_2026"
+  ],
+  "see_also": [
+    "ART_PAT_MYTH_NO_MEDICINES_ALLOWED"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

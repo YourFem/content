@@ -8,20 +8,33 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не е вярно. Рибата е полезна и се препоръчват две порции седмично, едната мазна. Ограничението е върху определени видове: дълго живеещите хищни риби натрупват живак и други замърсители в тялото си, затова акула, риба меч и марлин не се ядат изобщо. Тонът се ограничава до 4 средни консерви или 2 стека седмично. Мазната риба — сьомга, пъстърва, скумрия, сардини, херинга — не повече от две порции седмично.",
-      "en": "Not true. Fish is good for her, and two portions a week are recommended, one of them oily. The limit applies to particular species: long-lived predatory fish accumulate mercury and other pollutants in their bodies, so shark, swordfish and marlin are avoided altogether. Tuna is limited to 4 medium cans or 2 tuna steaks a week. Oily fish — salmon, trout, mackerel, sardines, herring — no more than two portions a week."
+      "bg": "Не е вярно. Рибата е полезна и се препоръчват две порции седмично, едната мазна — сьомга, сардини, скумрия (NHS). Ограничението е върху определени видове: дълго живеещите хищни риби натрупват живак и други замърсители, затова акула, риба меч и марлин не се ядат изобщо; тонът се ограничава до 4 средни консерви или до 2 стека седмично — не и двата максимума заедно; мазната риба — не повече от две порции седмично; суровите миди и ракообразни се избягват (NHS).",
+      "en": "Not true. Fish is good for you, and two portions a week are recommended, one of them oily — salmon, sardines, mackerel (NHS). The limit applies to particular species: long-lived predatory fish accumulate mercury and other pollutants, so shark, swordfish and marlin are avoided altogether; tuna is limited to 4 medium cans or 2 tuna steaks a week — not both maximums together; oily fish — no more than two portions a week; raw shellfish is avoided (NHS)."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_2",
-      "citation": "NHS · Foods to avoid in pregnancy · Have a healthy diet in pregnancy",
-      "org": "NHS",
-      "year": "",
+      "id": "PIN_NHS_FOODS_TO_AVOID_2026",
+      "citation": "NHS. Foods to avoid in pregnancy (nhs.uk/pregnancy/keeping-well/foods-to-avoid). Last reviewed 15.06.2026; next review due 15.06.2029. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2026",
       "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Кофеин — „you should not have more than 200mg of caffeine a day\"; примери (100 mg разтворимо кафе, 75 mg чай); риба — акула, риба меч, марлин да не се ядат; тон — до 4 средни консерви или 2 стека седмично; мазна риба ≤ 2 порции; сурови миди — да се избягват; билков чай — „avoid drinking more than 4 cups of herbal tea a day, and avoid teas containing liquorice root\"; ананасът НЕ е в списъка (използвано като „не е сред храните за избягване\" в iv103). НЕ покрива: EFSA числата по напитки."
+    },
+    {
+      "id": "PIN_NHS_HEALTHY_DIET_2023",
+      "citation": "NHS. Have a healthy diet in pregnancy (nhs.uk/pregnancy/keeping-well/have-a-healthy-diet). Last reviewed 21.04.2023; next review due 21.04.2026 (просрочен — поддържащ). Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2023",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„you do not need to 'eat for 2' – even if you are expecting twins or triplets\"; риба — „2 portions of fish each week, 1 of which should be oily fish\"; „avoid having more than 2 portions of oily fish a week\". НЕ покрива: калории, добавки."
     }
+  ],
+  "pins_en": [
+    "PIN_NHS_FOODS_TO_AVOID_2026",
+    "PIN_NHS_HEALTHY_DIET_2023"
   ],
   "see_also": [
     "ART_PAT_002"
@@ -30,9 +43,12 @@
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

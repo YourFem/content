@@ -1,0 +1,42 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_SLEEP_LEFT_ONLY",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„След 28-ата седмица трябва да спя само на лявата страна; ако се събудя по гръб, съм навредила на бебето.“",
+    "en": "\"After 28 weeks I must sleep only on my left, and waking on my back means I harmed the baby.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Най-безопасно е да заспивате настрани — на лявата или на дясната страна (NHS). След 28-ата седмица NHS препоръчва да заспивате настрани (NHS). Ако се събудите по гръб, не се тревожете — просто се обърнете настрани и заспете отново (NHS). Възглавници под корема и между коленете могат да помогнат (NHS).",
+      "en": "Not true. The safest position to go to sleep is on your side — either left or right (NHS). After 28 weeks the NHS recommends going to sleep on your side (NHS). Do not worry if you wake up on your back — just turn over and go back to sleep on your side (NHS). Pillows supporting your bump and between your knees may help (NHS)."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_TIREDNESS_SLEEP_2024",
+      "citation": "NHS. Tiredness and sleep problems in pregnancy (nhs.uk/pregnancy/common-symptoms/tiredness). Last reviewed 11.03.2024; next review due 11.03.2027. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2024",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/tiredness/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„The safest position to go to sleep is on your side, either left or right\"; след 28 с. — препоръка за заспиване настрани; „Do not worry if you wake up on your back, you can turn over and go to sleep again on your side\"; възглавници под корема и между коленете. Страницата съдържа и „falling asleep on your back can double the risk of stillbirth\" — по решение на д-р Иванов (06.10.2026) НЕ се цитира в пациентския текст (стресиращо, действа обратно)."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_TIREDNESS_SLEEP_2024"
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

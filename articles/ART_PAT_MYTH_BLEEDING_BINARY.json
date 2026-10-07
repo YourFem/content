@@ -1,0 +1,54 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_BLEEDING_BINARY",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Всяко кървене означава спонтанен аборт — а ако няма кървене, няма опасност.“",
+    "en": "\"Any bleeding means miscarriage — and no bleeding means there is no danger.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Кървенето и/или болката в ранна бременност са чести и не винаги означават проблем, но трябва да бъдат обсъдени с медицински специалист (RCOG). Липсата на кървене не изключва проблем: при извънматочна бременност някои жени нямат симптоми, други имат малко, а при разкъсване първата проява може да е силна болка или колапс (RCOG). Потърсете спешна помощ при обилно кървене, силна болка в корема, болка в рамото, замайване или припадък (RCOG). Къде: най-близкото спешно отделение или болница с АГ структура; при спешност — 112.",
+      "en": "Not true. Bleeding and/or pain in early pregnancy is common and does not always mean there is a problem, but it should be discussed with a healthcare professional (RCOG). The absence of bleeding does not exclude a problem: with an ectopic pregnancy, some women have no symptoms, some have a few, and if the tube ruptures the first sign may be intense pain or collapse (RCOG). Seek emergency help for heavy bleeding, severe abdominal pain, pain in your shoulder, dizziness or fainting (RCOG). Where: the nearest emergency department or hospital with a maternity unit; in an emergency, call the local emergency number."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_RCOG_PI_EARLY_BLEEDING_PAIN_2025",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Bleeding and/or pain in early pregnancy — patient information. Last reviewed 15.08.2025; next review 15.08.2028. Прочетена 06.10.2026 през WebFetch.",
+      "org": "RCOG",
+      "year": "2025",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/",
+      "rights": "PUBLIC_PATIENT_INFORMATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Bleeding and/or pain is common in early pregnancy and does not always mean that there is a problem\"; спешно — „heavy bleeding\", „severe pain in your abdomen\", „pain in your shoulders\", „dizziness\", „fainting\"; оценка — преглед, ехография, при нужда серийни β-hCG; извънматочна ~1 на 90. НЕ покрива: че липсата на кървене изключва проблем (обратното — RCOG_PI_ECTOPIC_2025)."
+    },
+    {
+      "id": "PIN_RCOG_PI_ECTOPIC_2025",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Ectopic pregnancy — patient information. Published November 2017; last reviewed May 2025. Прочетена 06.10.2026 през WebFetch.",
+      "org": "RCOG",
+      "year": "2025",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/ectopic-pregnancy/",
+      "rights": "PUBLIC_PATIENT_INFORMATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Each woman is affected differently… Some women have no symptoms, some have a few symptoms, while others have many symptoms\"; едностранна болка; болка в рамото (кръв в корема — влошаване); кървене, различно от менструация; при руптура — „intense abdominal pain or you may collapse\"; незабавна помощ. НЕ покрива: лечение."
+    }
+  ],
+  "pins_en": [
+    "PIN_RCOG_PI_EARLY_BLEEDING_PAIN_2025",
+    "PIN_RCOG_PI_ECTOPIC_2025"
+  ],
+  "see_also": [
+    "ART_PAT_MYTH_NO_NAUSEA_BAD_PREGNANCY"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

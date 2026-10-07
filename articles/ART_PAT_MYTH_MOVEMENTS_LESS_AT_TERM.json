@@ -1,0 +1,44 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_MOVEMENTS_LESS_AT_TERM",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Към края на бременността бебето нормално се движи по-малко, защото няма място.“",
+    "en": "\"Babies normally move less near the end because they run out of room.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Броят на движенията обикновено нараства до 32-ата седмица и след това остава приблизително същият; видът на движенията може да се промени с наближаването на термина, но те не трябва просто да намалеят или да спрат (RCOG). Бебето продължава да се движи до самото раждане и по време на раждането (RCOG). Ако движенията са по-малко, по-слаби или различни от обичайния модел на Вашето бебе, потърсете помощ веднага — не чакайте до следващия ден и не си лягайте, като пренебрегвате промяната; не разчитайте на домашни уреди за слушане на сърдечната дейност (RCOG). Къде: най-близкото спешно отделение или болница с АГ структура; при спешност — 112. Подробно — в „Намалени движения на плода“.",
+      "en": "Not true. The number of movements tends to increase until 32 weeks and then stays about the same; the type of movement may change as you get nearer to your due date, but movements should not simply reduce or stop (RCOG). Your baby should keep moving right up to the time you go into labour, and during labour too (RCOG). If movements are fewer, weaker or different from your baby's usual pattern, seek help immediately — do not wait until the next day and never go to sleep ignoring a change; do not rely on any home kit for listening to the heartbeat (RCOG). Where: the nearest emergency department or hospital with a maternity unit; in an emergency, call the local emergency number. More in \"Feeling your baby move: what to know about reduced movements\"."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_RCOG_PI_MOVEMENTS_2019",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Your baby's movements in pregnancy — patient information leaflet, February 2019. Прочетено 21.09.2026 през WebFetch (rcog.org.uk PDF).",
+      "org": "RCOG",
+      "year": "2019",
+      "url": "https://www.rcog.org.uk/media/2mwncs1v/pi-your-babys-movements-in-pregnancy.pdf",
+      "rights": "PUBLIC_PATIENT_LEAFLET_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Always seek professional help immediately\"; „Never go to sleep ignoring a reduction or change\"; „Do not rely on any home kits you may have for listening to your baby's heartbeat\"; „no matter how many times this happens\"; не се препоръчва рутинна карта за движения; >28 г.с. — CTG ≥20 мин, ехография до 24 ч при показание; повечето с един епизод — здраво бебе. | MYTH_MOVEMENTS_LESS_AT_TERM (iv103): „increase until 32 weeks and then stay about the same\"; „continue to feel your baby move right up to… labour\"; „must not wait until the next day\"; без домашни доплери."
+    }
+  ],
+  "pins_en": [
+    "PIN_RCOG_PI_MOVEMENTS_2019"
+  ],
+  "see_also": [
+    "ART_REDUCED_FETAL_MOVEMENTS"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

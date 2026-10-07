@@ -1,0 +1,62 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_CALCIUM_FROM_TEETH",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Бебето „изсмуква калция“ от зъбите и всяка бременност струва по един зъб.“",
+    "en": "\"The baby drains calcium from the mother's teeth, so every pregnancy costs a tooth.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Калций се мобилизира от костите на майката за развитието на бебето, но минералите не се вземат от зъбите по време на бременност и кърмене; поговорката „по един зъб за всяко бебе“ няма научна подкрепа (CDC). Бременността не отслабва зъбите чрез „изтегляне“ на калций (NC DPH). Реални са други неща: хормоналните промени засилват реакцията на венците към бактерии (гингивит), а стомашната киселина при повръщане може да увреди емайла — не мийте зъбите веднага след повръщане, а изплакнете устата с вода или вода със сода бикарбонат (ADA; NC DPH). Редовната хигиена и стоматологичният преглед имат значение (ADA).",
+      "en": "Not true. Calcium is mobilised from your bones to support your baby's development, but minerals are not taken from your teeth during pregnancy or breastfeeding; the saying \"a tooth for every baby\" is unsupported by science (CDC). Pregnancy does not weaken teeth by taking calcium from them (NC DPH). What is real: hormonal changes exaggerate the gums' response to bacteria (gingivitis), and stomach acid from vomiting can damage enamel — do not brush immediately after vomiting; rinse with water or water with baking soda instead (ADA; NC DPH). Routine oral hygiene and dental review matter (ADA)."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_CDC_PROTECT_TINY_TEETH_2019",
+      "citation": "Centers for Disease Control and Prevention. Protect Tiny Teeth Toolkit: an oral health communications resource for providers of pregnant women and new mothers (stacks.cdc.gov/view/cdc/150314), 2019. PDF прочетен 06.10.2026.",
+      "org": "CDC",
+      "year": "2019",
+      "url": "https://stacks.cdc.gov/view/cdc/150314/cdc_150314_DS1.pdf",
+      "rights": "PUBLIC_GOV_SOURCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„While calcium is lost from maternal bones to support fetal development, minerals, such as calcium, are not taken from teeth during pregnancy and lactation\"; „The old wives' tale that you lose a tooth for every baby is unsupported by science\". НЕ покрива: гингивит/ерозия (ADA)."
+    },
+    {
+      "id": "PIN_NCDPH_DENTAL_FAQ",
+      "citation": "North Carolina Division of Public Health, Oral Health Section. Tooth Talk — frequently asked questions (dph.ncdhhs.gov/programs/oral-health/toothtalk/frequently-asked-questions-childrens-dental-health). Без дата. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NC DPH (US)",
+      "year": "н.д.",
+      "url": "https://www.dph.ncdhhs.gov/programs/oral-health/toothtalk/frequently-asked-questions-childrens-dental-health",
+      "rights": "PUBLIC_GOV_SOURCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Поддържащ: „Being pregnant does not weaken teeth by taking the calcium from them\"; „The stomach acid from vomiting can damage the tooth enamel\" — изплакване, без миене веднага. НЕ самостоятелна опора."
+    },
+    {
+      "id": "PIN_ADA_PREGNANCY_ORAL_HEALTH_2025",
+      "citation": "American Dental Association. Pregnancy — Oral Health Topics (ada.org/resources/ada-library/oral-health-topics/pregnancy). Last updated 14.07.2025; препоръките за рентгенографии са по ADA/AAOMR 2024 (JADA). Прочетена 06.10.2026 през WebFetch.",
+      "org": "ADA",
+      "year": "2025 (рентгенографии: ADA/AAOMR 2024)",
+      "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy",
+      "rights": "PROFESSIONAL_ASSOCIATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Preventive, diagnostic and restorative dental treatment is safe throughout pregnancy\"; местни анестетици с епинефрин могат да се ползват; „Radiographs are considered safe for the pregnant patient, at any stage during pregnancy; shielding (abdominal or thyroid) is no longer recommended\" (разминаване с практиката, отбелязано в текста); отлагането на спешно лечение (екстракция, канал, пломба) може да усложни; гингивит от хормонални промени; ерозия от повръщане — изплакване със сода, без миене веднага. НЕ покрива: мита за калция (CDC_PROTECT_TINY_TEETH_2019)."
+    }
+  ],
+  "pins_en": [
+    "PIN_CDC_PROTECT_TINY_TEETH_2019",
+    "PIN_NCDPH_DENTAL_FAQ",
+    "PIN_ADA_PREGNANCY_ORAL_HEALTH_2025"
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

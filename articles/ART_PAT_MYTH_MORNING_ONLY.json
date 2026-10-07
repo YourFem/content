@@ -1,0 +1,44 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_MORNING_ONLY",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„„Сутрешното“ гадене се появява само сутрин.“",
+    "en": "\"\"Morning\" sickness happens only in the morning.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Гаденето и повръщането в бременност могат да се появят по всяко време на деня или нощта, а някои жени се чувстват зле по цял ден (NHS). Потърсете медицинска помощ, ако: урината е много тъмна или не сте уринирали повече от 8 часа; не задържате храна или течности 24 часа; чувствате се много слаба, замаяна или Ви прилошава при изправяне; имате болка в корема; имате висока температура; повръщате кръв; отслабвате — това може да е тежка форма (hyperemesis gravidarum), която изисква лечение (NHS).",
+      "en": "Not true. Nausea and vomiting in pregnancy can affect you at any time of the day or night, and some women feel sick all day long (NHS). Seek medical help if: your urine is very dark or you have not passed urine for more than 8 hours; you cannot keep food or fluids down for 24 hours; you feel very weak, dizzy or faint when standing up; you have abdominal pain; you have a high temperature; you vomit blood; you are losing weight — this may be a severe form (hyperemesis gravidarum) that needs treatment (NHS)."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_MORNING_SICKNESS_2024",
+      "citation": "NHS. Vomiting and morning sickness (nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness). Last reviewed 17.04.2024; next review due 17.04.2027. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2024",
+      "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„can affect you at any time of the day or night or you may feel sick all day long\"; кога да се потърси помощ: много тъмна урина/без уриниране > 8 ч; без храна/течности 24 ч; слабост, замайване, прилошаване при изправяне; болка в корема; висока температура; кръв в повърнатото; загуба на тегло — възможен hyperemesis gravidarum. НЕ покрива: лечение."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_MORNING_SICKNESS_2024"
+  ],
+  "see_also": [
+    "ART_PAT_MYTH_NO_NAUSEA_BAD_PREGNANCY"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

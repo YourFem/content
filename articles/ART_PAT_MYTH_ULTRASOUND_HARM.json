@@ -1,0 +1,62 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_ULTRASOUND_HARM",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Ехографията е „радиация“, а вагиналният ултразвук може да причини аборт.“",
+    "en": "\"Ultrasound is radiation, and a transvaginal scan can cause miscarriage.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Ултразвукът използва звукови вълни, за да изгради картина на бебето; не са известни рискове за бебето или майката от ехографски преглед (NHS). Нито трансвагиналният, нито трансабдоминалният преглед повишава риска от спонтанен аборт (RCOG). Прегледите обаче се правят с медицинска цел: ISUOG не одобрява сканиране единствено с немедицинска, „сувенирна“ цел, защото без квалифициран оператор и клиничен контекст са възможни погрешна диагноза или фалшиво успокоение (ISUOG 2021). *Граница:* източниците казват „няма известни рискове при медицинска употреба“, не „абсолютно безвреден“.",
+      "en": "Not true. Ultrasound uses sound waves to build a picture of your baby; there are no known risks to you or your baby from having an ultrasound scan (NHS). Neither a transvaginal nor an abdominal scan increases your risk of miscarriage (RCOG). Scans should still have a medical purpose: ISUOG does not endorse scans undertaken solely for non-medical, \"keepsake\" purposes, because without a trained operator and a clinical context there is a risk of incorrect diagnosis or false reassurance (ISUOG 2021). *Limit:* the sources say \"no known risks with medical use\", not \"absolutely harmless\"."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_ULTRASOUND_SCANS_2023",
+      "citation": "NHS. Ultrasound scans in pregnancy (nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans). Last reviewed 13.11.2023; next review due 13.11.2026. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2023",
+      "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/ultrasound-scans/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Ultrasound scans use sound waves to build a picture of the baby in the womb\"; „There are no known risks to the baby or the mother from having an ultrasound scan\"; полът — при 20-седмичната ехография по политика на болницата, „it's not possible for the sonographer to be 100% certain\" (в текста по решение на д-р Иванов не се пише „100 %\"). НЕ покрива: трансвагинален преглед (RCOG_PI_EARLY_MISCARRIAGE_2025)."
+    },
+    {
+      "id": "PIN_RCOG_PI_EARLY_MISCARRIAGE_2025",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Early miscarriage — patient information. Published September 2016; last reviewed May 2025. Прочетена 06.10.2026 през WebFetch.",
+      "org": "RCOG",
+      "year": "2025",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/early-miscarriage",
+      "rights": "PUBLIC_PATIENT_INFORMATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Neither scan [трансвагинален/трансабдоминален] increases your risk of having a miscarriage\"; „Sex during pregnancy is not associated with early miscarriage\"; „There is no evidence that stress can cause a miscarriage\". НЕ покрива: лечение на спонтанен аборт."
+    },
+    {
+      "id": "PIN_ISUOG_SAFETY_NONDIAGNOSTIC_2021",
+      "citation": "ISUOG Bioeffects and Safety Committee (Salvesen K, Abramowicz J, Ter Haar G, Miloro P, Sinkovskaya E, Dall'Asta A, Maršal K, Lees C). ISUOG statement on the non-diagnostic use of ultrasound in pregnancy. Ultrasound Obstet Gynecol. 2021. doi:10.1002/uog.23611. PDF прочетен 06.10.2026.",
+      "org": "ISUOG",
+      "year": "2021",
+      "url": "https://isuog.org/static/b002d5bd-dbfa-4905-a810c523adb60113/ISUOG-Safety-Statement-on-non-diagnostic-ultrasound.pdf",
+      "rights": "PROFESSIONAL_SOCIETY_STATEMENT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„ISUOG does not endorse ultrasound scans undertaken solely for non-diagnostic purposes\"; риск от погрешна диагноза и фалшиво успокоение без обучен оператор. НЕ покрива: ALARA/термични индекси (не са в прочетения текст); „няма риск\"."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_ULTRASOUND_SCANS_2023",
+    "PIN_RCOG_PI_EARLY_MISCARRIAGE_2025",
+    "PIN_ISUOG_SAFETY_NONDIAGNOSTIC_2021"
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

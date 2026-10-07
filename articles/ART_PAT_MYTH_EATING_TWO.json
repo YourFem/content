@@ -8,31 +8,38 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не е вярно. Апетитът често расте — това е нормално — но не е нужно да се яде за двама. NHS го казва пряко, включително при близнаци.",
-      "en": "Not true. Appetite often increases — that is normal — but there is no need to eat for two. The NHS says so directly, including for twins."
+      "bg": "Не е вярно. Апетитът често расте — това е нормално — но не е нужно да се яде за двама; NHS го казва пряко, включително при близнаци и тризнаци (NHS).",
+      "en": "Not true. Your appetite often increases — that is normal — but you do not need to eat for two; the NHS says so directly, including if you are expecting twins or triplets (NHS)."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_1",
-      "citation": "NHS · Have a healthy diet in pregnancy",
-      "org": "NHS",
-      "year": "",
+      "id": "PIN_NHS_HEALTHY_DIET_2023",
+      "citation": "NHS. Have a healthy diet in pregnancy (nhs.uk/pregnancy/keeping-well/have-a-healthy-diet). Last reviewed 21.04.2023; next review due 21.04.2026 (просрочен — поддържащ). Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2023",
       "url": "https://www.nhs.uk/pregnancy/keeping-well/have-a-healthy-diet/",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„you do not need to 'eat for 2' – even if you are expecting twins or triplets\"; риба — „2 portions of fish each week, 1 of which should be oily fish\"; „avoid having more than 2 portions of oily fish a week\". НЕ покрива: калории, добавки."
     }
   ],
+  "pins_en": [
+    "PIN_NHS_HEALTHY_DIET_2023"
+  ],
   "see_also": [
-    "ART_PAT_002"
+    "ART_PAT_002",
+    "ART_GESTATIONAL_WEIGHT_GAIN"
   ],
   "source_check": [],
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

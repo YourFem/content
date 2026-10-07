@@ -1,0 +1,64 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_QUIT_SMOKING_SUDDENLY",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Рязкото спиране на цигарите може да е вредно.“",
+    "en": "\"Stopping smoking suddenly can be harmful.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Спирането на цигарите не натоварва бебето с допълнителен стрес — то е едно от най-добрите неща, които може да се направят за здравето на майката и на бебето през бременността (Smokefree.gov, NCI). Пушенето в бременност е свързано с извънматочна бременност, спонтанен аборт, преждевременно пукване на околоплодния мехур, отлепване на плацентата и предлежаща плацента, преждевременно раждане, ниско тегло при раждане и малък за срока плод, мъртвораждане, цепка на устната и синдром на внезапна детска смърт (СЗО 2013). Колкото по-рано се спре, толкова по-добре, но полза има дори при спиране в последните седмици на бременността (NHS). Целта е пълно спиране, не само намаляване (NHS). Ако не се получава без помощ, никотинозаместителна терапия може да се използва в бременност, а електронната цигара, ако помага за спирането, е много по-безопасна от продължаването на пушенето (NHS). Пасивното пушене също намалява теглото на бебето при раждане и повишава риска от синдром на внезапна детска смърт (NHS). Помощ за спиране трябва да бъде предложена на всяка бременна, която пуши или наскоро е спряла — поискайте я от наблюдаващия екип (СЗО 2013).",
+      "en": "Not true. Stopping smoking does not put extra stress on your baby — it is one of the best things you can do for your health and your baby's health during pregnancy (Smokefree.gov, NCI). Smoking in pregnancy is associated with ectopic pregnancy, miscarriage, premature rupture of the membranes, placental abruption and placenta praevia, preterm birth, low birthweight and a small-for-gestational-age baby, stillbirth, cleft lip and sudden infant death syndrome (WHO 2013). The sooner you stop, the better, but there is a benefit even if you stop in the last few weeks of pregnancy (NHS). The aim is to stop completely, not only to cut down (NHS). If you cannot manage without help, nicotine replacement therapy can be used in pregnancy, and an e-cigarette, if it helps you stop, is much safer than continuing to smoke (NHS). Second-hand smoke also reduces the baby's birthweight and increases the risk of sudden infant death syndrome (NHS). Support to stop should be offered to every pregnant woman who smokes or has recently stopped — ask your maternity team for it (WHO 2013)."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_STOP_SMOKING_PREGNANCY_2023",
+      "citation": "NHS. Stop smoking in pregnancy (nhs.uk/pregnancy/keeping-well/stop-smoking). Next review due 10.01.2026 (последен преглед 10.01.2023; просрочен — поддържащ към WHO_TOBACCO). Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2023",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/stop-smoking/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„The sooner you stop smoking, the better. But even if you stop in the last few weeks of your pregnancy this will benefit you and your baby\"; пълно спиране, не намаляване; НЗТ може да се ползва в бременност; „E-cigarettes are much less risky than smoking\"; пасивно пушене — по-ниско тегло при раждане и по-висок риск от SIDS; безплатна помощ. НЕ покрива: списъка на неблагоприятните изходи (WHO_TOBACCO)."
+    },
+    {
+      "id": "PIN_SMOKEFREE_GOV_MYTHS_2023",
+      "citation": "National Cancer Institute, Smokefree.gov. Myths about smoking during pregnancy (smokefree.gov/quit-smoking/quitting-while-pregnant/myths-about-smoking-pregnancy). Без дата на страницата. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NCI (US)",
+      "year": "н.д.",
+      "url": "https://smokefree.gov/quit-smoking/quitting-while-pregnant/myths-about-smoking-pregnancy",
+      "rights": "PUBLIC_GOV_SOURCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Само мита „Quitting smoking will be too stressful on my baby\" → „Quitting smoking doesn't put extra stress on your baby. It's one of the best things that you can do for your health and your baby's health during pregnancy\". НЕ покрива: НЗТ, е-цигари, изходи."
+    },
+    {
+      "id": "PIN_WHO_TOBACCO",
+      "citation": "WHO. Recommendations for the prevention and management of tobacco use and second-hand smoke exposure in pregnancy.",
+      "org": "WHO",
+      "year": "2013",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK190297/",
+      "rights": "PUBLIC_WHO_SOURCE_ORIGINAL_PROSE_ONLY",
+      "boundary": "Providers should routinely offer advice and psychosocial interventions for tobacco cessation to all pregnant women who are current tobacco users or recent quitters; smoking in pregnancy associated with ectopic pregnancy, premature rupture of membranes, placental abruption, placenta previa, miscarriage, stillbirth, preterm birth, low birth weight, small-for-gestational-age, cleft lip, and SIDS; pregnant women should be protected from second-hand smoke; SHS exposure can increase risk of low birth weight (<2500 g) by 22%. | MYTH_QUIT_SMOKING_SUDDENLY (iv101): списъкът на неблагоприятните изходи (СЗО 2013) и предлагане на помощ на всяка бременна, която пуши."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_STOP_SMOKING_PREGNANCY_2023",
+    "PIN_SMOKEFREE_GOV_MYTHS_2023",
+    "PIN_WHO_TOBACCO"
+  ],
+  "see_also": [
+    "ART_PAT_002"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

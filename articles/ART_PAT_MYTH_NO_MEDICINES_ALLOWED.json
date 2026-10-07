@@ -1,0 +1,44 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_NO_MEDICINES_ALLOWED",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„През бременността не може да се приема никакво лекарство — редовното лечение трябва да се спре веднага.“",
+    "en": "\"No medicine can be used in pregnancy, so regular treatment must stop immediately.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Спирането на предписано лекарство може да навреди и на Вас, и на бебето (NHS). Някои лекарства не са подходящи в бременност, други са важни за здравето Ви — затова всяко лекарство, включително обезболяващо, добавка или билка, се проверява с фармацевт, акушерка или лекар, преди да го започнете или спрете (NHS). При спешност не отлагайте помощ. *Граница:* безопасността на всяко конкретно лекарство се проверява отделно (в Обединеното кралство — BUMPS/UKTIS); тук не се твърди нищо за конкретен препарат.",
+      "en": "Not true. Stopping a prescribed medicine could be harmful to both you and your baby (NHS). Some medicines are unsuitable in pregnancy, others are important for your health — so check every medicine, including painkillers, supplements and herbal remedies, with a pharmacist, midwife or doctor before starting or stopping it (NHS). In an emergency, do not delay care. *Limit:* the safety of each individual medicine is checked separately (in the UK — BUMPS/UKTIS); nothing is claimed here about any specific product."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_MEDICINES_PREGNANCY_2022",
+      "citation": "NHS. Medicines in pregnancy (nhs.uk/pregnancy/keeping-well/medicines). Last reviewed 05.09.2022; next review due 05.09.2025 (просрочен към 06.10.2026 — отбелязано). Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2022",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/medicines/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Stopping taking your medicine could be harmful to both you and your baby\"; „Not all 'natural' remedies or complementary therapies are safe in pregnancy\"; „Before taking any medicine when you're pregnant, including painkillers, check with your pharmacist, midwife or GP\"; препраща към BUMPS (UKTIS). НЕ покрива: безопасност на конкретно лекарство."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_MEDICINES_PREGNANCY_2022"
+  ],
+  "see_also": [
+    "ART_PAT_MYTH_NATURAL_ALWAYS_SAFE"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

@@ -8,20 +8,43 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не е вярно — обратното е вярно. Движението в бременност е свързано с по-нисък риск от прееклампсия, гестационна хипертония, гестационен диабет, прекомерно наддаване, усложнения при раждането и следродилна депресия. Препоръчват се поне 150 минути умерена активност седмично, разпределени през седмицата — например по 30 минути в пет дни. Добре е да има и упражнения за мускулна сила, а лекото разтягане също помага. Ако не може толкова — всяко движение е по-добре от никакво; ако не е била активна преди бременността, не започва рязко с натоварване. Най-подходящи са фитнес и йога „за бременни“; състезателни спортове — не. Не са подходящи и контактните спортове с риск от удар (кикбокс, джудо, скуош), гмуркането с бутилка — бебето няма защита от декомпресионна болест — спортът на височина над 2500 м, и продължителното лежане по гръб, особено след 16-а седмица. Спортовете с риск от падане — езда, ски спускане, хокей, гимнастика, колоездене — само с повишено внимание.",
-      "en": "Not true — the opposite is true. Being active in pregnancy is associated with a lower risk of pre-eclampsia, gestational hypertension, gestational diabetes, excessive weight gain, delivery complications and postnatal depression. At least 150 minutes of moderate-intensity activity a week is recommended, spread across the week — for example 30 minutes on five days. A mix that includes muscle-strengthening activity is good, and gentle stretching helps too. If that is not manageable, any amount is better than none; if she was not active before pregnancy, she should not suddenly take up strenuous exercise. The best fit is pregnancy-specific fitness and yoga classes; competitive sport, no. Also unsuitable: contact sports with a risk of being hit (kickboxing, judo, squash), scuba diving — the baby has no protection against decompression sickness — exercise above 2,500 m, and lying flat on the back for long periods, particularly after 16 weeks. Sports with a risk of falling — horse riding, downhill skiing, ice hockey, gymnastics, cycling — only with caution."
+      "bg": "Не е вярно. При неусложнена бременност и липса на медицинско противопоказание физическата активност обичайно е безопасна и полезна за майката и бебето (NHS; ACOG CO 804) и е свързана с по-ниска честота на гестационен диабет, хипертонични усложнения на бременността, прекомерно наддаване, преждевременно раждане и цезарово сечение, а помага и за предпазване от следродилна депресия (ACOG CO 804). Препоръчват се поне 150 минути умерена активност седмично, включително упражнения за мускулна сила; лекото разтягане също помага (СЗО; NHS). Ако не е била активна преди бременността, не започва рязко с натоварване — започва постепенно, а нова интензивна активност като бягане не се започва в бременност (NHS; ACOG CO 804). Не са подходящи спортове с риск от падане или удар в корема — хокей, ръгби, планинско колоездене — и гмуркането с бутилка, защото бебето няма защита от декомпресионна болест (NHS; ACOG CO 804). В по-късна бременност се избягва лежане по гръб повече от няколко минути (NHS; по ACOG — след 20-ата седмица), и не се спортува на празен стомах (NHS).",
+      "en": "Not true. In an uncomplicated pregnancy with no medical contraindication, physical activity is usually safe and beneficial for you and your baby (NHS; ACOG CO 804) and is associated with a lower incidence of gestational diabetes, hypertensive disorders of pregnancy, excessive weight gain, preterm birth and caesarean birth, and it helps prevent postpartum depression (ACOG CO 804). At least 150 minutes of moderate-intensity activity a week is recommended, including muscle-strengthening exercise; gentle stretching helps too (WHO; NHS). If you were not active before pregnancy, do not suddenly take up strenuous exercise — start gradually, and do not start a new vigorous activity such as running in pregnancy (NHS; ACOG CO 804). Sports with a risk of falling or a blow to the abdomen — hockey, rugby, mountain biking — and scuba diving are not suitable, because the baby has no protection against decompression sickness (NHS; ACOG CO 804). In later pregnancy, avoid lying flat on your back for more than a few minutes (NHS; ACOG — after 20 weeks), and do not exercise on an empty stomach (NHS)."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_6",
-      "citation": "СЗО (Европа) · Physical activity; NHS · Exercise in pregnancy",
-      "org": "СЗО (Европа)",
-      "year": "",
+      "id": "PIN_ACOG_CO804_EXERCISE_2020",
+      "citation": "American College of Obstetricians and Gynecologists. Committee Opinion No. 804: Physical Activity and Exercise During Pregnancy and the Postpartum Period. Obstet Gynecol 2020;135:e178–88. Прочетен 06.10.2026 през копие (breathe-edu, Birsner 2021; acog.org — 402).",
+      "org": "ACOG",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "rights": "PUBLIC_GUIDELINE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„at least 150 minutes of moderate intensity aerobic activity per week during pregnancy\"; безопасни: ходене, велоергометър, аеробика, танци, съпротивителни упражнения, стречинг, водна гимнастика; да се избягват контактни дейности с риск от удар в корема или загуба на равновесие и гмуркане с акваланг; малко абсолютни противопоказания — индивидуална оценка. НЕ покрива: конкретни противопоказания с числа. | MYTH_MUST_REST / MYTH_NO_EXERCISE (iv101): постелният режим не се предписва рутинно; рискове на обездвижването; ползи по изходи; лежане по гръб след 20-ата седмица."
+    },
+    {
+      "id": "PIN_NHS_EXERCISE_PREGNANCY_2026",
+      "citation": "NHS. Exercise in pregnancy (nhs.uk/pregnancy/keeping-well/exercise). Last reviewed 24.09.2026; next review due 24.09.2029. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/exercise/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Exercise is safe for you and your baby in pregnancy\"; 150 минути умерена активност седмично + 2 сесии за мускулна сила; „not recommended to start a new vigorous activity in pregnancy, such as running\"; без спортове с риск от падане/удар в корема (хокей, ръгби, планинско колоездене); без гмуркане с бутилка; „avoid any activity that involves lying flat on your back for more than a few minutes\"; „Do not exercise on an empty stomach\". НЕ покрива: ползите по изходи (ACOG_CO804) и „след 20-ата седмица\" (ACOG)."
+    },
+    {
+      "id": "PIN_WHO_EUROPE_PHYSICAL_ACTIVITY_2021",
+      "citation": "World Health Organization, Regional Office for Europe. Physical activity — fact sheet (who.int/europe/news-room/fact-sheets/item/physical-activity), 1 September 2021; по WHO Guidelines on physical activity and sedentary behaviour (2020). Прочетена 06.10.2026 през WebFetch.",
+      "org": "WHO Europe",
+      "year": "2021",
       "url": "https://www.who.int/europe/news-room/fact-sheets/item/physical-activity",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "PUBLIC_WHO_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Бременни и родилки: „at least 150 minutes of moderate-intensity aerobic physical activity throughout the week\"; аеробни + упражнения за мускулна сила; „adding gentle stretching may also be beneficial\". НЕ покрива: противопоказания."
     }
+  ],
+  "pins_en": [
+    "PIN_ACOG_CO804_EXERCISE_2020",
+    "PIN_NHS_EXERCISE_PREGNANCY_2026",
+    "PIN_WHO_EUROPE_PHYSICAL_ACTIVITY_2021"
   ],
   "see_also": [
     "ART_PAT_009"
@@ -30,9 +53,12 @@
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

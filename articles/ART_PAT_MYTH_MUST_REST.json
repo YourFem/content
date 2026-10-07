@@ -8,29 +8,47 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не е вярно като общо правило. Няма доказателства, че лежането предпазва бременността — най-големият обзор по въпроса не намира нито довод за, нито довод против при предотвратяване на преждевременно раждане. Продължителното лежане обаче носи собствени рискове: загуба на мускулна маса започва още след няколко дни, костната плътност спада, рискът от тромбоза се повишава, а тревожността и потиснатостта са чести. Почивка на легло понякога се препоръчва при определени състояния — но това е решение на лекуващия екип за конкретния случай, а не правило за всяка бременност.",
-      "en": "Not true as a general rule. There is no evidence that bed rest protects a pregnancy — the largest review of the question found nothing either supporting or refuting it for preventing preterm birth. Prolonged bed rest carries its own risks: muscle loss begins within days, bone density falls, the risk of a blood clot rises, and anxiety and low mood are common. Rest in bed is sometimes advised for particular conditions — but that is a decision by the care team for that case, not a rule for every pregnancy."
+      "bg": "Не е вярно като общо правило. Няма доказателства, че лежането предпазва бременността — обзорът на Cochrane не намира нито довод за, нито довод против постелния режим за предотвратяване на преждевременно раждане (Cochrane 2015), а ACOG казва, че ограничаването на активността не бива да се предписва рутинно с тази цел (ACOG CO 804). Продължителното лежане носи собствени рискове: венозна тромбоза, загуба на костна плътност и обща отслабеност, както и неблагоприятни психологически и семейни последици (ACOG CO 804). Почивка на легло понякога се препоръчва при определени състояния — но това е решение на лекуващия екип за конкретния случай, не правило за всяка бременност.",
+      "en": "Not true as a general rule. There is no evidence that bed rest protects a pregnancy — the Cochrane review found nothing either supporting or refuting bed rest for preventing preterm birth (Cochrane 2015), and ACOG states that activity restriction should not be prescribed routinely for that purpose (ACOG CO 804). Prolonged bed rest carries its own risks: venous thromboembolism, bone demineralisation and deconditioning, as well as negative psychological and family effects (ACOG CO 804). Rest in bed is sometimes advised for particular conditions — but that is a decision by your care team for your case, not a rule for every pregnancy."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_8",
-      "citation": "Cochrane · Bed rest in singleton pregnancies for preventing preterm birth (CD003581); Activity Restriction and Hospitalization in Pregnancy — narrative review, PMC9859130",
+      "id": "PIN_COCHRANE_CD003581_BED_REST_2015",
+      "citation": "Sosa CG, Althabe F, Belizán JM, Bergel E. Bed rest in singleton pregnancies for preventing preterm birth. Cochrane Database Syst Rev. 2015;(3):CD003581. doi:10.1002/14651858.CD003581.pub3. Published 30.03.2015. Прочетено резюме на cochrane.org 06.10.2026.",
       "org": "Cochrane",
-      "year": "",
+      "year": "2015",
       "url": "https://www.cochrane.org/evidence/CD003581_bed-rest-singleton-pregnancies-preventing-preterm-birth",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "PEER_REVIEWED_ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„There is no evidence, either supporting or refuting the use of bed rest at home or in hospital, to prevent preterm birth\"; 2 проучвания, метаанализ с 1 (1266 жени); ПТР 7,9 % срещу 8,5 %. НЕ покрива: многоплодна бременност; други показания за постелен режим."
+    },
+    {
+      "id": "PIN_ACOG_CO804_EXERCISE_2020",
+      "citation": "American College of Obstetricians and Gynecologists. Committee Opinion No. 804: Physical Activity and Exercise During Pregnancy and the Postpartum Period. Obstet Gynecol 2020;135:e178–88. Прочетен 06.10.2026 през копие (breathe-edu, Birsner 2021; acog.org — 402).",
+      "org": "ACOG",
+      "year": "2020",
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period",
+      "rights": "PUBLIC_GUIDELINE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„at least 150 minutes of moderate intensity aerobic activity per week during pregnancy\"; безопасни: ходене, велоергометър, аеробика, танци, съпротивителни упражнения, стречинг, водна гимнастика; да се избягват контактни дейности с риск от удар в корема или загуба на равновесие и гмуркане с акваланг; малко абсолютни противопоказания — индивидуална оценка. НЕ покрива: конкретни противопоказания с числа. | MYTH_MUST_REST / MYTH_NO_EXERCISE (iv101): постелният режим не се предписва рутинно; рискове на обездвижването; ползи по изходи; лежане по гръб след 20-ата седмица."
     }
   ],
-  "see_also": [],
+  "pins_en": [
+    "PIN_COCHRANE_CD003581_BED_REST_2015",
+    "PIN_ACOG_CO804_EXERCISE_2020"
+  ],
+  "see_also": [
+    "ART_PAT_009"
+  ],
   "source_check": [],
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

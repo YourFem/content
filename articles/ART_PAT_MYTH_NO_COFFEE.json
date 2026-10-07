@@ -8,20 +8,33 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не е забранено. Ограничението е 200 mg кофеин на ден — от всички източници заедно, не само от кафето. За ориентир: еспресо (60 ml) ≈ 80 mg; капучино с едно еспресо ≈ 80 mg, с двойно ≈ 160 mg; филтърно кафе (200 ml) ≈ 90 mg; разтворимо кафе, чаша ≈ 100 mg; чай, чаша ≈ 50–75 mg; кока-кола, кен ≈ 40 mg; енергийна напитка (250 ml) ≈ 80 mg; млечен шоколад (50 g) ≈ 10 mg, тъмен ≈ 25 mg. Разтворимите смеси „3 в 1“ също съдържат кофеин — количеството зависи от производителя и не е публикувано. Тоест две кафета изчерпват дневното количество. Границата съществува, защото редовният приём над нея е свързан с по-висок риск от спонтанен аборт и мъртво раждане, а самите 200 mg са поставени заради ограничаване на растежа на плода.",
-      "en": "It is not forbidden. The limit is 200 mg of caffeine a day — from all sources together, not coffee alone. For orientation: espresso (60 ml) ≈ 80 mg; a cappuccino made with one shot ≈ 80 mg, with a double ≈ 160 mg; filter coffee (200 ml) ≈ 90 mg; a cup of instant coffee ≈ 100 mg; a cup of tea ≈ 50–75 mg; a can of cola ≈ 40 mg; an energy drink (250 ml) ≈ 80 mg; milk chocolate (50 g) ≈ 10 mg, dark ≈ 25 mg. Instant \"3-in-1\" mixes also contain caffeine — the amount depends on the manufacturer and is not published. So two coffees use up the daily allowance. The limit exists because regular intake above it is linked to a higher chance of miscarriage and stillbirth, and the 200 mg figure itself was set because of restricted fetal growth."
+      "bg": "Не е забранено. Ограничението е 200 mg кофеин на ден — от всички източници заедно, не само от кафето (NHS; EFSA). За ориентир: еспресо (60 ml) ≈ 80 mg; филтърно кафе (200 ml) ≈ 90 mg; чаша разтворимо кафе ≈ 100 mg; чаша чай ≈ 50–75 mg; кен кола ≈ 40 mg; енергийна напитка (250 ml) ≈ 80 mg; млечен шоколад (50 g) ≈ 10 mg, тъмен ≈ 25 mg (NHS; EFSA — двата източника дават леко различни числа за чая). Капучино с едно еспресо носи около 80 mg, с двойно — около 160 mg; при разтворимите смеси „3 в 1“ количеството зависи от производителя — проверете етикета. В зависимост от вида, размера и начина на приготвяне две кафета могат да доближат, достигнат или надхвърлят препоръчителното дневно количество. Какво се побира в 200 mg на ден — примери по горните числа: едно разтворимо кафе и една чаша чай (≈ 150–175 mg); две единични еспресо (≈ 160 mg); едно филтърно кафе и едно парче тъмен шоколад (≈ 115 mg). Над границата са например: две разтворими кафета (≈ 200 mg, вече на ръба) или едно двойно капучино плюс чаша чай (≈ 210–235 mg). Напитките с кофеин без кафе също влизат в сметката: кен кола ≈ 40 mg, енергийна напитка (250 ml) ≈ 80 mg — две енергийни напитки са вече 160 mg, а едно кафе отгоре надхвърля границата (NHS; EFSA). Границата съществува, защото редовният прием над нея е свързан с по-висок риск от спонтанен аборт и мъртво раждане (NHS); EFSA приема, че общ прием до 200 mg дневно не поражда опасения за безопасността на плода (EFSA).",
+      "en": "It is not forbidden. The limit is 200 mg of caffeine a day — from all sources together, not coffee alone (NHS; EFSA). For orientation: espresso (60 ml) ≈ 80 mg; filter coffee (200 ml) ≈ 90 mg; a cup of instant coffee ≈ 100 mg; a cup of tea ≈ 50–75 mg; a can of cola ≈ 40 mg; an energy drink (250 ml) ≈ 80 mg; milk chocolate (50 g) ≈ 10 mg, dark ≈ 25 mg (NHS; EFSA — the two sources give slightly different figures for tea). A cappuccino made with one shot is about 80 mg, with a double about 160 mg; for \"3-in-1\" instant mixes the amount depends on the manufacturer — check the label. Depending on the type, size and preparation, two coffees can approach, reach or exceed the recommended daily amount. What fits within 200 mg a day — examples using the figures above: one instant coffee and one cup of tea (≈ 150–175 mg); two single espressos (≈ 160 mg); one filter coffee and a piece of dark chocolate (≈ 115 mg). Over the limit, for example: two instant coffees (≈ 200 mg, already at the edge) or a double cappuccino plus a cup of tea (≈ 210–235 mg). Caffeinated drinks other than coffee count too: a can of cola ≈ 40 mg, an energy drink (250 ml) ≈ 80 mg — two energy drinks are already 160 mg, and one coffee on top goes over the limit (NHS; EFSA). The limit exists because regular intake above it is linked to a higher chance of miscarriage and stillbirth (NHS); EFSA concludes that a total intake of up to 200 mg a day does not raise safety concerns for the fetus (EFSA)."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_3",
-      "citation": "NHS · Foods to avoid in pregnancy; EFSA · Scientific Opinion on the safety of caffeine (2015)",
-      "org": "NHS",
-      "year": "",
+      "id": "PIN_NHS_FOODS_TO_AVOID_2026",
+      "citation": "NHS. Foods to avoid in pregnancy (nhs.uk/pregnancy/keeping-well/foods-to-avoid). Last reviewed 15.06.2026; next review due 15.06.2029. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2026",
       "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Кофеин — „you should not have more than 200mg of caffeine a day\"; примери (100 mg разтворимо кафе, 75 mg чай); риба — акула, риба меч, марлин да не се ядат; тон — до 4 средни консерви или 2 стека седмично; мазна риба ≤ 2 порции; сурови миди — да се избягват; билков чай — „avoid drinking more than 4 cups of herbal tea a day, and avoid teas containing liquorice root\"; ананасът НЕ е в списъка (използвано като „не е сред храните за избягване\" в iv103). НЕ покрива: EFSA числата по напитки."
+    },
+    {
+      "id": "PIN_EFSA_CAFFEINE_2015",
+      "citation": "European Food Safety Authority. Scientific Opinion on the safety of caffeine. EFSA Journal 2015;13(5):4102 (27.05.2015) — прочетена през тематичната страница efsa.europa.eu/en/topics/topic/caffeine на 06.10.2026 (PDF таблиците не са текст).",
+      "org": "EFSA",
+      "year": "2015",
+      "url": "https://www.efsa.europa.eu/en/topics/topic/caffeine",
+      "rights": "PUBLIC_EU_AGENCY_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Caffeine intakes from all sources up to 200mg per day consumed throughout the day do not raise safety concerns for the foetus\"; съдържание: еспресо 60 ml 80 mg, филтърно 200 ml 90 mg, черен чай 220 ml 50 mg, кола 355 ml 40 mg, енергийна напитка 250 ml 80 mg, тъмен шоколад 50 g 25 mg, млечен 50 g 10 mg. Разминаване с NHS за чая (50 срещу 75 mg) — отбелязано в текста. НЕ покрива: капучино/„3 в 1\" (в текста — като аритметика от горните числа и „проверете етикета\")."
     }
+  ],
+  "pins_en": [
+    "PIN_NHS_FOODS_TO_AVOID_2026",
+    "PIN_EFSA_CAFFEINE_2015"
   ],
   "see_also": [
     "ART_PAT_002"
@@ -30,9 +43,12 @@
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

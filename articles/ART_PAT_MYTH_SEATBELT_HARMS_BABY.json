@@ -1,0 +1,54 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_SEATBELT_HARMS_BABY",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Предпазният колан притиска бебето и е по-безопасно да не го слагам.“",
+    "en": "\"A seat belt presses on the baby, so it is safer not to wear one.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Коланът защитава и Вас, и бебето. Долната лента се поставя под корема, плътно през таза и бедрата — никога върху корема; диагоналната лента минава през гърдите, между тях, и по рамото, не по шията — никога под мишницата или зад гърба (NHS; NHTSA). Въздушната възглавница се оставя включена (NHTSA). След катастрофа потърсете медицинска оценка веднага, дори да смятате, че не сте пострадала (NHTSA). Вижте и „Пътуване по време на бременност“.",
+      "en": "Not true. A seat belt protects both you and your baby. The lap belt goes under your bump, snug across your hips and pelvic bone — never over your belly; the shoulder belt goes across your chest, between your breasts, and over your shoulder, away from your neck — never under your arm or behind your back (NHS; NHTSA). Leave the airbag switched on (NHTSA). After a crash, seek medical attention immediately, even if you think you are not injured (NHTSA). See also \"Travel during pregnancy\"."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_TRAVELLING_IN_PREGNANCY_2022",
+      "citation": "NHS. Travelling in pregnancy (nhs.uk/pregnancy/keeping-well/travelling). Last reviewed 17.08.2022; next review due 17.08.2025 (просрочен към 06.10.2026). Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2022",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/travelling/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Поддържащ пациентски източник — НЕ самостоятелен пин за ваксини и динамични препоръки (Зика, малария). Покрива: „best time to travel… mid-pregnancy, between 4 and 6 months\"; „After week 28… letter from your doctor or midwife confirming your due date\"; „chance of going into labour is naturally higher after 37 weeks (around 32 weeks if… twins)\"; „Long-distance travel (longer than 4 hours) carries a small risk of blood clots (DVT)\"; „graduated compression or support stockings… reduce leg swelling\"; колан — „cross strap between your breasts and the lap strap across your pelvis under your bump\"; „Non-live (inactivated) vaccines are safe\"; „Some anti-malaria tablets aren't safe\"; Зика — не се препоръчва; „check if tap water is safe… bottled water\"; застраховка — бременност, раждане, преждевременно раждане. | MYTH_SEATBELT_HARMS_BABY (iv103): положението на колана."
+    },
+    {
+      "id": "PIN_NHTSA_PREGNANT_SEAT_BELT",
+      "citation": "U.S. National Highway Traffic Safety Administration. If you're pregnant: seat belt recommendations for drivers and passengers (document 11426-120915-v6; nhtsa.gov/sites/nhtsa.gov/files/documents/pregnant-seat-belt-use.pdf). PDF прочетен 06.10.2026.",
+      "org": "NHTSA (US)",
+      "year": "2015 (v6)",
+      "url": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/pregnant-seat-belt-use.pdf",
+      "rights": "PUBLIC_GOV_SOURCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Долна лента „secured below your belly so that it fits snugly across your hips and pelvic bone\"; диагонална „across your chest (between your breasts)… away from your neck (but not off your shoulder)\"; никога под мишницата/зад гърба, никога върху корема; „leave air bags turned on\"; след катастрофа — „Seek immediate medical attention, even if you think you are not injured\". НЕ покрива: британските формулировки (NHS_TRAVELLING_IN_PREGNANCY_2022)."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_TRAVELLING_IN_PREGNANCY_2022",
+    "PIN_NHTSA_PREGNANT_SEAT_BELT"
+  ],
+  "see_also": [
+    "ART_PAT_007"
+  ],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

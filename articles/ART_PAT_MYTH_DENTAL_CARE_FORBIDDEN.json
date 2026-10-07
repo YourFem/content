@@ -1,0 +1,52 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_DENTAL_CARE_FORBIDDEN",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„По време на бременност не бива да се лекуват зъби, да се поставя местна упойка или да се прави зъбна снимка.“",
+    "en": "\"Dental treatment, local anaesthetic and dental X-rays are forbidden in pregnancy.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. Профилактичното, диагностичното и възстановителното стоматологично лечение е безопасно през цялата бременност; местни анестетици, включително с адреналин, могат да се използват (ADA). Необходимите зъбни рентгенографии се считат за безопасни на всеки етап — лъчът не е насочен към бебето (ADA; Guy's and St Thomas' NHS). *Тук източниците се различават в детайл:* препоръките на ADA/AAOMR за рентгенографии (2024) вече не предвиждат оловна престилка/защита на щитовидната жлеза при зъбна снимка; други практики продължават да я ползват — това не променя извода за безопасност. Отлагането на спешно лечение — екстракция, лечение на канал, пломба — може да доведе до по-сложни проблеми (ADA). Кажете на стоматолога, че сте бременна и какви лекарства приемате.",
+      "en": "Not true. Preventive, diagnostic and restorative dental treatment is safe throughout pregnancy; local anaesthetics, including those with adrenaline, may be used (ADA). Necessary dental X-rays are considered safe at any stage — the beam does not point at your baby (ADA; Guy's and St Thomas' NHS). *Here the sources differ in a detail:* the ADA/AAOMR radiography recommendations (2024) no longer call for an abdominal or thyroid shield for dental X-rays; some practices still use one — this does not change the conclusion on safety. Delaying urgent treatment — an extraction, root canal or filling — may lead to more complex problems (ADA). Tell your dentist that you are pregnant and which medicines you take."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_ADA_PREGNANCY_ORAL_HEALTH_2025",
+      "citation": "American Dental Association. Pregnancy — Oral Health Topics (ada.org/resources/ada-library/oral-health-topics/pregnancy). Last updated 14.07.2025; препоръките за рентгенографии са по ADA/AAOMR 2024 (JADA). Прочетена 06.10.2026 през WebFetch.",
+      "org": "ADA",
+      "year": "2025 (рентгенографии: ADA/AAOMR 2024)",
+      "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy",
+      "rights": "PROFESSIONAL_ASSOCIATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Preventive, diagnostic and restorative dental treatment is safe throughout pregnancy\"; местни анестетици с епинефрин могат да се ползват; „Radiographs are considered safe for the pregnant patient, at any stage during pregnancy; shielding (abdominal or thyroid) is no longer recommended\" (разминаване с практиката, отбелязано в текста); отлагането на спешно лечение (екстракция, канал, пломба) може да усложни; гингивит от хормонални промени; ерозия от повръщане — изплакване със сода, без миене веднага. НЕ покрива: мита за калция (CDC_PROTECT_TINY_TEETH_2019)."
+    },
+    {
+      "id": "PIN_GSTT_DENTAL_XRAYS_2025",
+      "citation": "Guy's and St Thomas' NHS Foundation Trust. Dental X-rays — health information. Last reviewed December 2025; next review December 2028. Прочетена 06.10.2026 през WebFetch.",
+      "org": "Guy's and St Thomas' NHS FT",
+      "year": "2025",
+      "url": "https://www.guysandstthomas.nhs.uk/health-information/dental-x-rays",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„When you have a dental X-ray, the X-ray beam does not point at your developing baby. Dental X-rays are considered safe in pregnancy, and can be taken if they are needed for your diagnosis or treatment\". НЕ покрива: престилка."
+    }
+  ],
+  "pins_en": [
+    "PIN_ADA_PREGNANCY_ORAL_HEALTH_2025",
+    "PIN_GSTT_DENTAL_XRAYS_2025"
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

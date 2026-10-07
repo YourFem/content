@@ -1,0 +1,62 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_SEX_CAUSES_LOSS",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Сексът причинява спонтанен аборт или преждевременно раждане.“",
+    "en": "\"Sex causes miscarriage or preterm labour.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. При нормална бременност без усложнения сексът и оргазмът не повишават риска от преждевременно раждане и не причиняват спонтанен аборт (NHS Wales; RCOG). В по-късна бременност оргазмът или самият секс могат да предизвикат леки контракции (Braxton Hicks), което е нормално (NHS Wales). Избягвайте секс при обилно кървене, при ниско разположена плацента, при изтекли околоплодни води (повишен риск от инфекция), и ако наблюдаващият Ви екип изрично е казал да не правите секс (NHS Wales; NHS). Потърсете помощ при силна или продължителна болка, обилно кървене или изтичане на течност.",
+      "en": "Not true. If your pregnancy is normal and you have no complications, sex and orgasm do not increase your risk of going into labour early and do not cause miscarriage (NHS Wales; RCOG). Later in pregnancy, an orgasm or sex itself can set off mild contractions (Braxton Hicks), which is normal (NHS Wales). Avoid sex if you have heavy bleeding, a low-lying placenta, if your waters have broken (increased risk of infection), or if your maternity team has told you not to (NHS Wales; NHS). Seek advice for severe or persistent pain, heavy bleeding or leaking fluid."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_NHS_WALES_SEX_PREGNANCY_2023",
+      "citation": "NHS 111 Wales (Welsh Ambulance Services University NHS Trust). Pregnancy guide — Sex in pregnancy (111.wales.nhs.uk/doityourself/pregnancy/healthwellbeingsex). Last updated 27.06.2023. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS Wales",
+      "year": "2023",
+      "url": "https://111.wales.nhs.uk/doityourself/pregnancy/healthwellbeingsex/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„If your pregnancy is normal and you have no complications, having sex and orgasms won't increase your risk of going into labour early or cause a miscarriage\"; оргазъм/секс по-късно може да предизвика леки контракции (Braxton Hicks) — „perfectly normal\"; да се избягва при обилно кървене, ниско разположена плацента, изтекли води (инфекция), проблеми с шийката, близнаци/предишно преждевременно раждане в късна бременност. НЕ покрива: „зацапване след проникване\" (махнато от текста)."
+    },
+    {
+      "id": "PIN_RCOG_PI_EARLY_MISCARRIAGE_2025",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Early miscarriage — patient information. Published September 2016; last reviewed May 2025. Прочетена 06.10.2026 през WebFetch.",
+      "org": "RCOG",
+      "year": "2025",
+      "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/early-miscarriage",
+      "rights": "PUBLIC_PATIENT_INFORMATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Neither scan [трансвагинален/трансабдоминален] increases your risk of having a miscarriage\"; „Sex during pregnancy is not associated with early miscarriage\"; „There is no evidence that stress can cause a miscarriage\". НЕ покрива: лечение на спонтанен аборт."
+    },
+    {
+      "id": "PIN_NHS_INDUCING_LABOUR_2023",
+      "citation": "NHS. Inducing labour (nhs.uk/pregnancy/labour-and-birth/inducing-labour). Last reviewed 01.11.2023; next review due 01.11.2026. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2023",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/inducing-labour/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Покрива: предлагане на индукция при преносване (41–42 с.); „There are no proven ways of starting your labour yourself at home\"; „hot baths, certain food or drinks, having sex or herbal supplements… there's no evidence that these work\"; „no information about the safety of herbal supplements and they could be harmful\"; „avoid having sex if your waters have broken as there's an increased risk of infection\". НЕ покрива: методи на индукция в детайл, рискове. | MYTH_HOME_INDUCTION / MYTH_SEX_CAUSES_LOSS (iv103): няма доказан домашен метод; без секс след изтекли води."
+    }
+  ],
+  "pins_en": [
+    "PIN_NHS_WALES_SEX_PREGNANCY_2023",
+    "PIN_RCOG_PI_EARLY_MISCARRIAGE_2025",
+    "PIN_NHS_INDUCING_LABOUR_2023"
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}

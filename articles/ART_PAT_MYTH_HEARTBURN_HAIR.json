@@ -8,29 +8,35 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не. По киселините не може да се познае нищо за косата на бебето. Има едно старо проучване с 64 жени, което е намирало такава връзка — толкова малко е, че не значи нищо, и никой не го е потвърдил оттогава.",
-      "en": "No. Heartburn tells you nothing about the baby’s hair. There is one old study of 64 women that did find such a link — it is far too small to mean anything, and no one has confirmed it since."
+      "bg": "Не. Киселините не могат надеждно да предскажат колко коса ще има конкретното бебе. Има едно малко проучване от 2006 г. с 64 жени, което намира статистическа връзка между силата на киселините и количеството коса на новороденото и предлага хормонално обяснение (Costigan 2006) — но то е единично и малко, а една статистическа тенденция в група не позволява индивидуална прогноза. Самите киселини са чест и обикновено безобиден спътник на бременността.",
+      "en": "No. Heartburn cannot reliably predict how much hair your baby will have. There is one small study from 2006, of 64 women, which found a statistical association between heartburn severity and the amount of newborn hair and proposed a hormonal explanation (Costigan 2006) — but it is a single small study, and a statistical trend in a group does not allow an individual prediction. Heartburn itself is a common and usually harmless companion of pregnancy."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_12",
-      "citation": "Costigan KA, Sipsma HL, DiPietro JA. Birth. 2006;33(4):311–314",
-      "org": "Costigan KA, Sipsma HL, DiPietro JA. Birth. 2006;33(4):311–314",
-      "year": "",
+      "id": "PIN_COSTIGAN_2006_HEARTBURN_HAIR",
+      "citation": "Costigan KA, Sipsma HL, DiPietro JA. Pregnancy folklore revisited: the case of heartburn and hair. Birth. 2006;33(4):311–314. doi:10.1111/j.1523-536X.2006.00128.x. Абстрактът е прочетен през JHU Pure (pure.johnshopkins.edu) при първата проверка (06.10.2026, преди обяд); PubMed/Wiley — блокирани при повторната.",
+      "org": "Birth (Wiley)",
+      "year": "2006",
       "url": "https://doi.org/10.1111/j.1523-536X.2006.00128.x",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "PEER_REVIEWED_ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Единично малко проучване: 64 жени; статистическа връзка между тежестта на киселините и количеството коса на новороденото; предложено хормонално обяснение. Пациентският текст го цитира САМО като „едно малко проучване\" и казва изрично, че не позволява индивидуална прогноза. НЕ покрива: лечение на киселини."
     }
+  ],
+  "pins_en": [
+    "PIN_COSTIGAN_2006_HEARTBURN_HAIR"
   ],
   "see_also": [],
   "source_check": [],
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

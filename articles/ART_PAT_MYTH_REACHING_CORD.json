@@ -8,29 +8,45 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не. Вдигането на ръцете няма как да увие пъпната връв около бебето. Пъпната връв е вътре в матката, в околоплодна течност, и се движи с бебето, а не с движенията на майката. Обвиване на връвта около врата се среща при около една от пет бременности и само по себе си обикновено не създава проблем — значение имат случаите с няколко или стегнати бримки, и това се преценява от лекуващия екип, не по това какво е правила тя с ръцете си.",
-      "en": "No. Raising her arms cannot wrap the umbilical cord around the baby. The cord is inside the uterus, in amniotic fluid, and it moves with the baby, not with the mother’s movements. A cord around the neck is found in about one in five births and on its own is usually not a problem — what matters is multiple or tight loops, and that is for the care team to judge, not something caused by what she did with her arms."
+      "bg": "Не. Вдигането на ръцете или минаването под въже не може да причини обвиване на пъпната връв около бебето — положението на ръцете на майката няма механична връзка с положението на пъпната връв (UT Southwestern). Обвиване около врата се установява при приблизително едно от пет раждания — 22 % в голям обзор. Същият обзор не намира доказателства, че наличието на връв около врата като цяло е свързано с по-висок риск от мъртвораждане; при множествени бримки някои данни предполагат по-висок риск, но оценката е несигурна, и значението на находката се преценява от лекуващия екип в целия клиничен контекст (Hayes 2020).",
+      "en": "No. Raising your arms or passing under a rope cannot cause the umbilical cord to wrap around the baby — the position of your arms has no mechanical connection with the position of the cord (UT Southwestern). A cord around the neck is found in roughly one in five births — 22% in a large review. The same review found no evidence that a nuchal cord as such is associated with a higher risk of stillbirth; with multiple loops some data suggest a higher risk, but the estimate is uncertain, and the significance of the finding is judged by your care team in the whole clinical context (Hayes 2020)."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_5",
-      "citation": "Hayes DJL и съавт. PLoS One. 2020;15(9):e0239630",
-      "org": "Hayes DJL и съавт. PLoS One. 2020;15(9):e0239630",
-      "year": "",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239630",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "id": "PIN_HAYES_2020_CORD_META",
+      "citation": "Hayes DJL, Warland J, Parast MM, et al. Umbilical cord characteristics and their association with adverse pregnancy outcomes: a systematic review and meta-analysis. PLoS ONE. 2020;15(9):e0239630. doi:10.1371/journal.pone.0239630. Прочетен абстракт (eScholarship) 06.10.2026.",
+      "org": "PLoS ONE",
+      "year": "2020",
+      "url": "https://doi.org/10.1371/journal.pone.0239630",
+      "rights": "PEER_REVIEWED_ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Nuchal cords were present in 22% of births (95% CI 19, 25)\"; „no evidence for an association between stillbirth and any nuchal cord (OR 1.11, 95% CI 0.62, 1.98)\"; множествени бримки срещу единична/без — OR 2,36 (95 % CI 0,99–5,62), несигурно. НЕ покрива: механиката на обвиването (UTSW)."
+    },
+    {
+      "id": "PIN_UTSW_PREGNANCY_MYTHS_2018",
+      "citation": "UT Southwestern Medical Center, MedBlog. Debunking 5 common pregnancy myths (utswmed.org/medblog/debunking-common-pregnancy-myths), 18 December 2018. Прочетена 06.10.2026 през WebFetch.",
+      "org": "UT Southwestern Medical Center",
+      "year": "2018",
+      "url": "https://utswmed.org/medblog/debunking-common-pregnancy-myths/",
+      "rights": "PUBLIC_ACADEMIC_BLOG_SUPPORTING_ONLY",
+      "boundary": "Поддържащ (академичен блог, не ръководство) — само за твърдението, че вдигането на ръцете не може да причини обвиване на пъпната връв; митът вероятно идва от ретроспективно свързване. НЕ покрива: честота и изходи (HAYES_2020)."
     }
+  ],
+  "pins_en": [
+    "PIN_HAYES_2020_CORD_META",
+    "PIN_UTSW_PREGNANCY_MYTHS_2018"
   ],
   "see_also": [],
   "source_check": [],
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

@@ -8,29 +8,37 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не е вярно. Котката не се маха. Токсоплазмоза НЕ се хваща от галене на котка, от това да имаш котка, нито от контакт с болен човек. Паразитът е в изпражненията на заразени котки, в почвата, замърсена от тях, и в недостатъчно сготвено месо. Затова: котешката тоалетна се чисти всеки ден и най-добре от някой друг — а ако тя я чисти, с ръкавици и с миене на ръцете след това. Ръкавици и при градинарство. Плодовете и зеленчуците се мият добре, за да няма следи от пръст. Месото се готви добре, особено агнешко, свинско и дивеч; сурово и сушено месо не се яде. Котката не се храни със сурово месо. И едно, което рядко се сеща: не се пипат бременни овце и агнета.",
-      "en": "Not true. The cat does not have to go. Toxoplasmosis is NOT caught from stroking a cat, from having a cat as a pet, or from contact with someone who has it. The parasite is in the faeces of infected cats, in soil contaminated by them, and in undercooked meat. So: the litter tray is emptied daily and preferably by someone else — and if she does it, with gloves and washing her hands afterwards. Gloves for gardening too. Fruit and vegetables are washed well to remove traces of soil. Meat is cooked thoroughly, especially lamb, pork and venison; raw and cured meat is avoided. The cat is not fed raw meat. And one that is easily forgotten: do not touch pregnant sheep or lambs."
+      "bg": "Не е вярно. Котката не се маха. Токсоплазмоза не се хваща от галене на котка, от това да имаш котка, нито от контакт с болен човек (NHS). Паразитът е в изпражненията на заразени котки, в почвата, замърсена от тях, и в недостатъчно сготвено месо (NHS). Затова: котешката тоалетна се чисти най-добре от някой друг — а ако тя я чисти, с ръкавици и с миене на ръцете след това; ръкавици и при градинарство; плодовете и зеленчуците се мият добре, за да няма следи от пръст; месото се готви добре, особено агнешко, свинско и дивеч; сурово и сушено месо (салам, прошуто) не се яде; непастьоризирано козе мляко — също не; котката не се храни със сурово или недосготвено месо; и едно, което рядко се сеща: не се пипат бременни овце и агнета (NHS).",
+      "en": "Not true. The cat does not have to go. You cannot catch toxoplasmosis from stroking a cat, from having a cat as a pet, or from contact with someone who has it (NHS). The parasite is in the faeces of infected cats, in soil contaminated by them, and in undercooked meat (NHS). So: the litter tray is best emptied by someone else — and if you do it, wear gloves and wash your hands afterwards; wear gloves for gardening too; wash fruit and vegetables well to remove traces of soil; cook meat thoroughly, especially lamb, pork and venison; avoid raw and cured meat (salami, Parma ham) and unpasteurised goats' milk; do not feed your cat raw or undercooked meat; and one that is easily forgotten: do not touch pregnant sheep or lambs (NHS)."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_10",
-      "citation": "NHS · Toxoplasmosis",
-      "org": "NHS",
-      "year": "",
+      "id": "PIN_NHS_TOXOPLASMOSIS_2023",
+      "citation": "NHS. Toxoplasmosis (nhs.uk/conditions/toxoplasmosis). Last reviewed 25.08.2023; next review due 25.08.2026 (просрочен към 06.10.2026 — поддържащ). Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2023",
       "url": "https://www.nhs.uk/conditions/toxoplasmosis/",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„You cannot catch toxoplasmosis from stroking a cat, having a cat as a pet or from coming into contact with someone who's got it\"; източници — изпражнения на заразени котки, замърсена почва, недостатъчно сготвено месо; мерки: ръкавици при градинарство и котешка тоалетна (най-добре друг да я чисти), миене на плодове/зеленчуци, добре сготвено месо (агнешко, свинско, дивеч), без сурово/сушено месо (салам, пармска шунка), без непастьоризирано козе мляко, без контакт с бременни овце/агнета, котката без сурово месо. НЕ покрива: скрининг/лечение."
     }
   ],
-  "see_also": [],
+  "pins_en": [
+    "PIN_NHS_TOXOPLASMOSIS_2023"
+  ],
+  "see_also": [
+    "ART_PAT_002"
+  ],
   "source_check": [],
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

@@ -8,29 +8,58 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не. Формата на корема зависи от телосложението ѝ, от коремната мускулатура, от положението на бебето и от това кое поред е раждането — не от пола. Полът се установява с ехография или с генетичен тест по време на проследяването.",
-      "en": "No. The shape of the bump depends on her build, her abdominal muscles, the baby’s position and whether it is a first or later pregnancy — not on the sex. Sex is established by ultrasound or a genetic test during antenatal care."
+      "bg": "Не. Формата и положението на корема не показват пола на бебето — те зависят от ръста, мускулатурата, броя на предишните бременности и начина на хранене, не от пола (NHS). Не го показват и гаденето, и сърдечната честота на бебето. При ехографски преглед полът може да бъде разпознат — това зависи от срока на бременността и от положението на бебето (NHS); някои пренатални генетични изследвания могат да дадат информация за хромозомния пол (вижте „Ултразвук във втори триместър“ и „НИПТ“).",
+      "en": "No. The shape and position of your bump do not show your baby's sex — they depend on your height, muscle tone, the number of previous pregnancies and your diet, not on the sex (NHS). Neither do nausea or your baby's heart rate. At an ultrasound scan the sex can be identified — this depends on the stage of pregnancy and your baby's position (NHS); some prenatal genetic tests can give information on the chromosomal sex (see \"The Mid-Pregnancy Anomaly Scan\" and \"NIPT\")."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_11",
-      "citation": "Поверие (A48) · клиничното изброяване е на д-р Иван Иванов",
-      "org": "Поверие (A48)",
-      "year": "",
-      "url": "",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "id": "PIN_NHS_WEEK29_BUMP_2026",
+      "citation": "NHS. You and your baby at 29 weeks pregnant (nhs.uk/pregnancy/week-by-week/28-to-40-plus/29-weeks). Last modified 5 Feb 2026. Прочетена 06.10.2026 през WebFetch (повторно).",
+      "org": "NHS England",
+      "year": "2026",
+      "url": "https://www.nhs.uk/pregnancy/week-by-week/28-to-40-plus/29-weeks/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Покрива САМО мита за формата на корема: „a neat high bump means… a boy, while a rounded low bump… a girl. In fact, the differences are more to do with: your height, your muscles, how many babies you've already had, how much you eat in pregnancy\". НЕ покрива: гадене/сърдечна честота (виж PERRY_1999, NOURI_2023), ехографско определяне на пола (NHS_ULTRASOUND_SCANS_2023 в iv103)."
+    },
+    {
+      "id": "PIN_PERRY_1999_PREGNANCY_FOLKLORE",
+      "citation": "Perry DF, DiPietro JA, Costigan KA. Are women carrying \"basketballs\" really having boys? Testing pregnancy folklore. Birth. 1999;26(3):172–177. doi:10.1046/j.1523-536X.1999.00172.x. Абстрактът е прочетен 06.10.2026 през съобщението на Johns Hopkins Bloomberg School of Public Health (publichealth.jhu.edu/1999/predict-baby-sex); Wiley — 403.",
+      "org": "Birth (Wiley)",
+      "year": "1999",
+      "url": "https://doi.org/10.1046/j.1523-536X.1999.00172.x",
+      "rights": "PEER_REVIEWED_ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Тиха опора (решение на д-р Иванов 06.10.2026: за очевидни глупости не се цитира проучване в текста). 104 жени; формата на корема и сутрешното гадене не са свързани с пола; обща точност на предположенията 55 % (случайност). Не се цитира в пациентския текст."
+    },
+    {
+      "id": "PIN_NOURI_2023_FHR_SEX_META",
+      "citation": "Nouri S, Kalantar MH, Safi F, Almasi-Hashiani A. The role of fetal heart rate in first trimester sonograms in prediction of fetal sex: a systematic review and meta-analysis. BMC Pregnancy Childbirth. 2023;23:582. doi:10.1186/s12884-023-05908-8. Прочетена 06.10.2026 (Springer).",
+      "org": "BMC Pregnancy and Childbirth",
+      "year": "2023",
+      "url": "https://link.springer.com/article/10.1186/s12884-023-05908-8",
+      "rights": "PEER_REVIEWED_ABSTRACT_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Тиха опора (не се цитира в текста). 5 проучвания, 4308 плода; SMD 0,04 (95 % CI −0,09–0,16; p = 0,553); „first-trimester FHR is not a reliable predictive test for fetal sex determination\"."
     }
   ],
-  "see_also": [],
+  "pins_en": [
+    "PIN_NHS_WEEK29_BUMP_2026",
+    "PIN_PERRY_1999_PREGNANCY_FOLKLORE",
+    "PIN_NOURI_2023_FHR_SEX_META"
+  ],
+  "see_also": [
+    "ART_FETAL_MORPHOLOGY",
+    "ART_NIPT"
+  ],
   "source_check": [],
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

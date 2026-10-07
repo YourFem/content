@@ -8,29 +8,58 @@
   },
   "layers": {
     "patient": {
-      "bg": "Не. Терминът е ОЧАКВАНА дата, не насрочена — само около 1 на 20 жени раждат точно на нея. Минаването ѝ не значи грешка в сметката. Значи, че се влиза в период, който се проследява: ако раждането не започне само до 41-ва седмица, се предлага предизвикване, защото след това рискът за бебето расте.",
-      "en": "No. The due date is an EXPECTED date, not a booked one — only about 1 in 20 women give birth on it. Passing it does not mean the dating was wrong. It means entering a period that is monitored: if labour has not started on its own by 41 weeks, induction is offered, because the risk to the baby rises after that."
+      "bg": "Не. Терминът е очаквана дата, не насрочена — раждането преди или след него е обичайно (NHS). Минаването ѝ не значи грешка в сметката. Значи, че се влиза в период, който се проследява: ако раждането не започне само до 41-ата седмица, се предлага предизвикване, защото след това рискът от мъртвораждане и проблеми за бебето е по-висок (NHS; NICE NG207). Подробно — в „Преносена и късносрочна бременност“.",
+      "en": "No. Your due date is an estimated date, not a booked one — giving birth before or after it is common (NHS). Passing it does not mean the dating was wrong. It means you are entering a period that is monitored: if labour has not started on its own by 41 weeks, you will be offered induction, because the risk of stillbirth and problems for the baby is higher after that (NHS; NICE NG207). Details are in \"Post-term and late-term pregnancy\"."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_13",
-      "citation": "ACOG · A Partner’s Guide to Pregnancy; NHS · Inducing labour",
-      "org": "ACOG",
-      "year": "",
+      "id": "PIN_NHS_OVERDUE_2025",
+      "citation": "NHS. Overdue — past your due date? (nhs.uk/best-start-in-life/pregnancy/preparing-for-labour-and-birth/overdue-have-you-gone-past-your-due-date), публ. 13.06.2023, последна промяна 23.12.2025. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2025",
+      "url": "https://www.nhs.uk/best-start-in-life/pregnancy/preparing-for-labour-and-birth/overdue-have-you-gone-past-your-due-date/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Pregnancy usually lasts between 37 and 42 weeks. Your due date is an estimate of when your pregnancy reaches 40 weeks — it's common to give birth before or after your due date.\" НЕ дава процент раждания на ВТР. | MYTH_DUE_DATE_WRONG (iv101): терминът е очаквана дата; раждане преди/след е обичайно."
+    },
+    {
+      "id": "PIN_NHS_INDUCING_LABOUR_2023",
+      "citation": "NHS. Inducing labour (nhs.uk/pregnancy/labour-and-birth/inducing-labour). Last reviewed 01.11.2023; next review due 01.11.2026. Прочетена 06.10.2026 през WebFetch.",
+      "org": "NHS England",
+      "year": "2023",
       "url": "https://www.nhs.uk/pregnancy/labour-and-birth/inducing-labour/",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Покрива: предлагане на индукция при преносване (41–42 с.); „There are no proven ways of starting your labour yourself at home\"; „hot baths, certain food or drinks, having sex or herbal supplements… there's no evidence that these work\"; „no information about the safety of herbal supplements and they could be harmful\"; „avoid having sex if your waters have broken as there's an increased risk of infection\". НЕ покрива: методи на индукция в детайл, рискове."
+    },
+    {
+      "id": "PIN_NICE_NG207_2021",
+      "citation": "NICE. Inducing labour. NICE guideline NG207, 04.11.2021 — препоръки 1.2.1–1.2.7 (prolonged pregnancy), 1.3.1–1.3.3 (membrane sweeping), 1.3.5, 1.3.7, 1.3.9 (методи). Прочетено 22.09.2026 през WebFetch.",
+      "org": "NICE",
+      "year": "2021",
+      "url": "https://www.nice.org.uk/guidance/ng207/chapter/recommendations",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Раждането обикновено започва само преди 42+0 (по датиране от ехография); рисковете след 41+0 растат (цезарово, интензивно отделение, мъртвораждане/неонатална смърт); индукция от 41+0 може да ги намали; при отказ — записва се, обсъждат се възможностите; допълнително наблюдение (два пъти седмично КТГ + най-дълбок джоб) — ОТ 42 СЕДМИЦИ (1.2.7); отлепяне — на прегледите след 39+0 с устно съгласие, повторение; болка, дискомфорт, кървене; неузряла шийка — динопростон (таблетка/гел/система) или мизопростол 25 µg per os; узряла — амниотомия + окситоцин. Продължителност на индукцията НЕ е дадена. | MYTH_DUE_DATE_WRONG (iv101): предлагане на индукция от 41+0 заради по-високия риск."
     }
   ],
-  "see_also": [],
+  "pins_en": [
+    "PIN_NHS_OVERDUE_2025",
+    "PIN_NHS_INDUCING_LABOUR_2023",
+    "PIN_NICE_NG207_2021"
+  ],
+  "see_also": [
+    "ART_POSTTERM",
+    "ART_PREGNANCY_OVERVIEW"
+  ],
   "source_check": [],
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

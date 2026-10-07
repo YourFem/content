@@ -8,29 +8,37 @@
   },
   "layers": {
     "patient": {
-      "bg": "Раждането е безопасно и по двата начина, но не са еднакви. Планираното секцио е голяма операция и възстановяването след него е по-бавно; има и свои предимства, сред тях предвидимата дата. Кое е по-безопасно зависи от конкретния случай и се решава с лекаря, не по общо правило. Изборът е неин, взет с екипа, който я води.",
-      "en": "Birth is safe either way, but the two are not the same. A planned caesarean is major surgery and recovery from it is slower; it also has its advantages, among them a predictable date. Which is safer depends on the individual case and is decided with the doctor, not by a general rule. The choice is hers, made with the team looking after her."
+      "bg": "Повечето жени се възстановяват добре и имат здраво бебе както след планирано вагинално раждане, така и след планирано цезарово сечение, но двата начина имат различни ползи и рискове (RCOG). Планираното цезарово сечение е голяма операция, чиито рискове се сравняват с рисковете на планираното вагинално раждане; възстановяването след него обикновено е около 6 седмици и е по-бавно (RCOG). Има и свои предимства — планирана дата и по-малка вероятност от асистирано вагинално раждане или спешно цезарово сечение (RCOG). Кое е по-подходящо зависи от конкретния случай и се решава с лекаря, не по общо правило. Предпочитанията на жената са централна част от информираното решение: RCOG препоръчва, ако след обсъждане на ползите и рисковете тя избере планирано цезарово сечение, екипът да подкрепи този избор (RCOG).",
+      "en": "Most women recover well and have a healthy baby after both a planned vaginal birth and a planned caesarean, but the two have different benefits and risks (RCOG). A planned caesarean is a major operation whose risks are compared with those of a planned vaginal birth; recovery is usually about 6 weeks and slower (RCOG). It also has its advantages — a planned date and a lower chance of an assisted vaginal birth or an emergency caesarean (RCOG). Which is more suitable depends on your individual case and is decided with your doctor, not by a general rule. Your preferences are central to the informed decision: RCOG recommends that if, having considered the benefits and risks, you choose a planned caesarean, your healthcare team should support that choice (RCOG)."
     }
   },
   "pins": [
     {
-      "id": "PIN_PARTNER_P1_14",
-      "citation": "RCOG · Considering a caesarean birth",
+      "id": "PIN_RCOG_PI_CAESAREAN_2022",
+      "citation": "Royal College of Obstetricians and Gynaecologists. Considering a caesarean birth — patient information. Published August 2022 (преглед до 3 г.). Прочетена 06.10.2026 през WebFetch.",
       "org": "RCOG",
-      "year": "",
+      "year": "2022",
       "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/considering-a-caesarean-birth/",
-      "rights": "Public guidance — cited, not reproduced",
-      "boundary": "Твърдението е ограничено до цитираното указание."
+      "rights": "PUBLIC_PATIENT_INFORMATION_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Most women in the UK recover well and have healthy babies whether they have a vaginal or a caesarean birth\"; цезаровото сечение е голяма коремна операция; възстановяване около 6 седмици; предимства на планираното — планирана дата, по-малка вероятност от асистирано раждане и от спешно цезарово; „If… you decide that a planned caesarean is how you would like your baby to be born, your healthcare team should support this choice\". НЕ покрива: числови рискове по операции."
     }
   ],
-  "see_also": [],
+  "pins_en": [
+    "PIN_RCOG_PI_CAESAREAN_2022"
+  ],
+  "see_also": [
+    "ART_PAT_BIRTH_PLAN_DISCUSSION"
+  ],
   "source_check": [],
   "status": {
     "medical_review": "Approved for publication",
     "reviewer": "д-р Иван Иванов",
-    "reviewed_at": "2026-08-27",
-    "expires_at": "2029-08-27",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
     "publishable": true,
-    "languages_signed": null
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
   }
 }

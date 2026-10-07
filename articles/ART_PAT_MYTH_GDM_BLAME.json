@@ -1,0 +1,62 @@
+{
+  "schema": "yourfem.article.v1",
+  "id": "ART_PAT_MYTH_GDM_BLAME",
+  "cluster": "PARTNER_MYTHS",
+  "title": {
+    "bg": "„Получих гестационен диабет, защото ядох сладко; сега трябва да спра всички въглехидрати и плодове.“",
+    "en": "\"I caused gestational diabetes by eating sweets, so now I must remove all carbohydrates and fruit.\""
+  },
+  "layers": {
+    "patient": {
+      "bg": "Не е вярно. През бременността хормоните и другите промени правят клетките по-малко чувствителни към инсулина (инсулинова резистентност); гестационният диабет възниква, когато организмът не може да произведе достатъчно инсулин за допълнителните нужди на бременността (CDC; Cambridge University Hospitals NHS). Не сте го причинили с ядене на сладко през тази бременност (CUH). Лечението е индивидуално. NICE препоръчва персонализирани съвети за хранене и физическа активност и отбелязва, че няма убедителни данни една конкретна диета — включително нисковъглехидратната — да е по-добра от останалите (NICE NG247). Не изключвайте сами цели групи храни: количеството, видът и разпределението на въглехидратите, включително плодовете, се договарят с екипа, който проследява диабета Ви, или с диетолог (NICE NG247; CUH). Може да са нужни и проследяване на кръвната захар и лекарства (CDC; CUH).",
+      "en": "Not true. During pregnancy, hormones and other changes make your cells use insulin less well (insulin resistance); gestational diabetes develops when your body cannot produce enough insulin to meet the extra needs of pregnancy (CDC; Cambridge University Hospitals NHS). You have not caused it by eating sugary foods in this pregnancy (CUH). Management is individual. NICE recommends personalised dietary and physical-activity advice and notes that there is no convincing evidence that one particular diet — including a low-carbohydrate diet — is better than the others (NICE NG247). Do not remove whole food groups on your own: the amount, type and distribution of carbohydrate, including fruit, should be agreed with your maternity diabetes team or dietitian (NICE NG247; CUH). Monitoring and medication may also be needed (CDC; CUH)."
+    }
+  },
+  "pins": [
+    {
+      "id": "PIN_CDC_GESTATIONAL_DIABETES_2024",
+      "citation": "Centers for Disease Control and Prevention. Gestational diabetes (cdc.gov/diabetes/about/gestational-diabetes), 15.05.2024. Прочетена 06.10.2026 през WebFetch.",
+      "org": "CDC",
+      "year": "2024",
+      "url": "https://www.cdc.gov/diabetes/about/gestational-diabetes.html",
+      "rights": "PUBLIC_GOV_SOURCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "Механизъм: „These changes cause your body's cells to use insulin less well, a condition called insulin resistance\"; лечение — проследяване на кръвната захар, активност, хранене, „insulin, metformin, or other medication\" при нужда. НЕ покрива: „не е от сладкото\" (CUH), диетични детайли (NICE NG247)."
+    },
+    {
+      "id": "PIN_CUH_GESTATIONAL_DIABETES_2025",
+      "citation": "Cambridge University Hospitals NHS Foundation Trust. Gestational diabetes — patient information, version 6, approved 04.12.2025. Прочетена 06.10.2026 през WebFetch.",
+      "org": "Cambridge University Hospitals NHS FT",
+      "year": "2025",
+      "url": "https://www.cuh.nhs.uk/patient-information/diabetes-pregnancy-gestational-diabetes/",
+      "rights": "OPEN_GOVERNMENT_LICENCE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "„Please be assured you have not caused this diagnosis for example by eating sugary foods in this pregnancy\"; инсулинова резистентност → недостатъчен инсулин; „Diet and physical activity are the first, and often the only, form of treatment\"; въглехидрати са нужни („important to eat enough carbohydrate\"); плодове — в порции; метформин/инсулин при нужда. НЕ покрива: „няма доказано по-добра диета\" (NICE NG247)."
+    },
+    {
+      "id": "PIN_NICE_NG247_2025",
+      "citation": "National Institute for Health and Care Excellence. Maternal and child nutrition: nutrition and weight management in pregnancy, and nutrition in children up to 5 years. NICE guideline NG247, 2025 — препоръки 1.2.18–1.2.19 (хранене при гестационен диабет). nice.org.uk ми връща 403 — текстът на препоръките е по проверката на д-р Иванов (06.10.2026), не е прочетен от агента.",
+      "org": "NICE",
+      "year": "2025",
+      "url": "https://www.nice.org.uk/guidance/ng247/chapter/Recommendations",
+      "rights": "PUBLIC_NICE_GUIDELINE_FACTUAL_SYNTHESIS_ONLY",
+      "boundary": "ГРАНИЦА НА ПРОВЕРКАТА: страницата не е отворена от агента (403). По д-р Иванов: персонализирани съвети за хранене и физическа активност; „няма убедителни данни една конкретна диета, включително нисковъглехидратна, да е по-добра от останалите\". Да се потвърди при следващия достъп до NICE."
+    }
+  ],
+  "pins_en": [
+    "PIN_CDC_GESTATIONAL_DIABETES_2024",
+    "PIN_CUH_GESTATIONAL_DIABETES_2025",
+    "PIN_NICE_NG247_2025"
+  ],
+  "see_also": [],
+  "source_check": [],
+  "status": {
+    "medical_review": "Approved for publication",
+    "reviewer": "д-р Иван Иванов",
+    "reviewed_at": "2026-10-06",
+    "expires_at": "2029-10-06",
+    "publishable": true,
+    "languages_signed": [
+      "bg",
+      "en"
+    ]
+  }
+}
