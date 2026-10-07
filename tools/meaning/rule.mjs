@@ -9,10 +9,7 @@
  * makes every vector computed afterwards one the app refuses, silently.
  */
 
-// packages/data/src/articles/published.ts
-import { z } from "zod";
-var MANIFEST_SCHEMA = "yourfem.manifest.v1";
-var ARTICLE_SCHEMA = "yourfem.article.v1";
+// packages/data/src/articles/terms.ts
 var ARTICLE_ROUTE = "article/";
 var VECTOR_RULE = 1;
 var ARTICLE_LAYER = Object.freeze({
@@ -21,83 +18,6 @@ var ARTICLE_LAYER = Object.freeze({
   doctor: "doctor"
 });
 var ARTICLE_LAYERS = Object.freeze(Object.values(ARTICLE_LAYER));
-var ID = z.string().regex(/^[A-Za-z0-9_]+$/);
-var SHA256 = z.string().regex(/^[0-9a-f]{64}$/);
-var LABEL = z.string().nullish().transform((value) => value ?? "");
-var TEXT = z.string().nullish().transform((value) => value ?? void 0);
-var TITLE = z.object({ bg: LABEL, en: LABEL });
-var LAYER_TEXTS = z.object({ bg: TEXT, en: TEXT }).transform(({ bg, en }) => ({
-  ...bg === void 0 ? {} : { bg },
-  ...en === void 0 ? {} : { en }
-}));
-var PIN = z.object({
-  id: z.string(),
-  citation: LABEL,
-  org: LABEL,
-  year: z.union([z.string(), z.number()]).nullish().transform((value) => value == null ? "" : String(value)),
-  url: LABEL,
-  rights: LABEL,
-  boundary: LABEL
-});
-var STATUS = z.object({
-  medical_review: LABEL,
-  reviewer: z.string().nullable(),
-  reviewer_qualification: z.string().nullish().transform((value) => value ?? null),
-  reviewed_at: z.string().nullable(),
-  expires_at: z.string().nullable(),
-  publishable: z.boolean(),
-  /** Which languages the reviewer read. `null` is the chain's "not recorded". */
-  languages_signed: z.array(z.string()).nullable()
-});
-var PUBLISHED_ARTICLE = z.object({
-  schema: z.literal(ARTICLE_SCHEMA),
-  id: ID,
-  cluster: LABEL,
-  title: TITLE,
-  layers: z.partialRecord(z.enum(ARTICLE_LAYER), LAYER_TEXTS),
-  pins: z.array(PIN),
-  /** Ids into `pins`: the sources the English text rests on. */
-  pins_en: z.array(z.string()).optional(),
-  see_also: z.array(ID).default([]),
-  source_check: z.array(z.string()).default([]),
-  status: STATUS
-});
-var ENTRY = z.object({
-  id: ID,
-  path: z.string().regex(/^articles\/[A-Za-z0-9_]+\.json$/),
-  sha256: SHA256,
-  bytes: z.number().int().nonnegative(),
-  content_sha256: SHA256,
-  reviewed_at: z.string(),
-  expires_at: z.string().nullable(),
-  title: TITLE
-});
-var VECTORS_ENTRY = z.object({
-  id: ID,
-  path: z.string().regex(/^meaning\/[A-Za-z0-9][A-Za-z0-9_.-]*\/[A-Za-z0-9_]+\.json$/),
-  sha256: SHA256,
-  bytes: z.number().int().nonnegative()
-});
-var VECTORS_SET = z.object({
-  /** `releaseTag` of the model: named by the hashes of its files. */
-  model: z.string().min(1),
-  rule: z.number().int().positive(),
-  files: z.array(VECTORS_ENTRY)
-});
-var MANIFEST = z.object({
-  schema: z.literal(MANIFEST_SCHEMA),
-  published_at: z.string(),
-  source: z.object({ schema: z.string(), generated_at: z.string() }),
-  articles: z.array(ENTRY),
-  revoked: z.array(z.object({ id: ID, reviewed_at: z.string(), revoked_at: z.string() })),
-  /**
-   * The vectors Yo searches by meaning (Д13). ABSENT OR UNREADABLE IS NONE: a
-   * text never waits for its vectors, so a list this schema cannot read costs
-   * the search by meaning and nothing else — the articles are still verified,
-   * still shown, still found by their titles.
-   */
-  meaning: z.array(VECTORS_SET).catch([])
-});
 var ARTICLE_LANGS = Object.freeze(["bg", "en"]);
 var UNRECORDED_SIGNATURE = Object.freeze(["bg"]);
 function signedInLanguage(status, lang) {
@@ -158,46 +78,46 @@ ${passage}`
 }
 
 // packages/core/src/yo/meaning.ts
-import { z as z2 } from "zod";
+import { z } from "zod";
 var MEANING_SCHEMA_ID = "yourfem/yo-meaning@1";
 var POOLING = Object.freeze({ mean: "mean", cls: "cls" });
 var HASH = /^[0-9a-f]{8}$/;
-var ChunkSchema = z2.object({
+var ChunkSchema = z.object({
   /** Where Yo leads: a route the app has, e.g. `week/24`. */
-  route: z2.string().min(1),
+  route: z.string().min(1),
   /** Which text the vector was computed from, e.g. `week/24/care_this_week/0`. */
-  ref: z2.string().min(1),
+  ref: z.string().min(1),
   /** `textHash` of that text when the vector was computed. */
-  hash: z2.string().regex(HASH),
+  hash: z.string().regex(HASH),
   /** The vector, int8, base64. */
-  v: z2.string().min(1),
+  v: z.string().min(1),
   /** What one int8 step is worth. Scoring does not need it; decoding does. */
-  s: z2.number().positive().finite()
+  s: z.number().positive().finite()
 });
 var MODEL_PATH = /^(?!.*(?:^|\/)\.\.(?:\/|$))[A-Za-z0-9_.-]+(?:\/[A-Za-z0-9_.-]+)*$/;
-var FileSchema = z2.object({
-  path: z2.string().regex(MODEL_PATH),
-  bytes: z2.int().positive(),
+var FileSchema = z.object({
+  path: z.string().regex(MODEL_PATH),
+  bytes: z.int().positive(),
   /** The app checks every downloaded file against this before using it. */
-  sha256: z2.string().regex(/^[0-9a-f]{64}$/)
+  sha256: z.string().regex(/^[0-9a-f]{64}$/)
 });
 function modelAsset(path) {
   return path.slice(path.lastIndexOf("/") + 1);
 }
-var FilesSchema = z2.array(FileSchema).min(1).refine((files) => new Set(files.map((f) => modelAsset(f.path))).size === files.length, {
+var FilesSchema = z.array(FileSchema).min(1).refine((files) => new Set(files.map((f) => modelAsset(f.path))).size === files.length, {
   message: "two files would share one release asset name"
 });
-var MeaningIndexSchema = z2.object({
-  schema: z2.literal(MEANING_SCHEMA_ID),
-  model: z2.object({
-    id: z2.string().min(1),
-    dtype: z2.string().min(1),
-    pooling: z2.enum(POOLING),
-    dim: z2.int().positive(),
+var MeaningIndexSchema = z.object({
+  schema: z.literal(MEANING_SCHEMA_ID),
+  model: z.object({
+    id: z.string().min(1),
+    dtype: z.string().min(1),
+    pooling: z.enum(POOLING),
+    dim: z.int().positive(),
     /** What goes before a question. e5 wants `query: `, bge-m3 wants nothing. */
-    query: z2.string(),
+    query: z.string(),
     /** What went before each text when the index was built. */
-    passage: z2.string(),
+    passage: z.string(),
     /**
      * The files that make up the model, as she downloads them. Not shipped in
      * the APK: Yo searches by meaning only after she asks for them.
@@ -207,15 +127,15 @@ var MeaningIndexSchema = z2.object({
      * Where releases live, ending in `/`. HTTPS only: the hashes make a swapped
      * file useless, but the address she is told about should be the one used.
      */
-    source: z2.url({ protocol: /^https$/ }).endsWith("/")
+    source: z.url({ protocol: /^https$/ }).endsWith("/")
   }),
   /**
    * The lowest similarity that still counts as a place worth offering. It is
    * a property of the MODEL — cosines from two models are not comparable — so it
    * travels with the vectors rather than living in a constant here.
    */
-  floor: z2.number().min(-1).max(1),
-  chunks: z2.array(ChunkSchema)
+  floor: z.number().min(-1).max(1),
+  chunks: z.array(ChunkSchema)
 });
 var MeaningModelSchema = MeaningIndexSchema.pick({ schema: true, model: true });
 function parseMeaningModel(raw) {
@@ -276,16 +196,16 @@ function chunkOf(text, vector) {
   };
 }
 var VECTORS_SCHEMA_ID = "yourfem/yo-vectors@1";
-var VectorFileSchema = z2.object({
-  schema: z2.literal(VECTORS_SCHEMA_ID),
+var VectorFileSchema = z.object({
+  schema: z.literal(VECTORS_SCHEMA_ID),
   /** `releaseTag` of the model the vectors came from. */
-  model: z2.string().min(1),
-  dim: z2.int().positive(),
+  model: z.string().min(1),
+  dim: z.int().positive(),
   /** Which cut of a text into passages the refs count by. */
-  rule: z2.int().positive(),
+  rule: z.int().positive(),
   /** The place every chunk leads to. */
-  route: z2.string().min(1),
-  chunks: z2.array(ChunkSchema)
+  route: z.string().min(1),
+  chunks: z.array(ChunkSchema)
 }).refine(
   (file) => file.chunks.every(
     (chunk) => chunk.route === file.route && chunk.ref.startsWith(`${file.route}/`)
