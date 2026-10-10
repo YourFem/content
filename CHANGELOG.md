@@ -3,6 +3,32 @@
 Written by `tools/publish.mjs` on every publish, newest first. What changed is
 worked out from the hashes; a person adds only the why, with `--note`.
 
+## 2026-10-10 · source generated 2026-10-10T19:57:00+00:00
+
+Added (2)
+- ART_BG_ANTENATAL_CARE_NHIF — Женска консултация и НЗОК: направления, покритие и документи
+- ART_PRENATAL_LAB_TESTS — Какво може да се изследва в пробата: QF-PCR, кариотип, микрочип и секвениране
+
+Changed (11)
+- ART_ANTENATAL_CARE — Проследяване на бременността: кога и колко прегледа
+- ART_EARLY_BLEEDING — Кървене в ранна бременност
+- ART_FETAL_ECHO — Сърцето на бебето: скрининг на прегледите и фетална ехокардиография
+- ART_FETAL_MORPHOLOGY — Ултразвук във втори триместър на бременността (около 18–23 г.с.)
+- ART_FIRST_TRIMESTER_SCREENING — Скрининг в първи триместър
+- ART_INV_004 — Инвазивна пренатална диагностика: хорионбиопсия, амниоцентеза и кордоцентеза
+- ART_PAT_SYM_NAUSEA — Гадене и повръщане при бременност
+- ART_PE_SCREENING — Скрининг за прееклампсия: ранна оценка на риска и как аспиринът може да помогне
+- ART_POSTTERM — Бременност след термина: късен термин и преносена бременност
+- ART_REDUCED_FETAL_MOVEMENTS — Движенията на бебето: какво да знаете и кога да потърсите помощ
+- ART_RH_ALLOIMMUNIZATION — Резус-фактор и бременност: какво означава „резус-сенсибилизация“ за вас
+
+Held at the signed version (3)
+- ART_CERVICAL_LENGTH — Измерване на дължината на маточната шийка: как проверката на шийката помага да се намали рискът от преждевременно раждане — the text changed after the signature of 2026-09-28; it needs a new one
+- ART_NIPT — НИПТ — the text changed after the signature of 2026-09-23; it needs a new one
+- ART_PAT_COMP_PREECLAMPSIA — Прееклампсия — the text changed after the signature of 2026-10-02; it needs a new one
+
+Note: 14 статии: iv107–iv130 (07–10.10) + нови NHIF и LAB_TESTS
+
 ## 2026-10-07 · source generated 2026-10-07T10:57:32+00:00
 
 Added (20)

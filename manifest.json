@@ -1,22 +1,35 @@
 {
   "schema": "yourfem.manifest.v1",
-  "published_at": "2026-10-07T13:51:04.567Z",
+  "published_at": "2026-10-10T20:50:09.515Z",
   "source": {
     "schema": "femai.articles.v1",
-    "generated_at": "2026-10-07T10:57:32+00:00"
+    "generated_at": "2026-10-10T19:57:00+00:00"
   },
   "articles": [
     {
       "id": "ART_ANTENATAL_CARE",
       "path": "articles/ART_ANTENATAL_CARE.json",
-      "sha256": "ced6e19fb246d44202c61883373d92ef3353c1eba55e95e37bdb908b8274d24b",
-      "bytes": 61465,
-      "content_sha256": "478fba05635d14afc08791d02bae0567344df597ca084d79da2520e9af9d5d20",
-      "reviewed_at": "2026-09-18",
-      "expires_at": "2029-09-18",
+      "sha256": "5ac017d3fc9a70a4c3a2561a478ed6af89f6af2c0b071f043282203cd2add34f",
+      "bytes": 104828,
+      "content_sha256": "5656fef0c0a19178a4c264ab834d076735670c33744a4afbacb91919fb5958de",
+      "reviewed_at": "2026-10-08",
+      "expires_at": "2029-10-08",
       "title": {
         "bg": "Проследяване на бременността: кога и колко прегледа",
         "en": "Antenatal care: when and how many appointments"
+      }
+    },
+    {
+      "id": "ART_BG_ANTENATAL_CARE_NHIF",
+      "path": "articles/ART_BG_ANTENATAL_CARE_NHIF.json",
+      "sha256": "4ea50c62aa5d53941fe1bd85624a4d3b3bfc8df3b033096a040bca2762511c2d",
+      "bytes": 38585,
+      "content_sha256": "39fa591fa7cba5cfa0340d7d000a7566fede495dee6b1c683c755830bea24788",
+      "reviewed_at": "2026-10-08",
+      "expires_at": "2029-10-08",
+      "title": {
+        "bg": "Женска консултация и НЗОК: направления, покритие и документи",
+        "en": "Antenatal care in Bulgaria: referrals, NHIF coverage and documents"
       }
     },
     {
@@ -35,11 +48,11 @@
     {
       "id": "ART_EARLY_BLEEDING",
       "path": "articles/ART_EARLY_BLEEDING.json",
-      "sha256": "662f9e389c7ffce5c890dce4247810b214e8143ff53c3535b5e6fcaad19090f5",
-      "bytes": 39093,
-      "content_sha256": "fec2a2c51801ec8a082b62c866cd543dae382110db76138f3ad5b70a879947ab",
-      "reviewed_at": "2026-09-14",
-      "expires_at": "2029-09-14",
+      "sha256": "27521d5e9e8bef885309361ce7ec80f7f51e82d4f7e8f9eda0faf0b00329c92f",
+      "bytes": 60925,
+      "content_sha256": "f4f53d5b6915589db199a042345e295867e2ccaae2642fa371e1981bf55be856",
+      "reviewed_at": "2026-10-07",
+      "expires_at": "2029-10-07",
       "title": {
         "bg": "Кървене в ранна бременност",
         "en": "Bleeding in early pregnancy"
@@ -74,11 +87,11 @@
     {
       "id": "ART_FETAL_ECHO",
       "path": "articles/ART_FETAL_ECHO.json",
-      "sha256": "a7c3ee35c9743c6912162ff4e08019fd17a38d89c191f808e7112f792f3bf65c",
-      "bytes": 99732,
-      "content_sha256": "2765e1085e136892bea59387d239b95ed5f652fe3af4bd89efa201c910e498ea",
-      "reviewed_at": "2026-09-21",
-      "expires_at": "2029-09-21",
+      "sha256": "ba1f84ca67eb4a74b018444e01647a932ec1f267ca90686aa4a23e954279caf8",
+      "bytes": 101205,
+      "content_sha256": "550e090b0377965bb34a19630c79997b6ecdd0db5eefc86f6b20150fc3b207e2",
+      "reviewed_at": "2026-10-08",
+      "expires_at": "2029-10-08",
       "title": {
         "bg": "Сърцето на бебето: скрининг на прегледите и фетална ехокардиография",
         "en": "Your Baby's Heart: Screening at Routine Scans and Fetal Echocardiography"
@@ -87,11 +100,11 @@
     {
       "id": "ART_FETAL_MORPHOLOGY",
       "path": "articles/ART_FETAL_MORPHOLOGY.json",
-      "sha256": "d6768389e52261e532e5fc4ea15871deffc98c9204868cbb0ddeb1f2baebcf52",
-      "bytes": 99186,
-      "content_sha256": "34b6807fec13f487c03088f3917644a8fd89a66603ac72dc6b2d434db4099c3b",
-      "reviewed_at": "2026-09-20",
-      "expires_at": "2029-09-20",
+      "sha256": "065edbd195c35adfd02626d8fe9737c7eabcc192c92ff788d0617d942275ce2a",
+      "bytes": 116905,
+      "content_sha256": "63ba358b63d3dbc9a89066bf44b0bf1c0e96c74b79367af77ba0dc43fc4765df",
+      "reviewed_at": "2026-10-08",
+      "expires_at": "2029-10-08",
       "title": {
         "bg": "Ултразвук във втори триместър на бременността (около 18–23 г.с.)",
         "en": "The Mid-Pregnancy Anomaly Scan (around 18–23 weeks)"
@@ -126,11 +139,11 @@
     {
       "id": "ART_FIRST_TRIMESTER_SCREENING",
       "path": "articles/ART_FIRST_TRIMESTER_SCREENING.json",
-      "sha256": "f89b3455d919162227bcfde7190e0a8bd3de403165518f39383b0f8b789b10a7",
-      "bytes": 94953,
-      "content_sha256": "e517d88f6a376b1e5e6da5229e81b6d3d45a0d15a365a7f91f404f7dab02fc3f",
-      "reviewed_at": "2026-09-19",
-      "expires_at": "2029-09-19",
+      "sha256": "fb26617ed878b8f0c9c7ff92afba9b849f6c8e533abdf3cad09eaf242cfe7993",
+      "bytes": 113295,
+      "content_sha256": "42a753e96871ecc39d91340975e08e913e7d461723742bf2ac7cd3f84023b4ca",
+      "reviewed_at": "2026-10-08",
+      "expires_at": "2029-10-08",
       "title": {
         "bg": "Скрининг в първи триместър",
         "en": "First-trimester screening"
@@ -152,11 +165,11 @@
     {
       "id": "ART_INV_004",
       "path": "articles/ART_INV_004.json",
-      "sha256": "629f235924ed96c1d674fb2d46dd9db703a208ffc8391b973ea1c39469618543",
-      "bytes": 121283,
-      "content_sha256": "16158576c174cc49659f10d5161dc65d95117c8712f08962c4bc78ab60b3b358",
-      "reviewed_at": "2026-09-21",
-      "expires_at": "2029-09-21",
+      "sha256": "4c1bef365d0ade09a04434e3a20b50da61f3986fa1d521b155e92eb750c99e5b",
+      "bytes": 123223,
+      "content_sha256": "0b26698d18c3fba3bd927b79944ba8c902f927bdf6d03b8f9af84e61a3839f79",
+      "reviewed_at": "2026-10-09",
+      "expires_at": "2029-10-09",
       "title": {
         "bg": "Инвазивна пренатална диагностика: хорионбиопсия, амниоцентеза и кордоцентеза",
         "en": "Invasive Prenatal Diagnosis: Chorionic Villus Sampling, Amniocentesis and Cordocentesis"
@@ -789,11 +802,11 @@
     {
       "id": "ART_PAT_SYM_NAUSEA",
       "path": "articles/ART_PAT_SYM_NAUSEA.json",
-      "sha256": "3fe8a6aefefd63ca2135cbd6d5c85b680e37068e175a2c063f1997838db08f08",
-      "bytes": 58716,
-      "content_sha256": "972b7ef69c7764f2ed139d31c4f17c502b7821d7fc931f0a8eb79847ad901336",
-      "reviewed_at": "2026-09-17",
-      "expires_at": "2029-09-17",
+      "sha256": "63f4fb4d80626a5677a54ee07ad42754703462e41b03135a482e0d8274cae046",
+      "bytes": 67792,
+      "content_sha256": "2767477594d4ac1fddd91a6dd3d93ab396915a07b8d02dace00fbb82393b90c9",
+      "reviewed_at": "2026-10-08",
+      "expires_at": "2029-10-08",
       "title": {
         "bg": "Гадене и повръщане при бременност",
         "en": "Nausea and vomiting in pregnancy"
@@ -802,11 +815,11 @@
     {
       "id": "ART_PE_SCREENING",
       "path": "articles/ART_PE_SCREENING.json",
-      "sha256": "d16c3899c64b02f298cfa42355b7dbb77a87824fb8d3156236a87bdc8f639ed3",
-      "bytes": 101441,
-      "content_sha256": "a07779214973e804eb0a1b91d7a3cbcb5392a937cb1e64976a950d027d8f1ded",
-      "reviewed_at": "2026-09-20",
-      "expires_at": "2029-09-20",
+      "sha256": "5f745c143f67b75cbd6caf434f148b014958682b060c334e31ba5e5db05f2093",
+      "bytes": 129743,
+      "content_sha256": "243449f81a0ded2e8f550ef3c1acc4637d6fb11d302a2337cb489a0fa043129b",
+      "reviewed_at": "2026-10-08",
+      "expires_at": "2029-10-08",
       "title": {
         "bg": "Скрининг за прееклампсия: ранна оценка на риска и как аспиринът може да помогне",
         "en": "Screening for pre-eclampsia: estimating your risk early, and how aspirin can help"
@@ -815,14 +828,14 @@
     {
       "id": "ART_POSTTERM",
       "path": "articles/ART_POSTTERM.json",
-      "sha256": "1a413d78d045e227220edd74b716933ddd0370a461ceb15b1937c4df3c3dfd79",
-      "bytes": 65640,
-      "content_sha256": "b7b38999240d45bee0e22b18217e3b0651cad120f61181f12d5efcc149fe2ab0",
-      "reviewed_at": "2026-09-22",
-      "expires_at": "2029-09-22",
+      "sha256": "26034f6cb740951054591b94485eebf2b7c21228c6767f65aaebb5810cd1d49c",
+      "bytes": 58663,
+      "content_sha256": "8931b203dd905cd98f0fb0f9f3a8f1505e5ecc751aaa8b62894494055cb096f0",
+      "reviewed_at": "2026-10-09",
+      "expires_at": "2029-10-09",
       "title": {
-        "bg": "Преносена и късносрочна бременност",
-        "en": "Post-term and late-term pregnancy"
+        "bg": "Бременност след термина: късен термин и преносена бременност",
+        "en": "Pregnancy past the due date: late-term and post-term pregnancy"
       }
     },
     {
@@ -852,26 +865,39 @@
       }
     },
     {
+      "id": "ART_PRENATAL_LAB_TESTS",
+      "path": "articles/ART_PRENATAL_LAB_TESTS.json",
+      "sha256": "d2c83875a94707c1716d341008917f16710deb8d50f5f26751106db364057278",
+      "bytes": 35715,
+      "content_sha256": "e7cda6b3f08f7e2487f64d6e2ca1d2365507d4b7d0f2f353f3e9c2549100dd61",
+      "reviewed_at": "2026-10-09",
+      "expires_at": "2029-10-09",
+      "title": {
+        "bg": "Какво може да се изследва в пробата: QF-PCR, кариотип, микрочип и секвениране",
+        "en": "What can be tested in the sample: QF-PCR, karyotype, microarray and sequencing"
+      }
+    },
+    {
       "id": "ART_REDUCED_FETAL_MOVEMENTS",
       "path": "articles/ART_REDUCED_FETAL_MOVEMENTS.json",
-      "sha256": "7233a615af5d08a98608c270c2be89bf138e00e2190512c2d4642b68da46e4e8",
-      "bytes": 90172,
-      "content_sha256": "84a88266d18070561141b33d556f755f8351972ba06897a55cddc20d86baf2ea",
-      "reviewed_at": "2026-09-22",
-      "expires_at": "2029-09-22",
+      "sha256": "669e36eab4b4a69d391addce40a5161afb1b5cd2ab7c953b264b70ac94faf542",
+      "bytes": 85750,
+      "content_sha256": "269259567770287ddc97e25f5a58dd5b746f480de9ede428b5d7b75b85023429",
+      "reviewed_at": "2026-10-10",
+      "expires_at": "2029-10-10",
       "title": {
-        "bg": "Движенията на бебето: какво да знаете при намалени движения",
-        "en": "Feeling your baby move: what to know about reduced movements"
+        "bg": "Движенията на бебето: какво да знаете и кога да потърсите помощ",
+        "en": "Your baby’s movements: what to know and when to seek help"
       }
     },
     {
       "id": "ART_RH_ALLOIMMUNIZATION",
       "path": "articles/ART_RH_ALLOIMMUNIZATION.json",
-      "sha256": "2ab436bb59d266601a78a1739a1aa71ec08044131b3c6e14248746c95db54d81",
-      "bytes": 114580,
-      "content_sha256": "22b7c4c1194db1a75aca2a77eb6966a8e7e5027d4d815b5c999f5c5ff5bbbcce",
-      "reviewed_at": "2026-09-18",
-      "expires_at": "2029-09-18",
+      "sha256": "838a5e97c5582d53a6c3508edaba7d755dad22c98f1c4451522476aadadee5bd",
+      "bytes": 125213,
+      "content_sha256": "835eb230a550062a9e3540fa67520db1afab41556d858cf16112e00dfcf38107",
+      "reviewed_at": "2026-10-08",
+      "expires_at": "2029-10-08",
       "title": {
         "bg": "Резус-фактор и бременност: какво означава „резус-сенсибилизация“ за вас",
         "en": "Rh Factor and Pregnancy: What \"Rh Sensitisation\" Means for You"
@@ -900,8 +926,14 @@
         {
           "id": "ART_ANTENATAL_CARE",
           "path": "meaning/yo-model-12da84b9-r1/ART_ANTENATAL_CARE.json",
-          "sha256": "1e7375ee30a9ce8c1559af6dbd82fbb6b466047d9ed1adad02a0bbfa0edc755f",
-          "bytes": 21477
+          "sha256": "3f275f78044a9da4ad16cf92d967f67648d2c2234b5cba21abd748f3401e1be6",
+          "bytes": 24524
+        },
+        {
+          "id": "ART_BG_ANTENATAL_CARE_NHIF",
+          "path": "meaning/yo-model-12da84b9-r1/ART_BG_ANTENATAL_CARE_NHIF.json",
+          "sha256": "f405c4d4cebb43c24e3618a863e9c7f557a36c2068cd9cd90fa668db730af42f",
+          "bytes": 15548
         },
         {
           "id": "ART_CERVICAL_LENGTH",
@@ -912,8 +944,8 @@
         {
           "id": "ART_EARLY_BLEEDING",
           "path": "meaning/yo-model-12da84b9-r1/ART_EARLY_BLEEDING.json",
-          "sha256": "403eca6b1e1d8017effb771986162987b142b42f19b04066cb0565afbdb67659",
-          "bytes": 18427
+          "sha256": "6265cb6ec6b344dd997e43830bfcb4bc3047bde96221f3f339161abcf50f8e84",
+          "bytes": 18428
         },
         {
           "id": "ART_EARLY_FETAL_MORPHOLOGY",
@@ -930,14 +962,14 @@
         {
           "id": "ART_FETAL_ECHO",
           "path": "meaning/yo-model-12da84b9-r1/ART_FETAL_ECHO.json",
-          "sha256": "25edfb007e0b320d3516892a2696bc352c40c0b4bd1af7e5ce3bbb32bd4d0e0e",
-          "bytes": 28940
+          "sha256": "315aaec68ca56e1b971c1b2c7b6899ad21175ffb8f66cbde40abedef3ade928b",
+          "bytes": 31971
         },
         {
           "id": "ART_FETAL_MORPHOLOGY",
           "path": "meaning/yo-model-12da84b9-r1/ART_FETAL_MORPHOLOGY.json",
-          "sha256": "490bac441751b525a79e784f3e95d927d53c0112da9059b337ff5dc90a6087b1",
-          "bytes": 30700
+          "sha256": "d31c6b1d4dd2507b8d71f768bedb2c0cc2368e6577d9bcb2299c36ef56baef1b",
+          "bytes": 30702
         },
         {
           "id": "ART_FETAL_SURVEILLANCE",
@@ -954,8 +986,8 @@
         {
           "id": "ART_FIRST_TRIMESTER_SCREENING",
           "path": "meaning/yo-model-12da84b9-r1/ART_FIRST_TRIMESTER_SCREENING.json",
-          "sha256": "591c911479f34c92457e1ea7dab45a140cfb3050a5419dcb200482d9e11a9fd0",
-          "bytes": 26434
+          "sha256": "450ddb15dce73aaee9805d7c8862d3b9454941c628fbdb99281be845b6369adc",
+          "bytes": 40347
         },
         {
           "id": "ART_GESTATIONAL_WEIGHT_GAIN",
@@ -966,8 +998,8 @@
         {
           "id": "ART_INV_004",
           "path": "meaning/yo-model-12da84b9-r1/ART_INV_004.json",
-          "sha256": "e5cd77eb35fb290d751e7f4e1f3832b904e077dee1da9af14f12ce9ab180578c",
-          "bytes": 43916
+          "sha256": "5adbd17200db6bbe416378b7d52f9e0b93c23575099cf4a5fc0c9c7639c56ae3",
+          "bytes": 36370
         },
         {
           "id": "ART_MENOPAUSE",
@@ -1260,20 +1292,20 @@
         {
           "id": "ART_PAT_SYM_NAUSEA",
           "path": "meaning/yo-model-12da84b9-r1/ART_PAT_SYM_NAUSEA.json",
-          "sha256": "712d984cec8f64fe1926ecd05450e92168acb57453ff8f41925dbe8edfc8a2c3",
-          "bytes": 16902
+          "sha256": "7325dae2d0e339a7049934b2228ba8509a4158171149116bc17744e126152e92",
+          "bytes": 22999
         },
         {
           "id": "ART_PE_SCREENING",
           "path": "meaning/yo-model-12da84b9-r1/ART_PE_SCREENING.json",
-          "sha256": "c6c9c9b24928c493c73397597f0783d6b680f28ae12684ad782c08f4eeab0586",
-          "bytes": 36618
+          "sha256": "321e86d2db57160c36c5abd629d313bfccdf5ea58b323c152daa5ca05c05b014",
+          "bytes": 65492
         },
         {
           "id": "ART_POSTTERM",
           "path": "meaning/yo-model-12da84b9-r1/ART_POSTTERM.json",
-          "sha256": "3de4deaf72c65002384487dfd05a464090d888b85b1b7b68cc753e0640b3fa5c",
-          "bytes": 40955
+          "sha256": "f9467274c12551d4c9348b114eb388277be257489ad8939705651c6a52f1c29f",
+          "bytes": 25836
         },
         {
           "id": "ART_PREGNANCY_OVERVIEW",
@@ -1288,16 +1320,22 @@
           "bytes": 83957
         },
         {
+          "id": "ART_PRENATAL_LAB_TESTS",
+          "path": "meaning/yo-model-12da84b9-r1/ART_PRENATAL_LAB_TESTS.json",
+          "sha256": "ae1a69b5abb4c8ffe7e79620c3817993863ecf6311212ea03282631d37154290",
+          "bytes": 16997
+        },
+        {
           "id": "ART_REDUCED_FETAL_MOVEMENTS",
           "path": "meaning/yo-model-12da84b9-r1/ART_REDUCED_FETAL_MOVEMENTS.json",
-          "sha256": "5ebe69557312250073be975308f2737979477a080fddf33045b1eecda99930c9",
-          "bytes": 26360
+          "sha256": "1abdab6889b9861675b6847fc10b8c846a39397130e0b7927a2259831963154b",
+          "bytes": 20194
         },
         {
           "id": "ART_RH_ALLOIMMUNIZATION",
           "path": "meaning/yo-model-12da84b9-r1/ART_RH_ALLOIMMUNIZATION.json",
-          "sha256": "3f1fd0f5e9e064fdaaf28a998963282a89008d4a494fd747c77bb9f43a74644e",
-          "bytes": 21616
+          "sha256": "81da946c0ae3d0e05f13e239af2bf8f69d4617bc5a440668f5d6602558d3103b",
+          "bytes": 23151
         },
         {
           "id": "ART_VACCINES_PREGNANCY",
