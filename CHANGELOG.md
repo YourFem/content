@@ -3,6 +3,17 @@
 Written by `tools/publish.mjs` on every publish, newest first. What changed is
 worked out from the hashes; a person adds only the why, with `--note`.
 
+## 2026-10-11 · source generated 2026-10-11T14:40:17+00:00
+
+Changed (1)
+- ART_CERVICAL_LENGTH — Измерване на дължината на маточната шийка: как помага да се оцени и намали рискът от преждевременно раждане
+
+Held at the signed version (2)
+- ART_NIPT — НИПТ — the text changed after the signature of 2026-09-23; it needs a new one
+- ART_PAT_COMP_PREECLAMPSIA — Прееклампсия — the text changed after the signature of 2026-10-02; it needs a new one
+
+Note: ART_CERVICAL_LENGTH v2 (iv131/iv132)
+
 ## 2026-10-10 · source generated 2026-10-10T19:57:00+00:00
 
 Added (2)

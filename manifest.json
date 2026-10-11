@@ -1,9 +1,9 @@
 {
   "schema": "yourfem.manifest.v1",
-  "published_at": "2026-10-10T20:50:09.515Z",
+  "published_at": "2026-10-11T17:33:06.811Z",
   "source": {
     "schema": "femai.articles.v1",
-    "generated_at": "2026-10-10T19:57:00+00:00"
+    "generated_at": "2026-10-11T14:40:17+00:00"
   },
   "articles": [
     {
@@ -35,14 +35,14 @@
     {
       "id": "ART_CERVICAL_LENGTH",
       "path": "articles/ART_CERVICAL_LENGTH.json",
-      "sha256": "ac132d6eb9629b4714a1ccc99834b3a7dd0f6037bd16f4350a7a30ee20376598",
-      "bytes": 99719,
-      "content_sha256": "e2d416b606245faaf7891465bb43a1da81558c3cbc0e29df4fb945ae12dff85b",
-      "reviewed_at": "2026-09-28",
-      "expires_at": "2029-09-28",
+      "sha256": "c5f4d7350d897aa3f1d00cdaf0eacc796d072cd14c1cc06f137b45816a2c62c1",
+      "bytes": 93316,
+      "content_sha256": "556bfa73d164df1650073e8cff61860733a29cab75f91ce579a7fad29495e8f7",
+      "reviewed_at": "2026-10-10",
+      "expires_at": "2029-10-10",
       "title": {
-        "bg": "Измерване на дължината на маточната шийка: как проверката на шийката помага да се намали рискът от преждевременно раждане",
-        "en": "Cervical length screening: checking your cervix to lower the risk of early birth"
+        "bg": "Измерване на дължината на маточната шийка: как помага да се оцени и намали рискът от преждевременно раждане",
+        "en": "Cervical length measurement: how it helps assess and reduce the risk of preterm birth"
       }
     },
     {
@@ -938,8 +938,8 @@
         {
           "id": "ART_CERVICAL_LENGTH",
           "path": "meaning/yo-model-12da84b9-r1/ART_CERVICAL_LENGTH.json",
-          "sha256": "ff5e34b4db2ed17f661b385dd45c8b1574fd24006ea93159af5fda8b1dd9eb0c",
-          "bytes": 27607
+          "sha256": "0f426f4f7f0794b58855912a9fcd532694203ca72e3885c26edc208653b5fc5a",
+          "bytes": 29134
         },
         {
           "id": "ART_EARLY_BLEEDING",
