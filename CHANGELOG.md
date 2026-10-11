@@ -3,6 +3,16 @@
 Written by `tools/publish.mjs` on every publish, newest first. What changed is
 worked out from the hashes; a person adds only the why, with `--note`.
 
+## 2026-10-11 · source generated 2026-10-11T18:21:50+00:00
+
+Changed (1)
+- ART_NIPT — НИПТ: неинвазивният пренатален тест — какво показва и какво не
+
+Held at the signed version (1)
+- ART_PAT_COMP_PREECLAMPSIA — Прееклампсия — the text changed after the signature of 2026-10-02; it needs a new one
+
+Note: ART_NIPT v2 (iv133/iv134)
+
 ## 2026-10-11 · source generated 2026-10-11T14:40:17+00:00
 
 Changed (1)

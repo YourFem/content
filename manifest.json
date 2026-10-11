@@ -1,9 +1,9 @@
 {
   "schema": "yourfem.manifest.v1",
-  "published_at": "2026-10-11T17:33:06.811Z",
+  "published_at": "2026-10-11T20:43:19.844Z",
   "source": {
     "schema": "femai.articles.v1",
-    "generated_at": "2026-10-11T14:40:17+00:00"
+    "generated_at": "2026-10-11T18:21:50+00:00"
   },
   "articles": [
     {
@@ -191,14 +191,14 @@
     {
       "id": "ART_NIPT",
       "path": "articles/ART_NIPT.json",
-      "sha256": "fd08c148f12d0b899369d9bde24dd71e447b54f665cce852d62d285f466853ea",
-      "bytes": 52907,
-      "content_sha256": "57f276dae185ad04991e3dd96a3a69e959258ebbc07d3321fb5d09d01dc54443",
-      "reviewed_at": "2026-09-23",
-      "expires_at": "2029-09-23",
+      "sha256": "d4c38ac3592e4325061b295f9a3926de2d5e1489e863dae7de122c8b8b96a7ed",
+      "bytes": 69334,
+      "content_sha256": "cc0bacf81de9dde3f02502ddb53e817100b9ad19296398fc681f9ae43bb1aa77",
+      "reviewed_at": "2026-10-11",
+      "expires_at": "2029-10-11",
       "title": {
-        "bg": "НИПТ",
-        "en": "NIPT"
+        "bg": "НИПТ: неинвазивният пренатален тест — какво показва и какво не",
+        "en": "NIPT: the non-invasive prenatal test — what it shows and what it does not"
       }
     },
     {
@@ -1010,8 +1010,8 @@
         {
           "id": "ART_NIPT",
           "path": "meaning/yo-model-12da84b9-r1/ART_NIPT.json",
-          "sha256": "91691102a90bed2cdc74f640dae08835a84535dee21773b1c68e29b1695727d4",
-          "bytes": 25699
+          "sha256": "dd5094e422915498a85af683c2282e7164014f55d2bc9566459caf170fc5bbf3",
+          "bytes": 28701
         },
         {
           "id": "ART_OB_013",
