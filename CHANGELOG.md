@@ -3,6 +3,14 @@
 Written by `tools/publish.mjs` on every publish, newest first. What changed is
 worked out from the hashes; a person adds only the why, with `--note`.
 
+## 2026-10-12 · source generated 2026-10-12T08:10:42+00:00
+
+Changed (2)
+- ART_BG_ANTENATAL_CARE_NHIF — Женска консултация и НЗОК: направления, покритие и документи
+- ART_FETAL_ECHO — Сърцето на бебето: скрининг на прегледите и фетална ехокардиография
+
+Note: NHIF статия v2 (iv137): фетална ехокардиография, НГЛ, неосигурени, потребителска такса; FETAL_ECHO BG абзац НЗОК (iv138)
+
 ## 2026-10-12 · source generated 2026-10-11T21:59:08+00:00
 
 Changed (1)

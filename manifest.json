@@ -1,9 +1,9 @@
 {
   "schema": "yourfem.manifest.v1",
-  "published_at": "2026-10-12T06:24:17.326Z",
+  "published_at": "2026-10-12T08:36:12.663Z",
   "source": {
     "schema": "femai.articles.v1",
-    "generated_at": "2026-10-11T21:59:08+00:00"
+    "generated_at": "2026-10-12T08:10:42+00:00"
   },
   "articles": [
     {
@@ -22,11 +22,11 @@
     {
       "id": "ART_BG_ANTENATAL_CARE_NHIF",
       "path": "articles/ART_BG_ANTENATAL_CARE_NHIF.json",
-      "sha256": "4ea50c62aa5d53941fe1bd85624a4d3b3bfc8df3b033096a040bca2762511c2d",
-      "bytes": 38585,
-      "content_sha256": "39fa591fa7cba5cfa0340d7d000a7566fede495dee6b1c683c755830bea24788",
-      "reviewed_at": "2026-10-08",
-      "expires_at": "2029-10-08",
+      "sha256": "0521f9e4bd671442776e2437bef1616f4c2bc5d56fef8dd7e9f1c20bbf23e50a",
+      "bytes": 59048,
+      "content_sha256": "9c5e4bacde99ae03f2de607af0369474be20eb4c9fb86667e44c33a9436ad034",
+      "reviewed_at": "2026-10-12",
+      "expires_at": "2029-10-12",
       "title": {
         "bg": "Женска консултация и НЗОК: направления, покритие и документи",
         "en": "Antenatal care in Bulgaria: referrals, NHIF coverage and documents"
@@ -87,11 +87,11 @@
     {
       "id": "ART_FETAL_ECHO",
       "path": "articles/ART_FETAL_ECHO.json",
-      "sha256": "ba1f84ca67eb4a74b018444e01647a932ec1f267ca90686aa4a23e954279caf8",
-      "bytes": 101205,
-      "content_sha256": "550e090b0377965bb34a19630c79997b6ecdd0db5eefc86f6b20150fc3b207e2",
-      "reviewed_at": "2026-10-08",
-      "expires_at": "2029-10-08",
+      "sha256": "3412831a2cb635f1ff2a2edd7cc7e3acd4f9d4b0df2ec58cf26dd4a4d41a0ce6",
+      "bytes": 100591,
+      "content_sha256": "36d0debc62622d3324c1a5477620de70305e2ecc1fe50c67de26a00be4f97dc8",
+      "reviewed_at": "2026-10-12",
+      "expires_at": "2029-10-12",
       "title": {
         "bg": "Сърцето на бебето: скрининг на прегледите и фетална ехокардиография",
         "en": "Your Baby's Heart: Screening at Routine Scans and Fetal Echocardiography"
@@ -932,8 +932,8 @@
         {
           "id": "ART_BG_ANTENATAL_CARE_NHIF",
           "path": "meaning/yo-model-12da84b9-r1/ART_BG_ANTENATAL_CARE_NHIF.json",
-          "sha256": "f405c4d4cebb43c24e3618a863e9c7f557a36c2068cd9cd90fa668db730af42f",
-          "bytes": 15548
+          "sha256": "3f6b63735e58ee4f99b22b3404aa3f4e586508993e5830dff99cfd396c8ce85d",
+          "bytes": 24787
         },
         {
           "id": "ART_CERVICAL_LENGTH",
@@ -962,8 +962,8 @@
         {
           "id": "ART_FETAL_ECHO",
           "path": "meaning/yo-model-12da84b9-r1/ART_FETAL_ECHO.json",
-          "sha256": "315aaec68ca56e1b971c1b2c7b6899ad21175ffb8f66cbde40abedef3ade928b",
-          "bytes": 31971
+          "sha256": "693b891f03ab49c069d5aea2765b8a04e22c7b84dbc5d3ee8f53b3ff4bbd836d",
+          "bytes": 31970
         },
         {
           "id": "ART_FETAL_MORPHOLOGY",
