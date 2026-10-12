@@ -1,9 +1,9 @@
 {
   "schema": "yourfem.manifest.v1",
-  "published_at": "2026-10-11T20:43:19.844Z",
+  "published_at": "2026-10-12T06:24:17.326Z",
   "source": {
     "schema": "femai.articles.v1",
-    "generated_at": "2026-10-11T18:21:50+00:00"
+    "generated_at": "2026-10-11T21:59:08+00:00"
   },
   "articles": [
     {
@@ -321,14 +321,14 @@
     {
       "id": "ART_PAT_COMP_PREECLAMPSIA",
       "path": "articles/ART_PAT_COMP_PREECLAMPSIA.json",
-      "sha256": "b6c25a227a3d9392166623a0cad54ed7fae80c06af0bd833c046488fc61b4a4a",
-      "bytes": 83123,
-      "content_sha256": "631605596edb67e543c58e6a393f58c3f49e8cc7ad81b0f1e3dbf4097637cefc",
-      "reviewed_at": "2026-10-02",
-      "expires_at": "2029-10-02",
+      "sha256": "d256a9c1978099aeb6be0c5704cdc1c2231707e5aa1e0d3cd90acc97137338a6",
+      "bytes": 77008,
+      "content_sha256": "0d57ed4452d93791f7978c3cbad9e5611a826c984cfe40944a439b076bdf7bb6",
+      "reviewed_at": "2026-10-11",
+      "expires_at": "2029-10-11",
       "title": {
-        "bg": "Прееклампсия",
-        "en": "Pre-eclampsia"
+        "bg": "Прееклампсия: диагноза, лечение и кога се планира раждането",
+        "en": "Pre-eclampsia: diagnosis, treatment and when birth is planned"
       }
     },
     {
@@ -1070,8 +1070,8 @@
         {
           "id": "ART_PAT_COMP_PREECLAMPSIA",
           "path": "meaning/yo-model-12da84b9-r1/ART_PAT_COMP_PREECLAMPSIA.json",
-          "sha256": "7353e032d072731d681cdbae1ae48a0fa9409dbb87fb9283c2a5437cf53bb017",
-          "bytes": 37054
+          "sha256": "87f5aaeb8d7421ca9329132d8ca9cea6a0844bf2455ddfe5bbea99c6f2ce36e6",
+          "bytes": 35520
         },
         {
           "id": "ART_PAT_DAILY_HAIR_DYE",

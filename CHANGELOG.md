@@ -3,6 +3,13 @@
 Written by `tools/publish.mjs` on every publish, newest first. What changed is
 worked out from the hashes; a person adds only the why, with `--note`.
 
+## 2026-10-12 · source generated 2026-10-11T21:59:08+00:00
+
+Changed (1)
+- ART_PAT_COMP_PREECLAMPSIA — Прееклампсия: диагноза, лечение и кога се планира раждането
+
+Note: ART_PAT_COMP_PREECLAMPSIA v2 (iv135/iv136)
+
 ## 2026-10-11 · source generated 2026-10-11T18:21:50+00:00
 
 Changed (1)
