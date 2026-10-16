@@ -1,9 +1,9 @@
 {
   "schema": "yourfem.manifest.v1",
-  "published_at": "2026-10-16T11:49:39.409Z",
+  "published_at": "2026-10-16T12:30:41.480Z",
   "source": {
     "schema": "femai.articles.v1",
-    "generated_at": "2026-10-16T10:59:44+00:00"
+    "generated_at": "2026-10-16T11:51:34+00:00"
   },
   "articles": [
     {
@@ -789,11 +789,11 @@
     {
       "id": "ART_PAT_PP_WARNING_SIGNS",
       "path": "articles/ART_PAT_PP_WARNING_SIGNS.json",
-      "sha256": "b26ea83c8b12fc3c5892d899a70ead3bb94490cc23cbc6b008b632cd6d4cfc79",
-      "bytes": 14244,
-      "content_sha256": "016b5a4dcf20f7945730c0827a6e27dd125d57f931c891d55f532f23d3aeebdb",
-      "reviewed_at": "2026-09-10",
-      "expires_at": "2029-09-10",
+      "sha256": "9276ff2ea5f2eb7019041a63bfd0567bd99e5fd82917de2984a7b7485c643cd4",
+      "bytes": 19504,
+      "content_sha256": "1be8f12e1c4565116321686bb353a909ebba14ec96423656763aeb13ccfdb0c5",
+      "reviewed_at": "2026-10-16",
+      "expires_at": "2029-10-16",
       "title": {
         "bg": "Тревожни признаци след раждане — кога да потърсите спешна помощ",
         "en": "Urgent Postpartum Warning Signs — When to Seek Emergency Care"
@@ -1286,8 +1286,8 @@
         {
           "id": "ART_PAT_PP_WARNING_SIGNS",
           "path": "meaning/yo-model-12da84b9-r1/ART_PAT_PP_WARNING_SIGNS.json",
-          "sha256": "0f9fc5c2071ed8614730125743c563089bef2e18e6c97801d5073c656453e3e4",
-          "bytes": 4762
+          "sha256": "e6e2b67165f7288ce85cbeb3d5ebd4c7ae7885bb26d37aa3f7959fda60b0f109",
+          "bytes": 7830
         },
         {
           "id": "ART_PAT_SYM_NAUSEA",

@@ -3,6 +3,13 @@
 Written by `tools/publish.mjs` on every publish, newest first. What changed is
 worked out from the hashes; a person adds only the why, with `--note`.
 
+## 2026-10-16 · source generated 2026-10-16T11:51:34+00:00
+
+Changed (1)
+- ART_PAT_PP_WARNING_SIGNS — Тревожни признаци след раждане — кога да потърсите спешна помощ
+
+Note: iv151/iv152 PP_WARNING_SIGNS: speshen red, 112, krvene, tazova bolka
+
 ## 2026-10-16 · source generated 2026-10-16T10:59:44+00:00
 
 Changed (2)
