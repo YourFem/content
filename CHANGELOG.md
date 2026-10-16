@@ -3,6 +3,14 @@
 Written by `tools/publish.mjs` on every publish, newest first. What changed is
 worked out from the hashes; a person adds only the why, with `--note`.
 
+## 2026-10-16 · source generated 2026-10-16T10:59:44+00:00
+
+Changed (2)
+- ART_EARLY_BLEEDING — Кървене в ранна бременност
+- ART_VACCINES_PREGNANCY — Ваксинация през бременността
+
+Note: iv139 zatsapvane v sedmitsite; iv140/iv149 EARLY_BLEEDING; iv148/iv150 zhivi vaksini i karmene
+
 ## 2026-10-12 · source generated 2026-10-12T08:10:42+00:00
 
 Changed (2)

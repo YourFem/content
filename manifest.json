@@ -1,9 +1,9 @@
 {
   "schema": "yourfem.manifest.v1",
-  "published_at": "2026-10-12T08:36:12.663Z",
+  "published_at": "2026-10-16T11:49:39.409Z",
   "source": {
     "schema": "femai.articles.v1",
-    "generated_at": "2026-10-12T08:10:42+00:00"
+    "generated_at": "2026-10-16T10:59:44+00:00"
   },
   "articles": [
     {
@@ -48,11 +48,11 @@
     {
       "id": "ART_EARLY_BLEEDING",
       "path": "articles/ART_EARLY_BLEEDING.json",
-      "sha256": "27521d5e9e8bef885309361ce7ec80f7f51e82d4f7e8f9eda0faf0b00329c92f",
-      "bytes": 60925,
-      "content_sha256": "f4f53d5b6915589db199a042345e295867e2ccaae2642fa371e1981bf55be856",
-      "reviewed_at": "2026-10-07",
-      "expires_at": "2029-10-07",
+      "sha256": "72d9d9c3015caad47bd698bb8d4538b08b736247e90b51715337de8996101a8f",
+      "bytes": 61633,
+      "content_sha256": "868675f22d63a13e2a0172e8131b3cb5a9e2531d98ec734165abfc1833295f8b",
+      "reviewed_at": "2026-10-16",
+      "expires_at": "2029-10-16",
       "title": {
         "bg": "Кървене в ранна бременност",
         "en": "Bleeding in early pregnancy"
@@ -906,11 +906,11 @@
     {
       "id": "ART_VACCINES_PREGNANCY",
       "path": "articles/ART_VACCINES_PREGNANCY.json",
-      "sha256": "f0b753a08a6ed705dc7ba7038073494bda18695afe50943783f8aedec5ce0924",
-      "bytes": 43012,
-      "content_sha256": "6e69376c3eeb398b3258622d95f93e79200b13cfa44f501955f77d3a7cab25c1",
-      "reviewed_at": "2026-09-22",
-      "expires_at": "2029-09-22",
+      "sha256": "51fde018634da921bed0e1c66bfa21d5211aaccbaa22a69629b3c27d34b3e4b4",
+      "bytes": 46959,
+      "content_sha256": "4054a296f4490e7970a1b11612a50df119251f830365c34419764d91cd19f1aa",
+      "reviewed_at": "2026-10-16",
+      "expires_at": "2029-10-16",
       "title": {
         "bg": "Ваксинация през бременността",
         "en": "Vaccines in pregnancy"
@@ -944,8 +944,8 @@
         {
           "id": "ART_EARLY_BLEEDING",
           "path": "meaning/yo-model-12da84b9-r1/ART_EARLY_BLEEDING.json",
-          "sha256": "6265cb6ec6b344dd997e43830bfcb4bc3047bde96221f3f339161abcf50f8e84",
-          "bytes": 18428
+          "sha256": "055710abfd46f398ea798351a495801e11e21a16366bd9210fb084eb919985bd",
+          "bytes": 18427
         },
         {
           "id": "ART_EARLY_FETAL_MORPHOLOGY",
@@ -1340,8 +1340,8 @@
         {
           "id": "ART_VACCINES_PREGNANCY",
           "path": "meaning/yo-model-12da84b9-r1/ART_VACCINES_PREGNANCY.json",
-          "sha256": "e7b00a80429aa6e0820c7ed5ebfe1ef186753a086b9c5cc2c52ad9c20478e1cf",
-          "bytes": 26186
+          "sha256": "a0bbf42d001db353c9b0b9c3d4ae55a303e55b90b71b4c95c200c01cb38dd8b3",
+          "bytes": 27718
         }
       ]
     }
