@@ -1,7 +1,6 @@
 # Changelog
 
-Written by `tools/publish.mjs` on every publish, newest first. What changed is
-worked out from the hashes; a person adds only the why, with `--note`.
+What was published, newest first.
 
 ## 2026-10-16 · source generated 2026-10-16T11:51:34+00:00
 

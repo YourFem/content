@@ -1,4 +1,3 @@
+# Copies made before 18.10.2026 kept the publisher here; nothing of it is published.
 node_modules/
-# The model the vectors are computed with: 0.6 GB, downloaded and checked by
-# `npm run meaning:setup`. It lives in this repository's release, not in its tree.
-tools/meaning/.model/
+tools/
